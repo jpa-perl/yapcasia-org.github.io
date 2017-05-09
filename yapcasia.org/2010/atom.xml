@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>YAPC::Asia Tokyo 2010</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/" />
+    <link rel="self" type="application/atom+xml" href="http://yapcasia.org/2010/atom.xml" />
+    <id>tag:yapcasia.org,2012-02-16:/2010//4</id>
+    <updated>2012-02-16T00:56:47Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 5.12</generator>
+
+<entry>
+    <title>Tells us your YAPC::Asia experience | 是非ご感想をお聞かせください</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/tells-us-your-yapcasia-experience.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.51</id>
+
+    <published>2010-10-19T03:50:54Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>YAPC::Asia Tokyo 2010も大盛況のうちに終わりました。これもひ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[YAPC::Asia Tokyo 2010も大盛況のうちに終わりました。これもひとえに足を運んでいただいた皆様のおかげです。<div><br /></div><div>参加者の皆様については是非<a href="http://spreadsheets.google.com/a/perlassociation.org/viewform?formkey=dDJjQ0dIWHhwU3ZYM3RJM3NkcmJmRFE6MQ">感想アンケートフォーム</a>よりご感想をお寄せ下さい。次回以降のYAPC開催にあたって参考にさせていただきます</div><div><br /></div><div>それではまた次回！開催地の立候補やオーガナイザーに立候補してもいいという方がもしいましたら是非 yapc@perlassociation.orgまでご連絡ください！</div><div><br /></div><div>なお、録画や資料に関しては近々本サイトでまとめる予定です。</div><div><br /></div><div>---</div><div><br /></div><div>YAPC::Asia Tokyo 2010 is over! Thanks to all of you who came, it was a great success.&nbsp;</div><div><br /></div><div>At this moment we'd like to ask you to take your time and <a href="http://spreadsheets.google.com/a/perlassociation.org/viewform?formkey=dDJjQ0dIWHhwU3ZYM3RJM3NkcmJmRFE6MQ">fill out our feedback form</a>. We'll use your comments to improve the next event.</div><div><br /></div><div>Se eyou at next YAPC!</div><div><br /></div><div>P.S. We're planning to collect the movies and slides from the conference and put it up on this site soonish. stay tuned.</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>チケット番号をお持ちで、QRコードを持ってない方</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/qr.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.50</id>
+
+    <published>2010-10-14T10:40:23Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>YAPC::Asia のチケットPaypal経由で購入されて、QRコードを表示す...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[YAPC::Asia のチケットPaypal経由で購入されて、QRコードを表示するURLを持っていない方は以下のURLからアクセスすることができます。<div><br /></div><blockquote class="webkit-indent-blockquote" style="margin: 0 0 0 40px; border: none; padding: 0px;"><div>http://yapcasia.org/order/view/[ ここにチケット番号 ]</div></blockquote><div><br /></div><div>例えばAABBCCというチケット番号の場合は</div><div><br /></div><blockquote class="webkit-indent-blockquote" style="margin: 0 0 0 40px; border: none; padding: 0px;"><div>http://yapcasia.org/order/view/AABBCC</div></blockquote><div><br /></div>とすることでQRコードを表示することができます。<br /><div><br /></div><div>チェックインの際はQRコードがないと大変手間がかかりますので、必ずQRコードをお持ちになるようにしてください。</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia Pre-conference Meetup | YAPC::Asia 前夜祭</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-pre-conference-meetup-yapcasia.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.49</id>
+
+    <published>2010-10-13T22:57:50Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>(English follows Japanese)YAPCもいよいよ明日に迫っ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<div>(English follows Japanese)</div><div>YAPCもいよいよ明日に迫ってきました！本日はyusukebeこと和田裕介氏プロデュースによるYAPC::Asia 前夜祭が午後6時より100年記念館フェライトホールにおいて開催されます。様々なWAFの紹介や、ITジャーナリストの岡田有花さんが登壇する対談セッションもあります。</div><div><br /></div><div>YAPC::Asia の本番チケットをすでに購入済みの方は無料で前夜祭に参加いただけます。前夜祭のみの参加の場合は1000円、会場でお支払いいただきます。すでにYAPC::Asia 本番チケットを持っている場合はQRコードを持ってくるのをお忘れ無く！</div><div><br /></div><div>詳しくはこちらをどうぞ：</div><div><br /></div><div><ul><li><a href="http://atnd.org/events/8375">YAPC::Asia 2010 前夜祭: ATND</a></li><li><a href="http://yusukebe.com/archives/10/10/14/061257.html">本日はYAPC::Asia 2010 前夜祭 岡田有花たんもくるよ！ - ゆーすけべー日記</a></li></ul></div><div><br /></div>There's going to be a pre-conference meetup at the centennial hall, starting at 18:00pm. There's going to be sessions presenting various web application frameworks written in Perl, and a discussion session with a Japanese IT journalist, Yuka Okada.<div><br /></div><div>If you already have a YAPC::Asia ticket, then the event is free. If you don't, then the admission fee is 1000 yen, and there's going to be some refreshments available. Don't forget to bring your QR code if you already purchased your ticket!<br /><div><br /></div><div>The meetup is hosted by Yusuke Wada and the "perl-casual" user group, which aims to promote perl to the "casual" users, not just the hardcore hackers.</div></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia on Android</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-on-android.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.48</id>
+
+    <published>2010-10-13T22:46:34Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>kanことふしはらかんさんがandroid用のYAPC::Asia のスケジュー...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[kanことふしはらかんさんが<a href="http://blog.fushihara.net/2010/10/yapcasia-2010-viewer.html">android用のYAPC::Asia のスケジュールビュアー</a>を作成してくれました。android携帯をお持ちの方は是非どうぞ！]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>タイムテーブル変更のお知らせ</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/post.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.47</id>
+
+    <published>2010-10-07T02:23:48Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>非常に残念ですが、YAPC::Asia Tokyo 2010に来て頂ける予定だっ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[非常に残念ですが、YAPC::Asia Tokyo 2010に来て頂ける予定だったIngy dot Net氏が急遽来日できなくなってしまいました。よって、一部のスケジュールが変更となります。<div><br /></div><div><ul><li>Ingy dot Net氏の "Pegex"および"TestML"のセッションは中止となりました</li><li>10/16 12:00より予定されていた "The Evolution of Path::Dispatcher"は 10/15 15:00に移動されました</li><li>10/16 12:20より予定されていた "App::* modules"は 10/15 15:20に移動されました</li><li>10/16 12:00より予定されていた "Perlで自然言語処理" は 10/16 13:00に移動されました</li><li>10/16 12:20より予定されていた "「映画に出てくるハッカーになりたい」"は10/16 13:20に移動されました</li></ul></div><div><br /></div><div>ご迷惑をおかけいたしますがご了承の程何卒よろしくおねがいいたします。</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia Tokyo 2010 チケット再販終了日時と懇親会申し込み期限について</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-deadline.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.46</id>
+
+    <published>2010-10-05T10:14:41Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>こんにちは、櫛井です。 チケット再販開始のお知らせ　をしておりますが、こちら再販...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<p>こんにちは、櫛井です。</p>
+
+<p><a href="http://yapcasia.org/2010/info/yapcasia-reselling.html" target="_blank">チケット再販開始のお知らせ</a>　をしておりますが、こちら再販分は<br />
+10/8(Fri) PM10:00で終了させていただきます。<br />
+買うつもりだったけどまだ買ってない！という方は<br />
+お早めにお買い求めください。</p>
+
+<p>また、懇親会を今年も10/15(Fri)の夜に開催いたします。<br />
+こちらも申込期限が 10/8(Fri) PM10:00 となっておりますので<br />
+お早めに参加申請をしていただきますようお願いいたします。<br />
+参加費は2000円です。 <br />
+<a href="http://spreadsheets3.google.com/a/perlassociation.org/viewform?hl=en&amp;formkey=dFRZVUJNN2RxbXJSYk45Y0NQZDZnWnc6MQ" target="_blank">懇親会の参加フォームはこちら</a>です。</p>
+
+<p><br />
+---</p>
+
+<p>Please note that YAPC::Asia Tokyo 2010 tickets are sale until 10/8 10:00pm (JST). If you haven't bought your tickets, please do so NOW!</p>
+
+<p>Also, if you would like to attend the social on 10/15, please signup via <a href="http://spreadsheets3.google.com/a/perlassociation.org/viewform?hl=en&amp;formkey=dFRZVUJNN2RxbXJSYk45Y0NQZDZnWnc6MQ" target="_blank">this form</a>. We will be chargin 2000yen for the social.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia2010 当日のTシャツ販売についてお知らせ</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia2010-tshirts.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.45</id>
+
+    <published>2010-10-05T09:24:50Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary> こんにちは、櫛井です。 当日のTシャツ販売について、いくつかお問い合わせいただ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="info" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="tmix" label="tmix" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<p> こんにちは、櫛井です。<br />
+当日のTシャツ販売について、いくつかお問い合わせいただいておりますので<br />
+お知らせしたいと思います。</p>
+
+<p>今回はチケットの購入時にTシャツを注文していただくスタイルにしており<br />
+必要な方には行き届くよう予定しておりますが、開催当日も若干数では<br />
+ありますが販売分をご用意しております。欲しい！という方は、お早めに<br />
+お声がけいただけますと助かります。</p>
+
+<p>また、今回は販売価格をおさえるため<a href="http://tmix.jp/" target="_blank">tmixさん</a>にかなり頑張って<br />
+いただいております。この場を借りてお礼申し上げます。<br />
+(ちなみにtmixは1枚からオリジナルTシャツが作れる素敵なサイトです)</p>
+
+<p><br />
+というわけで、今年のTシャツはレア度マシマシです。<br />
+宜しくお願いいたします。</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia Tokyo 2010 チケット再販開始のお知らせ</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-reselling.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.44</id>
+
+    <published>2010-09-30T10:00:00Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary> (English follows Japanese)  こんにちは、櫛井です。...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="info" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<p> (English follows Japanese) </p>
+
+<p>こんにちは、櫛井です。</p>
+
+<p>チケット販売を終了させていただきましたが、皆様より<br />
+再販のご要望を多数いただきましたので本日より改めて若干名分だけ<br />
+Paypalにてチケットの販売を行います！今回こそお早めにどうぞ！<br />
+<a href="http://yapcasia.org/2010/tickets.html" target="_blank">YAPC::Asia Tokyo 2010 チケット発売</a></p>
+
+<p>購入方法については例年とは若干変更となっておりますので<br />
+必ずチケット説明ページをご覧ください。</p>
+
+<p>（LT以外のスピーカー、およびボランティアスタッフの方はチケット購入の<br />
+必要はありません。詳しくは購入方法の説明ページをご覧ください。）</p>
+
+<p>---</p>
+
+<p>Due to popular demand, we're going to reopen ticket sales for YAPC::Asia Tokyo 2010, but only until we sell out the extra tickets. <a href="http://yapcasia.org/2010/tickets_en.html" target="_blank">Please visit our ticket sales page and get your ticket now!</a></p>
+
+<p>(If you're a speaker or a volunteer staff, you do not need to purchase a ticket. LT-only speakers need to purchase tickets)</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia Tokyo 2010 Talk Timetable Announced | トークタイムテーブルを発表</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-tokyo-2010-talk-timetable-announced.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.43</id>
+
+    <published>2010-09-09T02:54:14Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>スケジュールページからご確認ください。現段階ではまだ一部変更される可能性がありま...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<a href="http://yapcasia.org/2010/schedule.html">スケジュールページ</a>からご確認ください。現段階ではまだ一部変更される可能性がありますのでご注意ください。またGoogle Calendarを使って管理していますので、iCal等の形でのエクスポートも可能です。見やすい形でご覧ください。<div><br /></div><div>YAPC::Asia Tokyo 2010 talk timetable can be found at the <a href="http://yapcasia.org/2010/schedule.html">schedules page</a>. Please note that there is a chance that the timetable may change. We're keeping track of the talk schedule using Google Calendar, so you can export the schedule using iCal or whatever you like. Pick a format that best fits your needs.</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC Social on 10/15 | 懇親会開催のお知らせ＆参加フォームご登録ください</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/social.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.42</id>
+
+    <published>2010-09-06T03:43:47Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>YAPC::Asia Tokyo 2010懇親会を今年も10/15（金）の夜に開...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="info" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<p>YAPC::Asia Tokyo 2010懇親会を今年も10/15（金）の夜に開催いたします。<br />
+参加費は2000円です。参加人数を把握したいので、参加希望の方はご登録ください。<br />
+ゲストスピーカーの方以外は登録必須です。</p>
+
+<p>キャンセルの場合は必ず yapc at perlassociation.org までご連絡ください。<br />
+なにかしらの景品が当たるなにかしらのゲーム大会が開催される・・・かも？ <br />
+なお、今回の懇親会にはPalmquist Consulting社に協賛していただいております。 </p>
+
+<p><a href="http://spreadsheets0.google.com/a/perlassociation.org/viewform?hl=en&formkey=dFRZVUJNN2RxbXJSYk45Y0NQZDZnWnc6MQ" target="_blank">参加フォームはこちら</a></p>
+
+<p>----<br />
+We're going to hold a mini party at the venue on 10/15 after the talks. </p>
+
+<p>The entrance fee is 2000 yen. We'd like to get the idea of how many people are coming, so please <a href="http://spreadsheets0.google.com/a/perlassociation.org/viewform?hl=en&formkey=dFRZVUJNN2RxbXJSYk45Y0NQZDZnWnc6MQ" target="_blank">sign up from this form</a>.</p>
+
+<p>If you signed up and can't make it, please make sure to let us know at <br />
+yapc at perlassociation.org we're going to host some sort of game that will get you a some goodies, too (sorry, we're being vague)</p>
+
+<p>This year part of the costs of this mini party is being sponsored by Palmquist Consulting.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Thanks For The Talk Sbumissions! | トーク応募ありがとうございました！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/thanks-for-the-talk-sbumissions.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.41</id>
+
+    <published>2010-09-01T01:38:57Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>YAPC::Asia Tokyo 2010トークのご応募、ありがとうございました...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    <category term="yapcasia" label="yapcasia" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="yapcasia2010" label="yapcasia2010" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<div><a href="http://yapcasia.org/2010/">YAPC::Asia Tokyo 2010</a>トークのご応募、ありがとうございました。ありがたい事に本年はトーク応募が定数を超えました。大変残念ながら全てのトークを採用することができませんので、9/6までにどのトークを採用するのかを決定したいと思います。</div><div><br /></div><div>ついてはご来場の皆様に「どのトークを見たいか」を<a href="http://s.hatena.ne.jp/">はてなスター</a>をつけていただけると幸いです。こちらの「<a href="http://yapcasia.org/2010/talks">応募のあったトーク</a>」ページから気になるトークをみつけたら、是非はてなスターをつけてあげてください。これを参考にして採用・不採用を決めさせていただきたいと思います。不採用の場合はスケジュール・トーク内容が合えば10/14の「perl-casual出張版」にて発表していただく場合もありますので、別途連絡をさしあげます。</div><div><br /></div><div>スターはあくまで運営スタッフがどのトークを採用するか判断に迷う時の＊目安＊です。投票数で採用を決めるわけではありませんのでご了承下さい。</div><div><br /></div><div>また、それとは別に複数トークを応募されている方には投票より先に連絡をする場合もありますのでその際はよろしくお願いいたします。</div><div><br /></div><div>いずれにせよ、応募いただいた方々には全てなんらかの形で連絡をいたします。なにかご意見等ある場合は yapc at perlassociation.orgまでご連絡ください。</div><div><br /></div><div><br /></div><div>----</div><div><br /></div><div>Thank you all for submitting your talks to YAPC::Asia tokyo 2010. This year we actually got more talk proposals than we can accept, so unfortunately we must decide which talks can go into the conference.</div><div><br /></div><div>This year we're using the <a href="http://s.hatena.ne.jp/">Hatena Star</a> system to get the feeling on which talks are most wanted. We realize you'd have to signup for a yet another service &nbsp;just to use this, but this was the easiest way for us this year. Maybe there's a better way next year.</div><div><br /></div><div>We will decide which talks to accept by Sept 6 (JST). While doing so we will use the Hatena star as a partial measure to make our decision. Please do note that we're not doing this selection solely by the number of votes/stars -- this will only be used as sort of a tie-breaker when we can't decide which talks will go in and which won't.</div><div><br /></div><div>Special note to would-be speakers from abroad: it is /very/ unlikely that we will simply turn down your talk, as we know it's a big commitment and hassle to come to Japan just for this. However, if your travel plans are flexible, there is a chance that we might ask you to present at the 10/14 "Perl-Casual meets YAPC", which is sort of RejectConf.</div><div><br /></div><div>We will get in touch with all speakers shortly. Stay tuned!</div><div><br /></div><div><br /></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>yapcasia-en group opened for foreign visitors</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-en-group-opened-for-foreign-visitors.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.40</id>
+
+    <published>2010-08-30T02:27:28Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>http://kawanet.blogspot.com/2010/08/yapc...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<a href="http://kawanet.blogspot.com/2010/08/yapcasia-en-group-opened-cfp-until.html">http://kawanet.blogspot.com/2010/08/yapcasia-en-group-opened-cfp-until.html</a> <div><br /></div><div>Kawasaki-san has graciously created a mailing list for foreign visitors, so that locals can help you navigate through this jungle that is Tokyo, Japan.</div><div><br /></div><div>The operation is handled by Kawasaki-san, but this mailing list is officially blessed by the YAPC::Asia Tokyo team, <a href="http://groups.google.com/group/yapcasia-en">so please sign up</a>!</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>トーク募集＋豪華賞品！ Talks Still Wanted, and Prize Announcement</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/talks-still-wanted-and-prize-announcement.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.39</id>
+
+    <published>2010-08-26T07:35:05Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>(English follows Japanese)トークは依然絶賛募集中です！...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    <category term="yapcasia" label="yapcasia" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="yapcasia2010" label="yapcasia2010" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<div>(English follows Japanese)</div><div><br /></div><a href="http://yapcasia.org/2010/info/yapcasia-tokyo-2010-lt.html">トークは依然絶賛募集中です</a>！〆切りは8月31日です！今まで発表したことを無い方も是非応募してみてくださいね。<div><br /></div><div>なお<a href="http://yapcasia.org/2010/info/yapcasia-sponsored.html">以前案内のあったとおり今回はトークの投票を行う予定ですが</a>、その賞品が（まだ予定ですが）決定したのでお知らせいたします：</div><div><br /></div><div><ul><li>MacBook Pro 13 inch&nbsp;2.66GHz Intel Core i5 <b><i>8GB</i></b> 1066MHz DDR3 SDRAM - 2x2GB 320GB Serial ATA Drive @ 5400 rpm （ベストトーク）</li><li>2.4GHz Intel Core 2 Duo <b><i>8GB</i></b> 1066MHz DDR3 SDRAM - 2x4GB 320GB Serial ATA Drive (ベストトーク 次点）</li><li>iPad 16GB WiFi （ベスト新人賞）</li></ul></div><div><br /></div><div>エンジニアが使うことを考えて8GBメモリにしてあるのがポイントですよ！なお、実はこれ以外にも今回は色々と賞品があるとの噂です・・・！どうせなら聞くだけの参加より、自分も喋ったほうが身になりますのでこれを機に是非発表者としての参加を検討ください！</div><div><br /></div><div>（一応まだ「予定」ですのでトークの応募状況等により賞品内容等が大分変わる可能性はあります。ご了承ください）</div><div><br /></div><div>------</div><div><br /></div><div>We're still looking for more talks for YAPC::Asia Tokyo 2010. <a href="http://yapcasia.org/2010/info/yapcasia-sponsored.html">Please submit your talk proposals</a> by Aug 31.</div><div><br /></div><div>As we announced earlier, we're going to give away some prizes for the best speakers this year. Here's what you might get by participating:</div><div><br /></div><div><ul style="margin-top: 0px; margin-right: 0px; margin-bottom: 0.75em; margin-left: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 1em; font-weight: normal; list-style-type: disc; list-style-position: outside; list-style-image: initial; background-repeat: no-repeat repeat; "><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 1em; font-weight: normal; ">MacBook Pro 13 inch&nbsp;2.66GHz Intel Core i5&nbsp;<b><i>8GB</i></b>&nbsp;1066MHz DDR3 SDRAM - 2x2GB 320GB Serial ATA Drive @ 5400 rpm （for Best Talk）</li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 1em; font-weight: normal; ">2.4GHz Intel Core 2 Duo&nbsp;<b><i>8GB</i></b>&nbsp;1066MHz DDR3 SDRAM - 2x4GB 320GB Serial ATA Drive (for *second* Best Talk）</li><li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 1em; font-weight: normal; ">iPad 16GB WiFi （for Best New Speaker）</li></ul></div><div>We pumped the MacBook and the mac mini to 8GB memory especially for you geeks.</div><div><br /></div><div>We are actually planning to give away more prizes, so stay tuned for more announcements, and meanwhile, submit your talk proposals! It's always more fun to be the one giving the talk!</div><div><br /></div><div>(Please note that the awards and the prizes may change)</div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia 2010 Tickets On Sale!</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-tickets.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.38</id>
+
+    <published>2010-08-23T05:53:45Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>(English follows Japanese)  こんにちは、櫛井です。 ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    <category term="yapcasia" label="yapcasia" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="yapcasia2010" label="yapcasia2010" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<p>(English follows Japanese) </p>
+
+<p>こんにちは、櫛井です。</p>
+
+<p>本日よりチケット販売を開始しました、毎年すぐに売り切れて<br />
+おりますので今年も是非お早めにどうぞ！<br />
+<a href="http://yapcasia.org/2010/tickets.html" target="_blank">YAPC::Asia Tokyo 2010 チケット発売</a></p>
+
+<p>購入方法については例年とは若干変更となっておりますので<br />
+必ずチケット説明ページをご覧ください。</p>
+
+<p>（LT以外のスピーカー、およびボランティアスタッフの方はチケット購入の<br />
+必要はありません。詳しくは購入方法の説明ページをご覧ください。）</p>
+
+<p><br />
+また、技術評論社様との連携で<a href="http://yapcasia.org/2010/info/yapcasia-2010.html" target="_blank">イベントレポーターを募集しています</a>。<br />
+こちらもご応募お待ちしております。</p>
+
+<p><br />
+大事なことなので2回目ですが、チケットはこちらからどうぞ。<br />
+チケットの種別がわかりやすいのでPayPalをオススメします。<br />
+<a href="http://yapcasia.org/2010/tickets.html" target="_blank">YAPC::Asia Tokyo 2010 チケット発売</a></p>
+
+<p>------------</p>
+
+<p>YAPC::Asia Tokyo 2010 tickets are on sale starting today. They go pretty fast every year, so purchase your ticket now!</p>
+
+<p><a href="http://yapcasia.org/2010/tickets_en.html" target="_blank">Please visit our ticket sales page and get the details</a>. If you're living outside of Japan, you MUST use paypal to purchase your tickets.</p>
+
+<p>Note that speakers and volunteers do not need to purchase tickets.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia2010 トーク投票制導入と協賛スポンサー募集のお知らせ</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2010/news/yapcasia-sponsored.html" />
+    <id>tag:blog.yapcasia.org,2010:/2010//4.37</id>
+
+    <published>2010-08-19T04:34:59Z</published>
+    <updated>2012-02-16T00:56:47Z</updated>
+
+    <summary>■8月23日 18:00 協賛スポンサーの特典等を追記しました -- こんにちは...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="info" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="yapcasia2010" label="yapcasia2010" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2010/">
+        <![CDATA[<p>■8月23日 18:00<br />
+協賛スポンサーの特典等を追記しました</p>
+
+<p>--<br />
+こんにちは、櫛井です。</p>
+
+<p>かねてより「YAPCのスポンサードを是非したい」と、ご相談を<br />
+いただく事が増えてまいりました。ありがたいことです。</p>
+
+<p>協賛金をいただくからには用途を決めないといけないなと考え<br />
+「形に残るもの、継続して使えるもの、モチベーションに繋がるもの」<br />
+のために使いたいと思い、トーク投票制を導入することにしました。</p>
+
+<p>■トーク投票制<br />
+草案段階ですが、以下のような形で考えています。<br />
+・参加者に「Tech」「fun」の2票を持ってもらい、1日ごとに投票<br />
+・2日間の投票を集計し、スピーカーに景品を贈呈<br />
+・技術的に素晴らしい内容、トークの面白さ、という面での投票を<br />
+　してもらうのでカニバらない！</p>
+
+<p>というわけで、景品はMacBookやiPadなど今後のプログラミングに<br />
+関係ありそうなものを用意したいと考えています。</p>
+
+<p><br />
+■協賛スポンサー募集<br />
+上記のような形で使わせていただく予定の協賛をしていただける<br />
+スポンサーを募集しております。<br />
+なお、協賛は一口５万円とさせていただき、上限は設けません。<br />
+(たくさん集まると景品が豪華になります。MacBookがPROになったり)</p>
+
+<p>・協賛の流れ<br />
+　お申し込み<br />
+　↓<br />
+　JPAより請求書発行<br />
+　↓<br />
+　お支払い</p>
+
+<p>・申し込み方法<br />
+　yapc at perlassociation.org に「YAPC協賛スポンサーの件」という件名で<br />
+　お申し込みください。何口かも併記くださいませ。</p>
+
+<p>■協賛スポンサーの特典<br />
+・JPA/YAPC::Asiaのサイト上でスポンサーとしてロゴ掲載<br />
+・YAPC当日に配布するパンフレットへ掲載<br />
+・イベント開始と終了時にスポンサー企業を紹介<br />
+・プレゼント進呈時にスポンサー企業を紹介<br />
+・開催当日のビラ配布（事前に送付いただきます）<br />
+・YAPCチケットを2枚進呈</p>
+
+<p><br />
+御社の協賛、お待ちしております。</p>]]>
+        
+    </content>
+</entry>
+
+</feed>

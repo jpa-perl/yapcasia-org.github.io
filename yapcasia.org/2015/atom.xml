@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>YAPC::Asia Tokyo 2015</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/" />
+    <link rel="self" type="application/atom+xml" href="http://yapcasia.org/2015/atom.xml" />
+    <id>tag:yapcasia.org,2013-03-13:/2015/7</id>
+    <updated>2016-06-03T14:36:03Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 6.0.6</generator>
+
+<entry>
+    <title>【更新終了】YAPC::Asia Tokyo 2015 感想エントリまとめ </title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/yapcasia-tokyo-2015-blog-entries.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.295</id>
+
+    <published>2015-08-23T01:30:00Z</published>
+    <updated>2016-06-03T14:36:03Z</updated>
+
+    <summary>YAPC::Asia Tokyo 2015へのご参加ありがとうございました! &quot;...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>YAPC::Asia Tokyo 2015へのご参加ありがとうございました!</p>
+
+<p>"YAPC ain't over til you blog about it!"<br />
+ブログを書くまでがYAPCです！ブログを書かない限り皆様のYAPCは終わらないのです...！</p>
+
+<p>ということで例年通りYAPC感想エントリをオフィシャルサイトに掲載させて頂きます。 <br />
+以下のフォームに感想エントリURLの入力をお願いします。</p>
+
+<p><span style="font-weight: bold; font-size: 2em"><a href="https://docs.google.com/forms/d/1pG2s5qwXPxCqZCcq7CTxWiBCpqvJXqEGczEDMVmAJkg/viewform" target="_blank">YAPC::Asia Tokyo 2015 ブログ書いたよ!フォーム</a></span></p>
+
+<p>最終更新日時： 9/7 08:49 【410エントリ】</p>
+
+<h3>Speakers | スピーカー</h3>
+<ul style="list-style-type: disc; padding-left: 2em">
+<li><a href="http://nekogata.hatenablog.com/entry/2015/08/22/162050" target="_blank">YAPC::Asia 2015 で発表しました #yapcasia - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く</a> <a href="http://b.hatena.ne.jp/entry/http://nekogata.hatenablog.com/entry/2015/08/22/162050" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nekogata.hatenablog.com/entry/2015/08/22/162050"></a></li>
+<li><a href="http://lowreal.net/2015/08/22/1" target="_blank">[tech] YAPC::Asia Tokyo 2015 - 「WebAudio で入門する 信号処理」「(LT) コミュ力あげてこ」 | Sat, Aug 22. 2015 - 氾濫原 [HANRANGEN]</a> <a href="http://b.hatena.ne.jp/entry/http://lowreal.net/2015/08/22/1" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lowreal.net/2015/08/22/1"></a></li>
+<li><a href="http://blog.kenjiskywalker.org/blog/2015/08/22/yapcasia2015/" target="_blank">YAPC::Asia 2015で冗長化に失敗した話をしてきました #yapcasia - さよならインターネット</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kenjiskywalker.org/blog/2015/08/22/yapcasia2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kenjiskywalker.org/blog/2015/08/22/yapcasia2015/"></a></li>
+<li><a href="http://blog.koba04.com/post/2015/08/22/yapc-asia-2015-whats-happening-in-frontend-now/" target="_blank">YAPC::Asia Tokyo 2015で「今フロントエンドで何が起こっているのか」という話をしました - blog.koba04.com</a> <a href="http://b.hatena.ne.jp/entry/http://blog.koba04.com/post/2015/08/22/yapc-asia-2015-whats-happening-in-frontend-now/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.koba04.com/post/2015/08/22/yapc-asia-2015-whats-happening-in-frontend-now/"></a></li>
+<li><a href="http://hitode909.hatenablog.com/entry/2015/08/22/235900" target="_blank">YAPCでベストトーク賞いただきました #yapcasia - hitode909の日記</a> <a href="http://b.hatena.ne.jp/entry/http://hitode909.hatenablog.com/entry/2015/08/22/235900" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hitode909.hatenablog.com/entry/2015/08/22/235900"></a></li>
+<li><a href="http://techblog.karupas.org/entry/2015/08/22/155336" target="_blank">YAPC::Asia 2015でうっかりをなくす技術について発表しました - 時計を壊せ</a> <a href="http://b.hatena.ne.jp/entry/http://techblog.karupas.org/entry/2015/08/22/155336" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://techblog.karupas.org/entry/2015/08/22/155336"></a></li>
+<li><a href="http://moznion.hatenadiary.com/entry/2015/08/22/105023" target="_blank">YAPC::Asia Tokyo 2015 で Yet Another Perl Cooking というタイトルで話してきました - その手の平は尻もつかめるさ</a> <a href="http://b.hatena.ne.jp/entry/http://moznion.hatenadiary.com/entry/2015/08/22/105023" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://moznion.hatenadiary.com/entry/2015/08/22/105023"></a></li>
+<li><a href="http://mameco0417.hatenablog.com/entry/2015/08/23/001602" target="_blank">YAPC::Asia Tokyo2015に参加してきました　 - ジンジニアニッキ！</a> <a href="http://b.hatena.ne.jp/entry/http://mameco0417.hatenablog.com/entry/2015/08/23/001602" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mameco0417.hatenablog.com/entry/2015/08/23/001602"></a></li>
+<li><a href="http://yoku0825.blogspot.jp/2015/08/yapcasia-mysql-57lt.html" target="_blank">日々の覚書: #yapcasia でMySQL 5.7の罠についてLTしてきました</a> <a href="http://b.hatena.ne.jp/entry/http://yoku0825.blogspot.jp/2015/08/yapcasia-mysql-57lt.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yoku0825.blogspot.jp/2015/08/yapcasia-mysql-57lt.html"></a></li>
+<li><a href="http://yumulog.hatenablog.com/entry/2015/08/22/233344" target="_blank">YAPC::Asia Tokyo 2015に参加して「NASA主催の世界最大級ハッカソンSpaceAppsを運営した話」をしてきた #yapcasia - yumulog | 社会人博士の日記</a> <a href="http://b.hatena.ne.jp/entry/http://yumulog.hatenablog.com/entry/2015/08/22/233344" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yumulog.hatenablog.com/entry/2015/08/22/233344"></a></li>
+<li><a href="http://this.aereal.org/entry/2015/08/22/232459" target="_blank">#yapcasia に参加した - this A moment</a> <a href="http://b.hatena.ne.jp/entry/http://this.aereal.org/entry/2015/08/22/232459" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://this.aereal.org/entry/2015/08/22/232459"></a></li>
+<li><a href="https://docs.esa.io/posts/134" target="_blank">diary/2015/08/21/YAPC::Asia 2015でesaについて発表してきました - docs.esa.io</a> <a href="http://b.hatena.ne.jp/entry/https://docs.esa.io/posts/134" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://docs.esa.io/posts/134"></a></li>
+<li><a href="http://this.aereal.org/entry/2015/08/21/222849" target="_blank">#yapcasia で『世界展開する大規模ウェブサービスのデプロイを支える技術』という発表をした - this A moment</a> <a href="http://b.hatena.ne.jp/entry/http://this.aereal.org/entry/2015/08/21/222849" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://this.aereal.org/entry/2015/08/21/222849"></a></li>
+<li><a href="http://tagomoris.hatenablog.com/entry/2015/08/23/160337" target="_blank">YAPC::Asia Tokyo 2015 にいってきた＆しゃべってきた - たごもりすメモ</a> <a href="http://b.hatena.ne.jp/entry/http://tagomoris.hatenablog.com/entry/2015/08/23/160337" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tagomoris.hatenablog.com/entry/2015/08/23/160337"></a></li>
+<li><a href="http://hitode909.hatenablog.com/entry/2015/08/22/235900" target="_blank">YAPCでベストトーク賞いただきました
+ #yapcasia - hitode909の日記</a> <a href="http://b.hatena.ne.jp/entry/http://hitode909.hatenablog.com/entry/2015/08/22/235900" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hitode909.hatenablog.com/entry/2015/08/22/235900"></a></li>
+<li><a href="http://blog.jigyakkuma.org/2015/08/22/yapcasia2015_firstday/" target="_blank">YAPC::Asia2015に登壇させていただいたからこそ感じられたこと</a> <a href="http://b.hatena.ne.jp/entry/http://blog.jigyakkuma.org/2015/08/22/yapcasia2015_firstday/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.jigyakkuma.org/2015/08/22/yapcasia2015_firstday/"></a></li>
+<li><a href="http://sfujiwara.hatenablog.com/entry/2015/08/23/173803" target="_blank">YAPC::Asia 2015で発表してきました &amp; ConsulとStretcherについて - 酒日記 はてな支店</a> <a href="http://b.hatena.ne.jp/entry/http://sfujiwara.hatenablog.com/entry/2015/08/23/173803" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sfujiwara.hatenablog.com/entry/2015/08/23/173803"></a></li>
+<li><a href="http://skozawa.hatenablog.com/entry/2015/08/22/220359" target="_blank">YAPC::Asia Tokyo 2015の前夜祭で発表しました - skozawa&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://skozawa.hatenablog.com/entry/2015/08/22/220359" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://skozawa.hatenablog.com/entry/2015/08/22/220359"></a></li>
+<li><a href="http://www.hsbt.org/diary/20150822.html#p01" target="_blank"> YAPC Asia 2015 Day 2 - HsbtDiary(2015-08-22)</a> <a href="http://b.hatena.ne.jp/entry/http://www.hsbt.org/diary/20150822.html#p01" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.hsbt.org/diary/20150822.html#p01"></a></li>
+<li><a href="http://www.hsbt.org/diary/20150821.html#p01" target="_blank"> YAPC Asia 2015 Day 1 - HsbtDiary(2015-08-21)</a> <a href="http://b.hatena.ne.jp/entry/http://www.hsbt.org/diary/20150821.html#p01" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.hsbt.org/diary/20150821.html#p01"></a></li>
+<li><a href="http://www.hsbt.org/diary/20150820.html#p02" target="_blank"> Ruby 開発者会議 8 月, YAPC Asia 2015 Day 0 - HsbtDiary(2015-08-20)</a> <a href="http://b.hatena.ne.jp/entry/http://www.hsbt.org/diary/20150820.html#p02" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.hsbt.org/diary/20150820.html#p02"></a></li>
+<li><a href="http://saiken3110.hatenablog.com/entry/2015/08/23/194458" target="_blank">YAPC::Asia 2015 でMySQLで2億件のシリアルデータと>格闘した話をしてきました #yapcasia  - saikenの日記</a> <a href="http://b.hatena.ne.jp/entry/http://saiken3110.hatenablog.com/entry/2015/08/23/194458" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://saiken3110.hatenablog.com/entry/2015/08/23/194458"></a></li>
+<li><a href="http://kazuph.hateblo.jp/entry/2015/08/22/163000" target="_blank">YAPC::Asia 2015で「Web由来の組み込みエンジニア」について発表してきました！ - 僕のYak Shavingは終わらない</a> <a href="http://b.hatena.ne.jp/entry/http://kazuph.hateblo.jp/entry/2015/08/22/163000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kazuph.hateblo.jp/entry/2015/08/22/163000"></a></li>
+<li><a href="http://blog.maryloulenhart.com/yapcasia-2015/" target="_blank">YAPC::Asia Tokyo 2015 | not-so-arbitrary digressions</a> <a href="http://b.hatena.ne.jp/entry/http://blog.maryloulenhart.com/yapcasia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.maryloulenhart.com/yapcasia-2015/"></a></li>
+<li><a href="http://d.hatena.ne.jp/toritori0318/20150823/1440349075" target="_blank">YAPC::Asia 2015で「Docker３兄弟」というお話をしました＋QA補足 #yapcasia - アルパカDiary</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/toritori0318/20150823/1440349075" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/toritori0318/20150823/1440349075"></a></li>
+<li><a href="http://yuuki.hatenablog.com/entry/the-art-of-blogging-technologies" target="_blank">YAPC::Asia 2015で技術ブログを書くことについて発表しました - ゆううきブログ</a> <a href="http://b.hatena.ne.jp/entry/http://yuuki.hatenablog.com/entry/the-art-of-blogging-technologies" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yuuki.hatenablog.com/entry/the-art-of-blogging-technologies"></a></li>
+<li><a href="http://blog.jigyakkuma.org/2015/08/23/yapcasia2015_secondday/" target="_blank">YAPC::Asia2015の所感と俺達のこれから - 俺イケ！！！</a> <a href="http://b.hatena.ne.jp/entry/http://blog.jigyakkuma.org/2015/08/23/yapcasia2015_secondday/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.jigyakkuma.org/2015/08/23/yapcasia2015_secondday/"></a></li>
+<li><a href="http://mackee.hatenablog.com/entry/2015/08/24/014034" target="_blank">YAPC::Asia Tokyo 2015に参加&amp;トークしてきました #yapcasia - ぱいぱいにっき</a> <a href="http://b.hatena.ne.jp/entry/http://mackee.hatenablog.com/entry/2015/08/24/014034" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mackee.hatenablog.com/entry/2015/08/24/014034"></a></li>
+<li><a href="http://dqn.sakusakutto.jp/2015/08/how_to_make_a_git.html" target="_blank">Gitは作れる!「Gitの作り方」をYAPC::Asia 2015でLTしてきました。 &middot;  DQNEO起業日記</a> <a href="http://b.hatena.ne.jp/entry/http://dqn.sakusakutto.jp/2015/08/how_to_make_a_git.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dqn.sakusakutto.jp/2015/08/how_to_make_a_git.html"></a></li>
+<li><a href="http://blog.yusuke.be/entry/2015/08/24/103531" target="_blank">ありがとう！ #yapcasia - ゆーすけべー日記</a> <a href="http://b.hatena.ne.jp/entry/http://blog.yusuke.be/entry/2015/08/24/103531" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.yusuke.be/entry/2015/08/24/103531"></a></li>
+<li><a href="http://blog.likk.jp/entry/2015/08/24/092046" target="_blank">YAPC::Asia 2015 でLTしてきた - NeverBlog::Likk::Unexistable;</a> <a href="http://b.hatena.ne.jp/entry/http://blog.likk.jp/entry/2015/08/24/092046" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.likk.jp/entry/2015/08/24/092046"></a></li>
+<li><a href="http://masartz.hatenablog.jp/entry/2015/08/24/115621" target="_blank">YAPC::Asia2015で「 Perlがメインじゃない 現場でもPerlを使う (AdTech現場編）」というトークをしてきました - masartz-&gt;log(type=&gt;&#39;hatenablog&#39;)</a> <a href="http://b.hatena.ne.jp/entry/http://masartz.hatenablog.jp/entry/2015/08/24/115621" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://masartz.hatenablog.jp/entry/2015/08/24/115621"></a></li>
+<li><a href="http://www.koemu.com/blog/2015/08/24/yapcasia-tokyo-2015/" target="_blank">YAPC::Asia Tokyo 2015で開発・運用業務改革に関する発表をしてきました＆感想 #yapcasia #yapcasiaE | こえむの編集後記</a> <a href="http://b.hatena.ne.jp/entry/http://www.koemu.com/blog/2015/08/24/yapcasia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.koemu.com/blog/2015/08/24/yapcasia-tokyo-2015/"></a></li>
+<li><a href="http://repeatedly.github.io/ja/2015/08/yapc-asia-tokyo-2015-presentation/" target="_blank">YAPC::Asia Tokyo 2015での発表 - Go ahead!</a> <a href="http://b.hatena.ne.jp/entry/http://repeatedly.github.io/ja/2015/08/yapc-asia-tokyo-2015-presentation/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://repeatedly.github.io/ja/2015/08/yapc-asia-tokyo-2015-presentation/"></a></li>
+<li><a href="http://myfinder.hatenablog.com/entry/2015/08/24/131415" target="_blank">YAPC::Asia 2015でAzureの話をした件とハッカソンの運営をした件 - まいんだーのはてなブログ</a> <a href="http://b.hatena.ne.jp/entry/http://myfinder.hatenablog.com/entry/2015/08/24/131415" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://myfinder.hatenablog.com/entry/2015/08/24/131415"></a></li>
+<li><a href="http://yosuke-furukawa.hatenablog.com/entry/2015/08/24/152147" target="_blank">YAPC::ASIA 2015で「どうしてこうなった？ Node.jsとio.jsの分裂と統合の行方。これからどう進化していくのか？」というタイトルで発表してきた。 - from scratch</a> <a href="http://b.hatena.ne.jp/entry/http://yosuke-furukawa.hatenablog.com/entry/2015/08/24/152147" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yosuke-furukawa.hatenablog.com/entry/2015/08/24/152147"></a></li>
+<li><a href="http://www.songmu.jp/riji/entry/2015-08-25-yapcasia2015.html" target="_blank">YAPC::Asia 2015に行ってきた | おそらくはそれさえも平凡>な日々</a> <a href="http://b.hatena.ne.jp/entry/http://www.songmu.jp/riji/entry/2015-08-25-yapcasia2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.songmu.jp/riji/entry/2015-08-25-yapcasia2015.html"></a></li>
+<li><a href="http://tkuchiki.hatenablog.com/entry/2015/08/25/081937" target="_blank">YAPC::Asia TOKYO 2015 で発表してきました - tkuchikiの日記</a> <a href="http://b.hatena.ne.jp/entry/http://tkuchiki.hatenablog.com/entry/2015/08/25/081937" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tkuchiki.hatenablog.com/entry/2015/08/25/081937"></a></li>
+<li><a href="http://debility.hateblo.jp/entry/2015/08/25/090006" target="_blank">YAPC::Asia Tokyo 2015のLTでbotになった話をしてきました、他個人的な感想 - (&#39;A`)ウェーblog</a> <a href="http://b.hatena.ne.jp/entry/http://debility.hateblo.jp/entry/2015/08/25/090006" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://debility.hateblo.jp/entry/2015/08/25/090006"></a></li>
+<li><a href="http://gongo.hatenablog.com/entry/2015/08/22/093000" target="_blank">YAPC::Asia Tokyo 2015 で、PHP の register_globals に関する LT してきました - Thanks Driven Life</a> <a href="http://b.hatena.ne.jp/entry/http://gongo.hatenablog.com/entry/2015/08/22/093000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gongo.hatenablog.com/entry/2015/08/22/093000"></a></li>
+<li><a href="http://bokko.hatenablog.com/entry/2015/08/24/093806" target="_blank">YAPC::Asia 2015でnginxのモジュール開発について発表してきました - 考える人、コードを書
+く人</a> <a href="http://b.hatena.ne.jp/entry/http://bokko.hatenablog.com/entry/2015/08/24/093806" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://bokko.hatenablog.com/entry/2015/08/24/093806"></a></li>
+<li><a href="http://ace-project.jp/2015/08/24/i-went-to-yapcasia-tokyo-2015/" target="_blank">  I went to YAPC::Asia Tokyo 2015.</a> <a href="http://b.hatena.ne.jp/entry/http://ace-project.jp/2015/08/24/i-went-to-yapcasia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ace-project.jp/2015/08/24/i-went-to-yapcasia-tokyo-2015/"></a></li>
+<li><a href="http://hitode909.hatenablog.com/entry/2015/08/25/151409" target="_blank">豪華マイクロソフト詰め合わせセットが届いたぞ！！！　#yapcasia - hitode909の日記</a> <a href="http://b.hatena.ne.jp/entry/http://hitode909.hatenablog.com/entry/2015/08/25/151409" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hitode909.hatenablog.com/entry/2015/08/25/151409"></a></li>
+<li><a href="http://sairoutine.hatenablog.com/entry/2015/08/24/083000" target="_blank">LTで二次元嫁botについて語った - YAPC 2015 - まるまるこふこふ</a> <a href="http://b.hatena.ne.jp/entry/http://sairoutine.hatenablog.com/entry/2015/08/24/083000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sairoutine.hatenablog.com/entry/2015/08/24/083000"></a></li>
+<li><a href="http://blog.64p.org/entry/2015/08/25/182616" target="_blank">YAPC::Asia 2015 に行ってきた - blog.64p.org</a> <a href="http://b.hatena.ne.jp/entry/http://blog.64p.org/entry/2015/08/25/182616" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.64p.org/entry/2015/08/25/182616"></a></li>
+<li><a href="http://qiita.com/kazunori279/items/3ce0ba40e83c8cc6e580" target="_blank">GoogleCloudPlatform - YAPC Asia 2015「Google Cloud Platformの謎テクノロジーを掘り下げる」のまとめ - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/kazunori279/items/3ce0ba40e83c8cc6e580" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/kazunori279/items/3ce0ba40e83c8cc6e580"></a></li>
+<li><a href="http://d.hatena.ne.jp/ishikawam/20150826/p1" target="_blank">YAPC::Asia Tokyo 2015 でサンタクロースを支えるIT技術について発表してきました #yapcasia - M_Ishikawa</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/ishikawam/20150826/p1" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/ishikawam/20150826/p1"></a></li>
+<li><a href="http://blog.nomadscafe.jp/2015/08/100yapcasia-tokyo-2015-isucon.html" target="_blank">「100万円欲しいかー！」「おー！！」YAPC::Asia Tokyo 2015 で「ISUCONの勝ち方」を喋って来た - blog.nomadscafe.jp</a> <a href="http://b.hatena.ne.jp/entry/http://blog.nomadscafe.jp/2015/08/100yapcasia-tokyo-2015-isucon.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.nomadscafe.jp/2015/08/100yapcasia-tokyo-2015-isucon.html"></a></li>
+<li><a href="http://nukamu.hatenablog.com/entry/2015/08/30/012853" target="_blank">最後のYAPC::Asia Tokyoでコンテナの作り方についてしゃべりました - nukamuの雑記</a> <a href="http://b.hatena.ne.jp/entry/http://nukamu.hatenablog.com/entry/2015/08/30/012853" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nukamu.hatenablog.com/entry/2015/08/30/012853"></a></li>
+<li><a href="http://teppeis.hatenablog.com/entry/2015/08/effective-es6-at-yapc-asia-tokyo-2015" target="_blank">YAPCで『Effective ES6』について発表してきた - teppeis blog</a> <a href="http://b.hatena.ne.jp/entry/http://teppeis.hatenablog.com/entry/2015/08/effective-es6-at-yapc-asia-tokyo-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://teppeis.hatenablog.com/entry/2015/08/effective-es6-at-yapc-asia-tokyo-2015"></a></li>
+<li><a href="http://jxck.hatenablog.com/entry/2015-summer-seccanmp-summersonic-yapcasia" target="_blank">2015 夏 (#seccamp -&gt; #summersonic -&gt; #yapcasia) - Block Rockin' Codes</a> <a href="http://b.hatena.ne.jp/entry/http://jxck.hatenablog.com/entry/2015-summer-seccanmp-summersonic-yapcasia" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://jxck.hatenablog.com/entry/2015-summer-seccanmp-summersonic-yapcasia"></a></li>
+<li><a href="http://kazeburo.hatenablog.com/entry/2015/08/25/134412" target="_blank">2007-2015 YAPC::Asia Tokyo で喋ってきたまとめ - Hateburo: kazeburo hatenablog</a> <a href="http://b.hatena.ne.jp/entry/http://kazeburo.hatenablog.com/entry/2015/08/25/134412" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kazeburo.hatenablog.com/entry/2015/08/25/134412"></a></li>
+<li><a href="http://rjbs.manxome.org/rubric/entry/2086" target="_blank">rjbs's rubric: YAPC::Asia, day -2</a> <a href="http://b.hatena.ne.jp/entry/http://rjbs.manxome.org/rubric/entry/2086" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rjbs.manxome.org/rubric/entry/2086"></a></li>
+<li><a href="http://rjbs.manxome.org/rubric/entry/2087" target="_blank">rjbs's rubric: YAPC::Asia, day 0</a> <a href="http://b.hatena.ne.jp/entry/http://rjbs.manxome.org/rubric/entry/2087" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rjbs.manxome.org/rubric/entry/2087"></a></li>
+<li><a href="http://dqn.sakusakutto.jp/2015/09/thank_you_yapc.html" target="_blank">ありがとうYAPC &middot;  DQNEO起業日記</a> <a href="http://b.hatena.ne.jp/entry/http://dqn.sakusakutto.jp/2015/09/thank_you_yapc.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dqn.sakusakutto.jp/2015/09/thank_you_yapc.html"></a></li>
+<li><a href="http://caseywest.com/farewell-yapc-asia/" target="_blank">Farewell YAPC::Asia &#8211; The consensus-seeking architect.</a> <a href="http://b.hatena.ne.jp/entry/http://caseywest.com/farewell-yapc-asia/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://caseywest.com/farewell-yapc-asia/"></a></li>
+<li><a href="http://rjbs.manxome.org/rubric/entry/2088" target="_blank">rjbs's rubric: YAPC::Asia, day 1</a> <a href="http://b.hatena.ne.jp/entry/http://rjbs.manxome.org/rubric/entry/2088" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rjbs.manxome.org/rubric/entry/2088"></a></li>
+<li><a href="http://rjbs.manxome.org/rubric/entry/2089" target="_blank">rjbs's rubric: YAPC::Asia, day 2</a> <a href="http://b.hatena.ne.jp/entry/http://rjbs.manxome.org/rubric/entry/2089" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rjbs.manxome.org/rubric/entry/2089"></a></li>
+</ul>
+<br/><br/>
+
+<h3>Attendees | 参加者</h3>
+<ol style="list-style-type: disc; padding-left: 2em">
+<li><a href="http://gongo.hatenablog.com/entry/2015/08/23/003618" target="_blank">YAPC::Asia Tokyo 2015 参加してきました - Thanks Driven Life</a> <a href="http://b.hatena.ne.jp/entry/http://gongo.hatenablog.com/entry/2015/08/23/003618" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gongo.hatenablog.com/entry/2015/08/23/003618"></a></li>
+<li><a href="http://daimaruonline.hatenablog.com/entry/2015/08/22/153009" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - daimaruonlineのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://daimaruonline.hatenablog.com/entry/2015/08/22/153009" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://daimaruonline.hatenablog.com/entry/2015/08/22/153009"></a></li>
+<li><a href="http://tako-black.hatenablog.com/entry/2015/08/22/004943" target="_blank">YAPC::Asia Tokyo 1日目 - tako_blackのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://tako-black.hatenablog.com/entry/2015/08/22/004943" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tako-black.hatenablog.com/entry/2015/08/22/004943"></a></li>
+<li><a href="http://tako-black.hatenablog.com/entry/2015/08/22/235252" target="_blank">YAPC::Asia Tokyo 2日目 - tako_blackのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://tako-black.hatenablog.com/entry/2015/08/22/235252" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tako-black.hatenablog.com/entry/2015/08/22/235252"></a></li>
+<li><a href="http://d.hatena.ne.jp/hide_o_55/20150823/1440266992" target="_blank"> YAPC::Asia Tokyo 2015に行ってきた #yapcasia - WebService::Blog-&gt;new( user =&gt; 'hide_o_55' )</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/hide_o_55/20150823/1440266992" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/hide_o_55/20150823/1440266992"></a></li>
+<li><a href="http://petitviolet.hatenablog.com/entry/20150822/1440248002" target="_blank">YAPC::Asia Tokyo2015 #yapcasia に参加した - petitviolet_blog</a> <a href="http://b.hatena.ne.jp/entry/http://petitviolet.hatenablog.com/entry/20150822/1440248002" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://petitviolet.hatenablog.com/entry/20150822/1440248002"></a></li>
+<li><a href="http://hiratara.github.io/posts/2015-08-22-YAPC-THOUGHT.html" target="_blank">Born in Tomakomai city - YAPC::Asia 2015 を終えて</a> <a href="http://b.hatena.ne.jp/entry/http://hiratara.github.io/posts/2015-08-22-YAPC-THOUGHT.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hiratara.github.io/posts/2015-08-22-YAPC-THOUGHT.html"></a></li>
+<li><a href="http://www.kaoriya.net/blog/2015/08/22/" target="_blank">YAPC::Asia 2015 に参加してきました &mdash; KaoriYa</a> <a href="http://b.hatena.ne.jp/entry/http://www.kaoriya.net/blog/2015/08/22/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.kaoriya.net/blog/2015/08/22/"></a></li>
+<li><a href="http://yoku0825.blogspot.jp/2015/08/yapcasia-mysql-57lt.html" target="_blank">日々の覚書: #yapcasia でMySQL 5.7の罠についてLTしてきました</a> <a href="http://b.hatena.ne.jp/entry/http://yoku0825.blogspot.jp/2015/08/yapcasia-mysql-57lt.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yoku0825.blogspot.jp/2015/08/yapcasia-mysql-57lt.html"></a></li>
+<li><a href="http://hakobe932.hatenablog.com/entry/2015/08/23/115552" target="_blank">YAPC::Asia Tokyo 2015 に参加した #yapcasia - はこべブログ ♨</a> <a href="http://b.hatena.ne.jp/entry/http://hakobe932.hatenablog.com/entry/2015/08/23/115552" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hakobe932.hatenablog.com/entry/2015/08/23/115552"></a></li>
+<li><a href="http://rhysd.hatenablog.com/entry/2015/08/23/113548" target="_blank"> YAPC::Asia 2015 良かった... - sorry, uninuplemented:</a> <a href="http://b.hatena.ne.jp/entry/http://rhysd.hatenablog.com/entry/2015/08/23/113548" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rhysd.hatenablog.com/entry/2015/08/23/113548"></a></li>
+<li><a href="http://spangled-shalalala.hatenablog.com/entry/2015/08/22/234227" target="_blank">YAPC::Asia Tokyo2015に行ってきた！初YAPCでござる！ - spangled shalalala blog</a> <a href="http://b.hatena.ne.jp/entry/http://spangled-shalalala.hatenablog.com/entry/2015/08/22/234227" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://spangled-shalalala.hatenablog.com/entry/2015/08/22/234227"></a></li>
+<li><a href="http://blog.tmd45.jp/entry/2015/08/23/043202" target="_blank">YAPC::Asia Tokyo 2015 2日目 - TMD45&#39;β&#39;LOG!!!</a> <a href="http://b.hatena.ne.jp/entry/http://blog.tmd45.jp/entry/2015/08/23/043202" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.tmd45.jp/entry/2015/08/23/043202"></a></li>
+<li><a href="http://blog.tmd45.jp/entry/2015/08/22/015638" target="_blank">YAPC::Asia Tokyo 2015 1日目 - TMD45&#39;β&#39;LOG!!!</a> <a href="http://b.hatena.ne.jp/entry/http://blog.tmd45.jp/entry/2015/08/22/015638" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.tmd45.jp/entry/2015/08/22/015638"></a></li>
+<li><a href="http://upamune.github.io/blog/2015/08/22/yapc-asia-2015/" target="_blank">YAPC::Asia 2015に参加してきた!! #yapcasia | 人権を得たいゴミ</a> <a href="http://b.hatena.ne.jp/entry/http://upamune.github.io/blog/2015/08/22/yapc-asia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://upamune.github.io/blog/2015/08/22/yapc-asia-2015/"></a></li>
+<li><a href="https://note.mu/hiro93n/n/n3dc76c7f6b35" target="_blank">YAPC::Asia2015が愛だらけだった #yapcasia | やまぐち たかひろ | note</a> <a href="http://b.hatena.ne.jp/entry/https://note.mu/hiro93n/n/n3dc76c7f6b35" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://note.mu/hiro93n/n/n3dc76c7f6b35"></a></li>
+<li><a href="http://k2lab.hateblo.jp/entry/2015/08/23/034847" target="_blank">YAPC::ASIA 2015に行ってきました！ - k2wankoの技術的なanything</a> <a href="http://b.hatena.ne.jp/entry/http://k2lab.hateblo.jp/entry/2015/08/23/034847" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://k2lab.hateblo.jp/entry/2015/08/23/034847"></a></li>
+<li><a href="http://ka2u.hatenablog.com/entry/2015/08/23/032653" target="_blank">YAPC Asia 2015 #yapcasia - Learn to Crawl</a> <a href="http://b.hatena.ne.jp/entry/http://ka2u.hatenablog.com/entry/2015/08/23/032653" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ka2u.hatenablog.com/entry/2015/08/23/032653"></a></li>
+<li><a href="http://d.hatena.ne.jp/amari3/20150822/1440258048" target="_blank">YAPC::Asia Tokyo 2015に参加してきた - amari3のはてなダイアリー</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/amari3/20150822/1440258048" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/amari3/20150822/1440258048"></a></li>
+<li><a href="https://fumiyas.github.io/2015/08/22/yapc-git.sh.html" target="_blank">YAPC::Asia Tokyo 2015 に参加して Git.sh を作り始めてみた - ダメ出し Blog</a> <a href="http://b.hatena.ne.jp/entry/https://fumiyas.github.io/2015/08/22/yapc-git.sh.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://fumiyas.github.io/2015/08/22/yapc-git.sh.html"></a></li>
+<li><a href="http://taiko19xx.hatenablog.jp/entry/2015/08/22/084529" target="_blank">YAPC::Asia Tokyo 2015(1日目)に行ってきた #yapcasia - チラシの裏の落書き</a> <a href="http://b.hatena.ne.jp/entry/http://taiko19xx.hatenablog.jp/entry/2015/08/22/084529" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://taiko19xx.hatenablog.jp/entry/2015/08/22/084529"></a></li>
+<li><a href="http://blog.toshimaru.net/yapc-2015/" target="_blank">YAPC::Asia 2015で心に残ったトーク&スライド #yapcasia - Hack Your Design!</a> <a href="http://b.hatena.ne.jp/entry/http://blog.toshimaru.net/yapc-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.toshimaru.net/yapc-2015/"></a></li>
+<li><a href="http://blog.koogawa.com/entry/2015/08/21/213533" target="_blank">#yapcasia YAPC::Asia Tokyo 2015 参加メモ - koogawa blog</a> <a href="http://b.hatena.ne.jp/entry/http://blog.koogawa.com/entry/2015/08/21/213533" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.koogawa.com/entry/2015/08/21/213533"></a></li>
+<li><a href="http://kymmt90.hatenablog.com/entry/yapc2015" target="_blank">YAPC::Asia Tokyo 2015 に行った - kymmt&#39;s note</a> <a href="http://b.hatena.ne.jp/entry/http://kymmt90.hatenablog.com/entry/yapc2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kymmt90.hatenablog.com/entry/yapc2015"></a></li>
+<li><a href="http://imtnd.hatenablog.com/entry/2015/08/22/234703" target="_blank">YAPC::Asia 2015 2日目(最終日)に参加したのでまとめ - imtndのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://imtnd.hatenablog.com/entry/2015/08/22/234703" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://imtnd.hatenablog.com/entry/2015/08/22/234703"></a></li>
+<li><a href="http://d.hatena.ne.jp/hijili2/20150822" target="_blank">YAPC::Asia Tokyo 2015 終わってしまった... - スベリブログ.tech</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/hijili2/20150822" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/hijili2/20150822"></a></li>
+<li><a href="http://d.hatena.ne.jp/hijili2/20150821" target="_blank">♪YAPC〜（ヤングマンの要領で）前夜祭 - スベリブログ.tech</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/hijili2/20150821" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/hijili2/20150821"></a></li>
+<li><a href="http://blog.kyanny.me/entry/2015/08/23/005247" target="_blank">YAPC 2日目 感想 - @kyanny&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kyanny.me/entry/2015/08/23/005247" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kyanny.me/entry/2015/08/23/005247"></a></li>
+<li><a href="http://comonsense.hatenablog.com/entry/2015/08/23/005841" target="_blank">YAPC Asia Tokyo 2015に参加してきました - α・β・κ</a> <a href="http://b.hatena.ne.jp/entry/http://comonsense.hatenablog.com/entry/2015/08/23/005841" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://comonsense.hatenablog.com/entry/2015/08/23/005841"></a></li>
+<li><a href="http://hitode909.hatenablog.com/entry/2015/08/22/235900" target="_blank">YAPCでベストトーク賞いただきました #yapcasia - hitode909の日記</a> <a href="http://b.hatena.ne.jp/entry/http://hitode909.hatenablog.com/entry/2015/08/22/235900" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hitode909.hatenablog.com/entry/2015/08/22/235900"></a></li>
+<li><a href="http://lycoris102.hatenablog.com/entry/2015/08/21/232532" target="_blank">YAPC::Asia Tokyo2015に参加しました(1日目) - ぷらこあ</a> <a href="http://b.hatena.ne.jp/entry/http://lycoris102.hatenablog.com/entry/2015/08/21/232532" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lycoris102.hatenablog.com/entry/2015/08/21/232532"></a></li>
+<li><a href="http://lycoris102.hatenablog.com/entry/2015/08/22/233814" target="_blank">YAPC::Asia Tokyo2015に参加しました(2日目) - ぷらこあ</a> <a href="http://b.hatena.ne.jp/entry/http://lycoris102.hatenablog.com/entry/2015/08/22/233814" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lycoris102.hatenablog.com/entry/2015/08/22/233814"></a></li>
+<li><a href="http://haya14busa.com/yapcasia-2015/" target="_blank">ブログを書くまでが #yapcasia なのでブログでLT発表して感想かく ― Vim駆動学習 - haya14busa</a> <a href="http://b.hatena.ne.jp/entry/http://haya14busa.com/yapcasia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://haya14busa.com/yapcasia-2015/"></a></li>
+<li><a href="http://imtnd.hatenablog.com/entry/2015/08/22/234703" target="_blank">YAPC::Asia 2015 2日目(最終日)に参加したのでまとめ - imtndのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://imtnd.hatenablog.com/entry/2015/08/22/234703" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://imtnd.hatenablog.com/entry/2015/08/22/234703"></a></li>
+<li><a href="http://atotto.hatenadiary.jp/entry/yapcasia-2015" target="_blank">YAPC::Asia 2015 へ行ってきた #yapcasia - memoメモ</a> <a href="http://b.hatena.ne.jp/entry/http://atotto.hatenadiary.jp/entry/yapcasia-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://atotto.hatenadiary.jp/entry/yapcasia-2015"></a></li>
+<li><a href="http://yomitanpm.org/entry/20150823.html" target="_blank">YAPC::Asia Tokyo 2015 に参加しました! | Yomitan Perl Mongers</a> <a href="http://b.hatena.ne.jp/entry/http://yomitanpm.org/entry/20150823.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yomitanpm.org/entry/20150823.html"></a></li>
+<li><a href="http://blog.hello-world.jp.net/blog/3654/" target="_blank">YAPC::Asia Tokyo 2015に行ってきました | hello-world.jp.net</a> <a href="http://b.hatena.ne.jp/entry/http://blog.hello-world.jp.net/blog/3654/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.hello-world.jp.net/blog/3654/"></a></li>
+<li><a href="http://d.hatena.ne.jp/sssinsi/20150822/1440262520" target="_blank">最高なYAPC::Asia Tokyo 2015に参加して
+きた - しんしの日記</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/sssinsi/20150822/1440262520" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/sssinsi/20150822/1440262520"></a></li>
+<li><a href="http://wolfmasa.hatenadiary.com/entry/2015/08/23/014713" target="_blank">始まりがあれば、いつか終わる（YAPC Asia Day 2） - wolfmasa&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://wolfmasa.hatenadiary.com/entry/2015/08/23/014713" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://wolfmasa.hatenadiary.com/entry/2015/08/23/014713"></a></li>
+<li><a href="http://wolfmasa.hatenadiary.com/entry/2015/08/22/011200" target="_blank">眠い目をこすりながら（YAPC Asia 2015 Day 1） - wolfmasa&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://wolfmasa.hatenadiary.com/entry/2015/08/22/011200" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://wolfmasa.hatenadiary.com/entry/2015/08/22/011200"></a></li>
+<li><a href="http://wolfmasa.hatenadiary.com/entry/2015/08/21/080000" target="_blank">YAPC Asia 2015 前夜祭 - wolfmasa&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://wolfmasa.hatenadiary.com/entry/2015/08/21/080000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://wolfmasa.hatenadiary.com/entry/2015/08/21/080000"></a></li>
+<li><a href="http://sobataro.hatenablog.com/entry/2015/08/23/003654" target="_blank">YAPC::Asia Tokyo 2015メモ (1/2) - そば日記</a> <a href="http://b.hatena.ne.jp/entry/http://sobataro.hatenablog.com/entry/2015/08/23/003654" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sobataro.hatenablog.com/entry/2015/08/23/003654"></a></li>
+<li><a href="http://dechnostick.hatenablog.com/entry/2015/08/23/005139" target="_blank">ヤップシー行ってきた #yapcasia - dechnostick&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://dechnostick.hatenablog.com/entry/2015/08/23/005139" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dechnostick.hatenablog.com/entry/2015/08/23/005139"></a></li>
+<li><a href="http://tolarian-academy.net/2015yapcasiaday2/" target="_blank">YAPC::Asia Day2 行ってきたよ</a> <a href="http://b.hatena.ne.jp/entry/http://tolarian-academy.net/2015yapcasiaday2/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tolarian-academy.net/2015yapcasiaday2/"></a></li>
+<li><a href="http://tolarian-academy.net/2015yapcasiaday1/" target="_blank">YAPC::Asia Day1 行ってきたよ</a> <a href="http://b.hatena.ne.jp/entry/http://tolarian-academy.net/2015yapcasiaday1/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tolarian-academy.net/2015yapcasiaday1/"></a></li>
+<li><a href="http://tolarian-academy.net/2015yapcasiaday1/" target="_blank">YAPC::Asia Day1 行ってきたよ</a> <a href="http://b.hatena.ne.jp/entry/http://tolarian-academy.net/2015yapcasiaday1/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tolarian-academy.net/2015yapcasiaday1/"></a></li>
+<li><a href="http://d.hatena.ne.jp/amari3/20150822/1440258048" target="_blank">YAPC::Asia Tokyo 2015に参加してきた - amari3のはてなダイアリー</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/amari3/20150822/1440258048" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/amari3/20150822/1440258048"></a></li>
+<li><a href="http://niwatako.hatenablog.jp/entry/2015/08/23/012730" target="_blank">YAPC::Asiaに生まれて初めて行った件に
+ついて、はてなブログを生まれて初めて書く #yapcasia - niwatakoのはてなブログ</a> <a href="http://b.hatena.ne.jp/entry/http://niwatako.hatenablog.jp/entry/2015/08/23/012730" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://niwatako.hatenablog.jp/entry/2015/08/23/012730"></a></li>
+<li><a href="http://chezou.hatenablog.com/entry/2015/08/23/012750" target="_blank">YAPC::ASIA Tokyo 2015参加してきた #yapcasia - once upon a time,</a> <a href="http://b.hatena.ne.jp/entry/http://chezou.hatenablog.com/entry/2015/08/23/012750" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chezou.hatenablog.com/entry/2015/08/23/012750"></a></li>
+<li><a href="http://motemen.hatenablog.com/entry/2015/08/yapc" target="_blank">YAPC::Asia Tokyo 2015 に行ってきた #yapcasia - 詩と創作・思索のひろば</a> <a href="http://b.hatena.ne.jp/entry/http://motemen.hatenablog.com/entry/2015/08/yapc" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://motemen.hatenablog.com/entry/2015/08/yapc"></a></li>
+<li><a href="http://amarron.hatenablog.com/entry/2015/08/23/011452" target="_blank">YAPC::Asia 2015 行ってきました - Amarronの日記</a> <a href="http://b.hatena.ne.jp/entry/http://amarron.hatenablog.com/entry/2015/08/23/011452" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://amarron.hatenablog.com/entry/2015/08/23/011452"></a></li>
+<li><a href="http://ozashu.hatenablog.com/entry/2015/08/23/013531" target="_blank">【報告】YAPC::Asiaの感想【8/21&amp;8/22】 - Foreverly</a> <a href="http://b.hatena.ne.jp/entry/http://ozashu.hatenablog.com/entry/2015/08/23/013531" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ozashu.hatenablog.com/entry/2015/08/23/013531"></a></li>
+<li><a href="http://kheiakiyama.hateblo.jp/entry/2015/08/22/224618" target="_blank">YAPC::Asia 2015 参加レポート - ぐだぐだ言ってないでコードを書けよ、ハゲ。</a> <a href="http://b.hatena.ne.jp/entry/http://kheiakiyama.hateblo.jp/entry/2015/08/22/224618" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kheiakiyama.hateblo.jp/entry/2015/08/22/224618"></a></li>
+<li><a href="http://highwide.hatenablog.com/entry/2015/08/22/230741" target="_blank">YAPC::Asia行ってきた - No Purpose</a> <a href="http://b.hatena.ne.jp/entry/http://highwide.hatenablog.com/entry/2015/08/22/230741" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://highwide.hatenablog.com/entry/2015/08/22/230741"></a></li>
+<li><a href="http://ssig33.com/text/YAPC_Asia_2015_0-1" target="_blank">ssig33.com - Docker についてアメリカの大学で工学
+博士から英語で話を聞いてきました</a> <a href="http://b.hatena.ne.jp/entry/http://ssig33.com/text/YAPC_Asia_2015_0-1" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ssig33.com/text/YAPC_Asia_2015_0-1"></a></li>
+<li><a href="http://e-matsuzaki.blogspot.jp/2015/08/yapc-asia-2015.html" target="_blank">E.Matsuzaki's Notebook: YAPC ASIA 2015に行ってきました</a> <a href="http://b.hatena.ne.jp/entry/http://e-matsuzaki.blogspot.jp/2015/08/yapc-asia-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://e-matsuzaki.blogspot.jp/2015/08/yapc-asia-2015.html"></a></li>
+<li><a href="http://hogesuke.hateblo.jp/entry/2015/08/22/220512" target="_blank">YAPC::Asia 2015 は最高のフェスだった - 無理しない感じ</a> <a href="http://b.hatena.ne.jp/entry/http://hogesuke.hateblo.jp/entry/2015/08/22/220512" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hogesuke.hateblo.jp/entry/2015/08/22/220512"></a></li>
+<li><a href="http://ichikawa.hatenadiary.jp/entry/2015/08/22/203805" target="_blank">最初で最後のYAPC:Asia - ぽんこつエンジニアのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://ichikawa.hatenadiary.jp/entry/2015/08/22/203805" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ichikawa.hatenadiary.jp/entry/2015/08/22/203805"></a></li>
+<li><a href="http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day2-infra/" target="_blank">[レポート]YAPC::Asia TOKYO 2015 Day 2(インフラ系) #yapcasia ｜ Developers.IO</a> <a href="http://b.hatena.ne.jp/entry/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day2-infra/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day2-infra/"></a></li>
+<li><a href="http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day1/" target="_blank">[レポート]YAPC::Asia TOKYO 2015 Day 1＠五十嵐 ｜ Developers.IO</a> <a href="http://b.hatena.ne.jp/entry/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day1/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day1/"></a></li>
+<li><a href="http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day0/" target="_blank">[レポート]YAPC::Asia TOKYO 2015 前夜祭＠五十嵐 ｜ Developers.IO</a> <a href="http://b.hatena.ne.jp/entry/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day0/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day0/"></a></li>
+<li><a href="http://t-wada.hatenablog.jp/entry/active-oss-development-vs-simplicity" target="_blank">OSS開発の活発さの維持と良いソフトウェア設計の間には緊張関係があるのだろうか? - t-wadaのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://t-wada.hatenablog.jp/entry/active-oss-development-vs-simplicity" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://t-wada.hatenablog.jp/entry/active-oss-development-vs-simplicity"></a></li>
+<li><a href="http://januswel.hatenablog.com/entry/2015/08/22/234502" target="_blank">back to the root through YAPC::Asia 2015 - janus_wel&#39;s diary</a> <a href="http://b.hatena.ne.jp/entry/http://januswel.hatenablog.com/entry/2015/08/22/234502" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://januswel.hatenablog.com/entry/2015/08/22/234502"></a></li>
+<li><a href="http://cotton-desu.hatenablog.com/entry/2015/08/22/234700" target="_blank">YAPC::Asia Tokyo 2015 2日目レポート - 過ぎたるは及ばざるが如し</a> <a href="http://b.hatena.ne.jp/entry/http://cotton-desu.hatenablog.com/entry/2015/08/22/234700" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://cotton-desu.hatenablog.com/entry/2015/08/22/234700"></a></li>
+<li><a href="http://cotton-desu.hatenablog.com/entry/2015/08/22/074319" target="_blank">YAPC::Asia Tokyo 2015 1日目レポート - 過ぎたるは及ばざるが如し</a> <a href="http://b.hatena.ne.jp/entry/http://cotton-desu.hatenablog.com/entry/2015/08/22/074319" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://cotton-desu.hatenablog.com/entry/2015/08/22/074319"></a></li>
+<li><a href="http://www.ie-kau.net/entry/2015/08/22/YAPC%3A%3AAsia_Tokyo_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88" target="_blank">YAPC::Asia Tokyo 2015に行ってきたよ - 俺、サービス売って家買うんだ</a> <a href="http://b.hatena.ne.jp/entry/http://www.ie-kau.net/entry/2015/08/22/YAPC%3A%3AAsia_Tokyo_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.ie-kau.net/entry/2015/08/22/YAPC%3A%3AAsia_Tokyo_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88"></a></li>
+<li><a href="http://gennei.hatenablog.jp/entry/2015/08/23/083000" target="_blank">YAPCのハッシュタグを楽に追うページを作った話 #yapcasia - gennei&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://gennei.hatenablog.jp/entry/2015/08/23/083000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gennei.hatenablog.jp/entry/2015/08/23/083000"></a></li>
+<li><a href="http://gennei.hatenablog.jp/entry/2015/08/22/230435" target="_blank">YAPC::ASIA 2日目 #yapcasia - gennei&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://gennei.hatenablog.jp/entry/2015/08/22/230435" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gennei.hatenablog.jp/entry/2015/08/22/230435"></a></li>
+<li><a href="http://gennei.hatenablog.jp/entry/2015/08/22/222817" target="_blank"> YAPC::ASIA 1日目 #yapcasia - gennei&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://gennei.hatenablog.jp/entry/2015/08/22/222817" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gennei.hatenablog.jp/entry/2015/08/22/222817"></a></li>
+<li><a href="http://gennei.hatenablog.jp/entry/2015/08/21/093502" target="_blank">ブログはタイトルが9割!? - YAPC::ASIA2015::0日目(前夜祭) #yapcasia - gennei&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://gennei.hatenablog.jp/entry/2015/08/21/093502" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gennei.hatenablog.jp/entry/2015/08/21/093502"></a></li>
+<li><a href="http://chonaso.hatenablog.com/entry/20150822/1440250018" target="_blank">YAPC::Asia Tokyo 2015 2日目 #YAPCAsia - Chonaso&#39;s Commentary@hatenablog</a> <a href="http://b.hatena.ne.jp/entry/http://chonaso.hatenablog.com/entry/20150822/1440250018" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chonaso.hatenablog.com/entry/20150822/1440250018"></a></li>
+<li><a href="http://chonaso.hatenablog.com/entry/20150821/1440168373" target="_blank">YAPC::Asia Tokyo 2015 1日目 #YAPCAsia - Chonaso&#39;s Commentary@hatenablog</a> <a href="http://b.hatena.ne.jp/entry/http://chonaso.hatenablog.com/entry/20150821/1440168373" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chonaso.hatenablog.com/entry/20150821/1440168373"></a></li>
+<li><a href="http://nii-yan.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F" target="_blank">YAPC::Asiaに参加してきました - イクジニアブログ</a> <a href="http://b.hatena.ne.jp/entry/http://nii-yan.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nii-yan.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F"></a></li>
+<li><a href="http://kimkimmy.hatenablog.com/entry/2015/08/22/224557" target="_blank">YAPC::Asiaに行ってきた。 - デジタルとアナログの中庸</a> <a href="http://b.hatena.ne.jp/entry/http://kimkimmy.hatenablog.com/entry/2015/08/22/224557" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kimkimmy.hatenablog.com/entry/2015/08/22/224557"></a></li>
+<li><a href="http://m-shige1979.hatenablog.com/entry/2015/08/22/233000" target="_blank">YAPC::Asia Tokyo 2015 前夜祭 #yapcasia - m_shige1979のささやかな抵抗と欲望の日々</a> <a href="http://b.hatena.ne.jp/entry/http://m-shige1979.hatenablog.com/entry/2015/08/22/233000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://m-shige1979.hatenablog.com/entry/2015/08/22/233000"></a></li>
+<li><a href="http://m-shige1979.hatenablog.com/entry/2015/08/23/100000" target="_blank">YAPC::Asia Tokyo 2015 1日目 #yapcasia - m_shige1979のささやかな抵抗と欲望の日々</a> <a href="http://b.hatena.ne.jp/entry/http://m-shige1979.hatenablog.com/entry/2015/08/23/100000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://m-shige1979.hatenablog.com/entry/2015/08/23/100000"></a></li>
+<li><a href="http://s-wool.blog.jp/archives/1037814235.html" target="_blank">YAPC::Asia 2015で配ってたあれ - Steel Room 2nd</a> <a href="http://b.hatena.ne.jp/entry/http://s-wool.blog.jp/archives/1037814235.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://s-wool.blog.jp/archives/1037814235.html"></a></li>
+<li><a href="http://kuroneko0208.hatenablog.com/entry/2015/08/22/232247" target="_blank">ハムフェア2015とYAPC2015に参加 - くろねこ日記</a> <a href="http://b.hatena.ne.jp/entry/http://kuroneko0208.hatenablog.com/entry/2015/08/22/232247" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kuroneko0208.hatenablog.com/entry/2015/08/22/232247"></a></li>
+<li><a href="http://malloc.hatenablog.com/entry/2015/08/22/231552" target="_blank">YAPC::Asia Tokyo 2015 Day2 - ruby on rails開発日記</a> <a href="http://b.hatena.ne.jp/entry/http://malloc.hatenablog.com/entry/2015/08/22/231552" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://malloc.hatenablog.com/entry/2015/08/22/231552"></a></li>
+<li><a href="http://malloc.hatenablog.com/entry/2015/08/22/203756" target="_blank">YAPC::Asia Tokyo 2015 Day1 - ruby on rails開発日記</a> <a href="http://b.hatena.ne.jp/entry/http://malloc.hatenablog.com/entry/2015/08/22/203756" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://malloc.hatenablog.com/entry/2015/08/22/203756"></a></li>
+<li><a href="http://codenote.net/study/3093.html" target="_blank">「YAPC::Asia Tokyo 2015」8/22(土) 振り返り #yapcasia | CodeNote.net</a> <a href="http://b.hatena.ne.jp/entry/http://codenote.net/study/3093.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://codenote.net/study/3093.html"></a></li>
+<li><a href="http://codenote.net/study/3092.html" target="_blank">「YAPC::Asia Tokyo 2015」8/21(金) 振り返り #yapcasia | CodeNote.net</a> <a href="http://b.hatena.ne.jp/entry/http://codenote.net/study/3092.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://codenote.net/study/3092.html"></a></li>
+<li><a href="http://yoonchulkoh.hatenablog.com/entry/2015/08/22/204925" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - 悪あがきプログラマー</a> <a href="http://b.hatena.ne.jp/entry/http://yoonchulkoh.hatenablog.com/entry/2015/08/22/204925" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yoonchulkoh.hatenablog.com/entry/2015/08/22/204925"></a></li>
+<li><a href="http://muziyoshiz.hatenablog.com/entry/2015/08/22/200949" target="_blank">YAPC::Asia Day 2 レポート 〜 Mackerelの開発言語、ペパボのデプロイ高速化など - 無印吉澤@HatenaBlog</a> <a href="http://b.hatena.ne.jp/entry/http://muziyoshiz.hatenablog.com/entry/2015/08/22/200949" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://muziyoshiz.hatenablog.com/entry/2015/08/22/200949"></a></li>
+<li><a href="http://muziyoshiz.hatenablog.com/entry/2015/08/21/235357" target="_blank">YAPC::Asia Day 1 レポート 〜 Miiverseのデプロイ手法、HTTP/2、Electronなど - 無印吉澤@HatenaBlog</a> <a href="http://b.hatena.ne.jp/entry/http://muziyoshiz.hatenablog.com/entry/2015/08/21/235357" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://muziyoshiz.hatenablog.com/entry/2015/08/21/235357"></a></li>
+<li><a href="http://blog.shibayu36.org/entry/2015/08/22/192950" target="_blank">#yapcasia 2015に参加しました - $shibayu36-&gt;blog;</a> <a href="http://b.hatena.ne.jp/entry/http://blog.shibayu36.org/entry/2015/08/22/192950" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.shibayu36.org/entry/2015/08/22/192950"></a></li>
+<li><a href="http://code-hex.tumblr.com/post/127293648994/yapcasia-2015-%EF%BC%91%E6%97%A5%E7%9B%AE" target="_blank"> YAPC::Asia 2015 １日目 - 思いついたままに</a> <a href="http://b.hatena.ne.jp/entry/http://code-hex.tumblr.com/post/127293648994/yapcasia-2015-%EF%BC%91%E6%97%A5%E7%9B%AE" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://code-hex.tumblr.com/post/127293648994/yapcasia-2015-%EF%BC%91%E6%97%A5%E7%9B%AE"></a></li>
+<li><a href="http://f-shin.net/fsgarage/3620" target="_blank">YAPC2015のスポンサーノベルティを研究する #yapcasia | F&#039;s Garage＠fshin2000</a> <a href="http://b.hatena.ne.jp/entry/http://f-shin.net/fsgarage/3620" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://f-shin.net/fsgarage/3620"></a></li>
+<li><a href="http://spark6251.hatenablog.com/entry/2015/08/23/041340" target="_blank">YAPC::Asia Tokyo 2015 2日目に参加してきた． - てきとーになんか書きます</a> <a href="http://b.hatena.ne.jp/entry/http://spark6251.hatenablog.com/entry/2015/08/23/041340" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://spark6251.hatenablog.com/entry/2015/08/23/041340"></a></li>
+<li><a href="http://spark6251.hatenablog.com/entry/2015/08/22/023453" target="_blank">YAPC::Asia Tokyo 2015 1日目に参加してきた - てきとーになんか書きます</a> <a href="http://b.hatena.ne.jp/entry/http://spark6251.hatenablog.com/entry/2015/08/22/023453" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://spark6251.hatenablog.com/entry/2015/08/22/023453"></a></li>
+<li><a href="http://spark6251.hatenablog.com/entry/2015/08/21/021748" target="_blank">YAPC::Asia Tokyo 2015前夜祭に参加してきた． - てきとーになんか書きます</a> <a href="http://b.hatena.ne.jp/entry/http://spark6251.hatenablog.com/entry/2015/08/21/021748" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://spark6251.hatenablog.com/entry/2015/08/21/021748"></a></li>
+<li><a href="http://kannagidensi.r.ribbon.to/rnote/rnote.php?u=diary/pc/others/26750821.htm" target="_blank">神和電子@rNote - YAPC::ASIA Tokyo の 1 日目に行って参りました</a> <a href="http://b.hatena.ne.jp/entry/http://kannagidensi.r.ribbon.to/rnote/rnote.php?u=diary/pc/others/26750821.htm" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kannagidensi.r.ribbon.to/rnote/rnote.php?u=diary/pc/others/26750821.htm"></a></li>
+<li><a href="http://blog.kentarok.org/entry/2015/08/22/000000" target="_blank">2015年8月22日 - delirious thoughts</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kentarok.org/entry/2015/08/22/000000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kentarok.org/entry/2015/08/22/000000"></a></li>
+<li><a href="http://blog.kentarok.org/entry/2015/08/22/003640" target="_blank">2015年8月21日 - delirious thoughts</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kentarok.org/entry/2015/08/22/003640" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kentarok.org/entry/2015/08/22/003640"></a></li>
+<li><a href="http://diary.shu-cream.net/2015/08/21/yapc-and-water-bus.html" target="_blank">YAPC 2015 に船で行く - けんちゃんくんさんの Web日記</a> <a href="http://b.hatena.ne.jp/entry/http://diary.shu-cream.net/2015/08/21/yapc-and-water-bus.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://diary.shu-cream.net/2015/08/21/yapc-and-water-bus.html"></a></li>
+<li><a href="http://ppworks.hatenablog.jp/entry/2015/08/21/233135" target="_blank">YAPC ASIA 2015の1日目に行ってきた。 #yapcasia - pblog</a> <a href="http://b.hatena.ne.jp/entry/http://ppworks.hatenablog.jp/entry/2015/08/21/233135" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ppworks.hatenablog.jp/entry/2015/08/21/233135"></a></li>
+<li><a href="http://eiryu.hatenablog.com/entry/2015/08/23/153459" target="_blank">YAPC::Asia TOKYO 2015に行ってきた #yapcasia - コードつれづれ</a> <a href="http://b.hatena.ne.jp/entry/http://eiryu.hatenablog.com/entry/2015/08/23/153459" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://eiryu.hatenablog.com/entry/2015/08/23/153459"></a></li>
+<li><a href="http://nii-yan.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F" target="_blank">YAPC::Asiaに参加してきました - イクジニアブログ</a> <a href="http://b.hatena.ne.jp/entry/http://nii-yan.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nii-yan.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F"></a></li>
+<li><a href="http://open.mixi.jp/user/542588/diary/1945372031" target="_blank">YAPC::Asia Tokyo 2015にスポンサー招待枠で行ってきた。(1/2) | mixiみんなの日記</a> <a href="http://b.hatena.ne.jp/entry/http://open.mixi.jp/user/542588/diary/1945372031" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://open.mixi.jp/user/542588/diary/1945372031"></a></li>
+<li><a href="http://blog.takady.net/blog/2015/08/22/yapc-asia-2015/" target="_blank">YAPC::Asia 2015 に行ってきた | Yuichi Takada</a> <a href="http://b.hatena.ne.jp/entry/http://blog.takady.net/blog/2015/08/22/yapc-asia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.takady.net/blog/2015/08/22/yapc-asia-2015/"></a></li>
+<li><a href="http://post.tetsuji.jp/2015/08/yapcasia2015-summary/" target="_blank">YAPC::Asia Tokyo 2015 に参加してきました #yapcasia | #interest_ae</a> <a href="http://b.hatena.ne.jp/entry/http://post.tetsuji.jp/2015/08/yapcasia2015-summary/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://post.tetsuji.jp/2015/08/yapcasia2015-summary/"></a></li>
+<li><a href="http://bayashi.net/diary/2015/0823" target="_blank">YAPC::Asia 2015 行ってきた - @bayashi Diary</a> <a href="http://b.hatena.ne.jp/entry/http://bayashi.net/diary/2015/0823" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://bayashi.net/diary/2015/0823"></a></li>
+<li><a href="http://stc1988.hatenablog.jp/entry/2015/08/23/171637" target="_blank">YAPC::Asia Tokyo 2015 参加しました。 - Kick Out the World</a> <a href="http://b.hatena.ne.jp/entry/http://stc1988.hatenablog.jp/entry/2015/08/23/171637" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://stc1988.hatenablog.jp/entry/2015/08/23/171637"></a></li>
+<li><a href="http://mof-brown.hatenablog.com/entry/2015/08/21/225749" target="_blank">YAPC::Asia Tokyo 2015 1日目参加レポート - mof-brown</a> <a href="http://b.hatena.ne.jp/entry/http://mof-brown.hatenablog.com/entry/2015/08/21/225749" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mof-brown.hatenablog.com/entry/2015/08/21/225749"></a></li>
+<li><a href="http://mof-brown.hatenablog.com/entry/2015/08/23/140423" target="_blank">YAPC::Asia Tokyo 2015 2日目参加レポート - mof-brown</a> <a href="http://b.hatena.ne.jp/entry/http://mof-brown.hatenablog.com/entry/2015/08/23/140423" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mof-brown.hatenablog.com/entry/2015/08/23/140423"></a></li>
+<li><a href="http://dekotech.dekokun.info/entries/2015/08/23" target="_blank">2015-08-23 - でこてっくろぐ ねお</a> <a href="http://b.hatena.ne.jp/entry/http://dekotech.dekokun.info/entries/2015/08/23" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dekotech.dekokun.info/entries/2015/08/23"></a></li>
+<li><a href="http://qiita.com/wh11e7rue/items/d6bf4f052ed93ceca71c" target="_blank">yapcasia - YAPC::Asia 2015 2日目 感想 - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/wh11e7rue/items/d6bf4f052ed93ceca71c" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/wh11e7rue/items/d6bf4f052ed93ceca71c"></a></li>
+<li><a href="http://blue1st.hateblo.jp/entry/2015/08/23/170636" target="_blank">YAPC::Asia Tokyo 2015 行ってきた！ - そんな今日この頃でして、、、</a> <a href="http://b.hatena.ne.jp/entry/http://blue1st.hateblo.jp/entry/2015/08/23/170636" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blue1st.hateblo.jp/entry/2015/08/23/170636"></a></li>
+<li><a href="http://ijin.github.io/blog/2015/08/23/yapc-asia-tokyo-2015/" target="_blank">YAPC::Asia Tokyo 2015に参加してきた - @ijin</a> <a href="http://b.hatena.ne.jp/entry/http://ijin.github.io/blog/2015/08/23/yapc-asia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ijin.github.io/blog/2015/08/23/yapc-asia-tokyo-2015/"></a></li>
+<li><a href="http://qiita.com/ariarijp/items/2ab7b1ef74db55d0ed7f" target="_blank">yapcasia - YAPC::Asia 2015 聴講メモ: 前夜祭版 - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/ariarijp/items/2ab7b1ef74db55d0ed7f" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/ariarijp/items/2ab7b1ef74db55d0ed7f"></a></li>
+<li><a href="http://qiita.com/ariarijp/items/5b6cf76dbc7f4577907e" target="_blank">yapcasia - YAPC::Asia 2015 聴講メモ: 1日目版 - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/ariarijp/items/5b6cf76dbc7f4577907e" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/ariarijp/items/5b6cf76dbc7f4577907e"></a></li>
+<li><a href="http://qiita.com/ariarijp/items/c0e161ca31c6a5da4b2e" target="_blank">yapcasia - YAPC::Asia 2015 聴講メモ: 2日目版 - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/ariarijp/items/c0e161ca31c6a5da4b2e" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/ariarijp/items/c0e161ca31c6a5da4b2e"></a></li>
+<li><a href="http://catatsuy.hateblo.jp/entry/2015/08/24/000000" target="_blank">YAPC::Asia 2015の個人的感想 #yapcasia - catatsuyとは</a> <a href="http://b.hatena.ne.jp/entry/http://catatsuy.hateblo.jp/entry/2015/08/24/000000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://catatsuy.hateblo.jp/entry/2015/08/24/000000"></a></li>
+<li><a href="http://south37.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%21%21_" target="_blank">YAPC::Asia 2015に行ってきた!!  - south37のブログ</a> <a href="http://b.hatena.ne.jp/entry/http://south37.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%21%21_" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://south37.hatenablog.com/entry/2015/08/23/YAPC%3A%3AAsia_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%21%21_"></a></li>
+<li><a href="http://decobisu.hatenablog.com/entry/2015/08/23/183727" target="_blank">YAPC::Asia Tokyo 2015に行ってきた #yapcasia - decobisuの日記</a> <a href="http://b.hatena.ne.jp/entry/http://decobisu.hatenablog.com/entry/2015/08/23/183727" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://decobisu.hatenablog.com/entry/2015/08/23/183727"></a></li>
+<li><a href="http://open.mixi.jp/user/542588/diary/1945372477" target="_blank">YAPC::Asia Tokyo 2015にスポンサー招待枠で行ってきた。(2/2) | mixiみんなの日記</a> <a href="http://b.hatena.ne.jp/entry/http://open.mixi.jp/user/542588/diary/1945372477" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://open.mixi.jp/user/542588/diary/1945372477"></a></li>
+<li><a href="http://the.nyarla.net/entry/2015/08/23/185341" target="_blank">『ニート』だけど YAPC::Asia Tokyo 2015 に参加してきました！ - カラクリサイクル</a> <a href="http://b.hatena.ne.jp/entry/http://the.nyarla.net/entry/2015/08/23/185341" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://the.nyarla.net/entry/2015/08/23/185341"></a></li>
+<li><a href="http://taketo957.hatenablog.com/entry/2015/08/23/185629" target="_blank">YAPC::Asia 2015参加レポート #yapcasia - 人生一度はXXX</a> <a href="http://b.hatena.ne.jp/entry/http://taketo957.hatenablog.com/entry/2015/08/23/185629" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://taketo957.hatenablog.com/entry/2015/08/23/185629"></a></li>
+<li><a href="http://taketo957.hatenablog.com/entry/2015/08/23/185629" target="_blank">YAPC::Asia 2015参加レポート #yapcasia - 人生一度はXXX</a> <a href="http://b.hatena.ne.jp/entry/http://taketo957.hatenablog.com/entry/2015/08/23/185629" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://taketo957.hatenablog.com/entry/2015/08/23/185629"></a></li>
+<li><a href="http://a3no.hatenablog.com/entry/2015/08/23/204354" target="_blank">YAPC::Asia Tokyo 2015に参加した話 - ほわいとぼーど</a> <a href="http://b.hatena.ne.jp/entry/http://a3no.hatenablog.com/entry/2015/08/23/204354" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://a3no.hatenablog.com/entry/2015/08/23/204354"></a></li>
+<li><a href="http://muzigram.muzigen.net/2015/08/yapcasia.html" target="_blank">muzigram: yapc::asiaに学ぶ平凡なエンジニアの生存戦略 #yapcasia</a> <a href="http://b.hatena.ne.jp/entry/http://muzigram.muzigen.net/2015/08/yapcasia.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://muzigram.muzigen.net/2015/08/yapcasia.html"></a></li>
+<li><a href="http://abcdef.hatenablog.com/entry/2015/08/22/222218" target="_blank">YAPC::Asia Tokyo 2015 最終日に参加した話 - ミグストラノート</a> <a href="http://b.hatena.ne.jp/entry/http://abcdef.hatenablog.com/entry/2015/08/22/222218" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://abcdef.hatenablog.com/entry/2015/08/22/222218"></a></li>
+<li><a href="http://kenny8511.hatenablog.com/entry/2015/08/23/205946" target="_blank">YAPC::Asia Tokyo 2015 行ってきました！ - ケニーの日記</a> <a href="http://b.hatena.ne.jp/entry/http://kenny8511.hatenablog.com/entry/2015/08/23/205946" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kenny8511.hatenablog.com/entry/2015/08/23/205946"></a></li>
+<li><a href="http://blog.ytnobody.net/entry/2015-08-23-21-15-00.html" target="_blank">
+YAPC::Asia 2015 TokyoでLarry WallやCarlos Limaとコミュニケーションしてきた | All Your Bugs Are Belong To Ass</a> <a href="http://b.hatena.ne.jp/entry/http://blog.ytnobody.net/entry/2015-08-23-21-15-00.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.ytnobody.net/entry/2015-08-23-21-15-00.html"></a></li>
+<li><a href="http://back.hatenablog.com/entry/2015/08/23/213122" target="_blank">YAPC::Asia Tokyo 2015に行ってきたぞ - LEKU ONA</a> <a href="http://b.hatena.ne.jp/entry/http://back.hatenablog.com/entry/2015/08/23/213122" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://back.hatenablog.com/entry/2015/08/23/213122"></a></li>
+<li><a href="http://akihiro0228.hatenablog.com/entry/2015/08/23/212752" target="_blank">YAPC::Asia 2015 に行ってきました - 1日目 - Akihiro&#39;s Programmer Blog</a> <a href="http://b.hatena.ne.jp/entry/http://akihiro0228.hatenablog.com/entry/2015/08/23/212752" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://akihiro0228.hatenablog.com/entry/2015/08/23/212752"></a></li>
+<li><a href="http://blog.kksg.net/posts/yapc-hackathon-2015" target="_blank">YAPC::Asia 2015 Hackathon での進捗 - 9mのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kksg.net/posts/yapc-hackathon-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kksg.net/posts/yapc-hackathon-2015"></a></li>
+<li><a href="http://tkr0429.github.io/2015/08/yapc-asia2015/#.VdnDJFPtmko" target="_blank">YAPC::Asia 2015 Tokyoに行った話 - tkr0429 blog</a> <a href="http://b.hatena.ne.jp/entry/http://tkr0429.github.io/2015/08/yapc-asia2015/#.VdnDJFPtmko" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tkr0429.github.io/2015/08/yapc-asia2015/#.VdnDJFPtmko"></a></li>
+<li><a href="http://taiko19xx.hatenablog.jp/entry/2015/08/23/215958" target="_blank">YAPC::Asia Tokyo 2015(2日目)に行ってきた #yapcasia - チラシの裏の落書き</a> <a href="http://b.hatena.ne.jp/entry/http://taiko19xx.hatenablog.jp/entry/2015/08/23/215958" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://taiko19xx.hatenablog.jp/entry/2015/08/23/215958"></a></li>
+<li><a href="http://tomcha.hatenablog.jp/entry/2015/08/23/220221" target="_blank">素人がYAPC::Asia 2015に今年も行ってきた - Perlがくしゅう帳(Rubyも)</a> <a href="http://b.hatena.ne.jp/entry/http://tomcha.hatenablog.jp/entry/2015/08/23/220221" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tomcha.hatenablog.jp/entry/2015/08/23/220221"></a></li>
+<li><a href="http://blog.ngsw.jp/blog/2015/08/23/yapcasia2015.html" target="_blank">「銀の弾丸はなかった」YAPC::Asia 2015感想</a> <a href="http://b.hatena.ne.jp/entry/http://blog.ngsw.jp/blog/2015/08/23/yapcasia2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.ngsw.jp/blog/2015/08/23/yapcasia2015.html"></a></li>
+<li><a href="http://papix.hatenablog.com/entry/2015/08/23/234400" target="_blank">YAPC::Asia 2015に行って来ました - Masteries</a> <a href="http://b.hatena.ne.jp/entry/http://
+papix.hatenablog.com/entry/2015/08/23/234400" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://papix.hatenablog.com/entry/2015/08/23/234400"></a></li><li><a href="http://blog.tokoyax.com/entry/yapcasia2015/day1" target="_blank">Perlを知らない人が YAPC::Asia 2015 に参加してきた(1日目) - fugafuga.write()</a> <a href="http://b.hatena.ne.jp/entry/http://blog.tokoyax.com/entry/yapcasia2015/day1" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.tokoyax.com/entry/yapcasia2015/d
+ay1"></a></li><li><a href="http://dev.classmethod.jp/tool/push-deployment-with-consul-and-strecher-at-scale/" target="_blank">[レポート]YAPC::Asia TOKYO 2015 Consul/Strecherで大規模なPULL型デプロイを実現する #yapcasia ｜ Developers.IO</a> <a href="http://b.hatena.ne.jp/entry/http://dev.classmethod.jp/tool/push-deployment-with-consul-and-strecher-at-scale/" ta
+rget="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dev.classmethod.jp/tool/push-deployment-with-consul-and-strecher-at-scale/"></a></li><li><a href="http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day-2igarashi/" target="_blank">[レポート]YAPC::Asia TOKYO 2015 Day 2＠五十嵐 ｜ Developers.IO</a> <a href="http://b.hatena.ne.jp/entry/http://dev.classmethod.jp/event/yapcasia-tokyo-2015-day-2igarashi/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dev.classmet
+hod.jp/event/yapcasia-tokyo-2015-day-2igarashi/"></a></li><li><a href="http://sonomirai.hatenablog.com/entry/2015/08/23/01" target="_blank">YAPC::Asia2015参加レポート（Day1） - 其未来</a> <a href="http://b.hatena.ne.jp/entry/http://
+sonomirai.hatenablog.com/entry/2015/08/23/01" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sonomirai.hatenablog.com/entry/2015/08/23/01"></a></li>
+<li><a href="http://sonomirai.hatenablog.com/entry/2015/08/24/01" target="_blank">YAPC::Asia2015参加レポート（Day2） - 其未来</a> <a href="http://b.hatena.ne.jp/entry/http://
+sonomirai.hatenablog.com/entry/2015/08/24/01" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sonomirai.hatenablog.com/entry/2015/08/24/01"></a></li>
+<li><a href="http://attakei.net/2015/08/22/yapc_asia_tokyo_2015.html" target="_blank">YAPC::Asia Tokyo 2015 &mdash; attakei page</a> <a href="http://b.hatena.ne.jp/entry/http
+://attakei.net/2015/08/22/yapc_asia_tokyo_2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://attakei.net/2015/08/22/yapc_asia_tokyo_2015.html"></a>
+</li>
+<li><a href="http://itochan.hateblo.jp/entry/2015/08/23/234301" target="_blank">YAPC::Asia Tokyo 2015 に行った #yapcasia - 型想い三年</a> <a href="http://b.hatena.ne.jp/entry
+/http://itochan.hateblo.jp/entry/2015/08/23/234301" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://itochan.hateblo.jp/entry/2015/08/23/234301"></a></li>
+<li><a href="http://sakapun.hatenablog.com/entry/2015/08/24/015105" target="_blank">YAPC2015に初めて参加した新潟のPHPerの話 - sakapunのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://sakapun.hatenablog.com/entry/2015/08/24/015105" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sakapun.hatenablog.com/entry/2015/08/24/015105"></a></li>
+<li><a href="http://rohki.hatenablog.com/entry/2015/08/24/023612" target="_blank">会社休んで3年ぶりに YAPC::Asia 2015 に参加した。 - ソモサン</a> <a href="http://b.hatena.ne.jp/entry/http://rohki.hatenablog.com/entry/2015/08/24/023612" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rohki.hatenablog.com/entry/2015/08/24/023612"></a></li>
+<li><a href="http://k2lab.hateblo.jp/entry/2015/08/24/015423" target="_blank">YAPC::Asia 2015 Hackathonに行ってきました - k2wankoの技術的なanything</a> <a href="http://b.hatena.ne.jp/entry/http://k2lab.hateblo.jp/entry/2015/08/24/015423" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://k2lab.hateblo.jp/entry/2015/08/24/015423"></a></li>
+<li><a href="http://kobtea.net/posts/2015/08/23/yapc/" target="_blank">YAPC::Asia Tokyo 2015 で聴いたセッションのメモや感想 - kobtea.net</a> <a href="http://b.hatena.ne.jp/entry/http://kobtea.net/posts/2015/08/23/yapc/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kobtea.net/posts/2015/08/23/yapc/"></a></li>
+<li><a href="http://fuzuki.blogspot.jp/2015/08/yapcasia-tokyo-2015.html" target="_blank">文月の覚え書き: YAPC::Asia Tokyo 2015参加してきた</a> <a href="http://b.hatena.ne.jp/entry/http://fuzuki.blogspot.jp/2015/08/yapcasia-tokyo-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://fuzuki.blogspot.jp/2015/08/yapcasia-tokyo-2015.html"></a></li>
+<li><a href="http://somat.hatenablog.com/entry/2015/08/24/012952" target="_blank">YAPC::Asia Tokyo 2015 に行ってきました - somat&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://somat.hatenablog.com/entry/2015/08/24/012952" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://somat.hatenablog.com/entry/2015/08/24/012952"></a></li>
+<li><a href="http://kentana20.hatenablog.com/entry/2015/08/24/011452" target="_blank">YAPC::Asia 2015 に行ってきた - kentana20 技忘録</a> <a href="http://b.hatena.ne.jp/entry/http://kentana20.hatenablog.com/entry/2015/08/24/011452" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kentana20.hatenablog.com/entry/2015/08/24/011452"></a></li>
+<li><a href="http://ktaro.hatenablog.com/entry/2015/08/24/011739" target="_blank">YAPC::Asia Tokyo 2015に参加した - ktaroのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://ktaro.hatenablog.com/entry/2015/08/24/011739" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ktaro.hatenablog.com/entry/2015/08/24/011739"></a></li>
+<li><a href="http://tamanishi.hatenablog.com/entry/2015/08/24/005519" target="_blank">息子(4)の誕生日を差し置いてYAPC::Asia 2015に参加してきました - tamanishi's 置き場</a> <a href="http://b.hatena.ne.jp/entry/http://tamanishi.hatenablog.com/entry/2015/08/24/005519" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tamanishi.hatenablog.com/entry/2015/08/24/005519"></a></li>
+<li><a href="http://kurotaky.hatenablog.com/entry/2015/08/24/003930" target="_blank">YAPC::ASIA2015に参加してきた - mo-fu note</a> <a href="http://b.hatena.ne.jp/entry/http://kurotaky.hatenablog.com/entry/2015/08/24/003930" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kurotaky.hatenablog.com/entry/2015/08/24/003930"></a></li>
+<li><a href="http://argrath.ub32.org/annex/2015/08/22-18.html" target="_blank">YAPC::Asia 2015に参加してきた - 王様の耳は驢馬の耳(別館)</a> <a href="http://b.hatena.ne.jp/entry/http://argrath.ub32.org/annex/2015/08/22-18.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://argrath.ub32.org/annex/2015/08/22-18.html"></a></li>
+<li><a href="http://app2641.hatenablog.com/entry/2015/08/23/223538" target="_blank">やっぷしーーーーーーーーーーーーーーーーーーーーーーーーーーーーー #yapcasia - Lazuli</a> <a href="http://b.hatena.ne.jp/entry/http://app2641.hatenablog.com/entry/2015/08/23/223538" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://app2641.hatenablog.com/entry/2015/08/23/223538"></a></li>
+<li><a href="http://tbpgr.hatenablog.com/entry/2015/08/23/223506" target="_blank">YAPC::ASIA チケット譲り受け駆動参加レポート #yapcasia - Tbpgr Blog</a> <a href="http://b.hatena.ne.jp/entry/http://tbpgr.hatenablog.com/entry/2015/08/23/223506" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tbpgr.hatenablog.com/entry/2015/08/23/223506"></a></li>
+<li><a href="http://sota1235.hatenablog.com/entry/2015/08/23/222850" target="_blank">YAPC::2015に行って来ました - はらへり日記</a> <a href="http://b.hatena.ne.jp/entry/http://sota1235.hatenablog.com/entry/2015/08/23/222850" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sota1235.hatenablog.com/entry/2015/08/23/222850"></a></li>
+<li><a href="http://kenny.hatenablog.com/entry/2015/08/23/185827" target="_blank">YAPC Asia 2015 に参加してきた - 人生のリセットボタンを押してみた</a> <a href="http://b.hatena.ne.jp/entry/http://kenny.hatenablog.com/entry/2015/08/23/185827" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kenny.hatenablog.com/entry/2015/08/23/185827"></a></li>
+<li><a href="http://oinume.hatenablog.com/entry/yapc-asia-2015-day2" target="_blank">YAPC::Asia 2015に行ってきた(2日目) - oinume journal</a> <a href="http://b.hatena.ne.jp/entry/http://oinume.hatenablog.com/entry/yapc-asia-2015-day2" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://oinume.hatenablog.com/entry/yapc-asia-2015-day2"></a></li>
+<li><a href="http://programmermot.hatenablog.com/entry/2015/08/23/234058" target="_blank">YAPC::Asia Tokyo 2015行ってきた - 雑な話</a> <a href="http://b.hatena.ne.jp/entry/http://programmermot.hatenablog.com/entry/2015/08/23/234058" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://programmermot.hatenablog.com/entry/2015/08/23/234058"></a></li>
+<li><a href="http://oinume.hatenablog.com/entry/yapc-asia-2015-day1" target="_blank">YAPC::Asia 2015に行ってきた(1日目) - oinume journal</a> <a href="http://b.hatena.ne.jp/entry/http://oinume.hatenablog.com/entry/yapc-asia-2015-day1" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://oinume.hatenablog.com/entry/yapc-asia-2015-day1"></a></li>
+<li><a href="http://oinume.hatenablog.com/entry/yapc-asia-2015-day0" target="_blank">YAPC::Asia 2015行ってきた(前夜祭) - oinume journal</a> <a href="http://b.hatena.ne.jp/entry/http://oinume.hatenablog.com/entry/yapc-asia-2015-day0" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://oinume.hatenablog.com/entry/yapc-asia-2015-day0"></a></li>
+<li><a href="http://unasuke.com/diary/2015/yapc-asia-tokyo-2015/" target="_blank">YAPC::Asia Tokyo 2015に参加した | うなすけとあれこれ</a> <a href="http://b.hatena.ne.jp/entry/http://unasuke.com/diary/2015/yapc-asia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://unasuke.com/diary/2015/yapc-asia-tokyo-2015/"></a></li>
+<li><a href="http://ainame.hateblo.jp/entry/2015/08/24/083000" target="_blank">YAPC::Asia Tokyo 2015に行ってきた #yapcasia - ainameの日記</a> <a href="http://b.hatena.ne.jp/entry/http://ainame.hateblo.jp/entry/2015/08/24/083000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ainame.hateblo.jp/entry/2015/08/24/083000"></a></li>
+<li><a href="http://kambayashia.hatenablog.com/entry/yapc-asia-2015-day-2" target="_blank">YAPC::Asia 2015 2日目感想ま>とめ - kambayashiの日記</a> <a href="http://b.hatena.ne.jp/entry/http://kambayashia.hatenablog.com/entry/yapc-asia-2015-day-2" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kambayashia.hatenablog.com/entry/yapc-asia-2015-day-2"></a></li>
+<li><a href="http://kun432.hatenablog.com/entry/2015/08/24/YAPC%3A%3AAsia_Tokyo_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - kun432&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://kun432.hatenablog.com/entry/2015/08/24/YAPC%3A%3AAsia_Tokyo_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kun432.hatenablog.com/entry/2015/08/24/YAPC%3A%3AAsia_Tokyo_2015%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F"></a></li>
+<li><a href="http://joe-noh.hatenablog.com/entry/2015/08/24/084417" target="_blank">YAPC::Asia 2015に参加しました - mmag</a> <a href="http://b.hatena.ne.jp/entry/http://joe-noh.hatenablog.com/entry/2015/08/24/084417" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://joe-noh.hatenablog.com/entry/2015/08/24/084417"></a></li>
+<li><a href="http://jitsu102.hatenablog.com/entry/2015/08/23/113902" target="_blank">YAPC::Asia Tokyo 2015(1日目)に行ってきた #yapcasia #yapcasia2015 - jitsu102&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://jitsu102.hatenablog.com/entry/2015/08/23/113902" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://jitsu102.hatenablog.com/entry/2015/08/23/113902"></a></li>
+<li><a href="http://jitsu102.hatenablog.com/entry/2015/08/23/165520" target="_blank">YAPC::Asia Tokyo 2015(2日目)に行ってきた #yapcasia #yapcasia2015 - jitsu102&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://jitsu102.hatenablog.com/entry/2015/08/23/165520" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://jitsu102.hatenablog.com/entry/2015/08/23/165520"></a></li>
+<li><a href="http://2k0ri.hatenablog.com/entry/2015/08/21/153254" target="_blank">YAPC::Asia 2015 1日目 - したためなければいきのこれない</a> <a href="http://b.hatena.ne.jp/entry/http://2k0ri.hatenablog.com/entry/2015/08/21/153254" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://2k0ri.hatenablog.com/entry/2015/08/21/153254"></a></li>
+<li><a href="http://2k0ri.hatenablog.com/entry/2015/08/22/141402" target="_blank">YAPC::Asia 2015 2日目 - したためなければいきのこれない</a> <a href="http://b.hatena.ne.jp/entry/http://2k0ri.hatenablog.com/entry/2015/08/22/141402" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://2k0ri.hatenablog.com/entry/2015/08/22/141402"></a></li>
+<li><a href="http://ksss9.hatenablog.com/entry/2015/08/22/234234" target="_blank">YAPC::Asia 2015行ってきた - スペクトラム</a> <a href="http://b.hatena.ne.jp/entry/http://ksss9.hatenablog.com/entry/2015/08/22/234234" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ksss9.hatenablog.com/entry/2015/08/22/234234"></a></li>
+<li><a href="http://windish.hatenablog.com/entries/2015/08/21" target="_blank">2015-08-21 - いつでも発展途上</a> <a href="http://b.hatena.ne.jp/entry/http://windish.hatenablog.com/entries/2015/08/21" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://windish.hatenablog.com/entries/2015/08/21"></a></li>
+<li><a href="http://yutapon.hatenablog.com/entry/2015/08/23/103000" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - yutaponのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://yutapon.hatenablog.com/entry/2015/08/23/103000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yutapon.hatenablog.com/entry/2015/08/23/103000"></a></li>
+<li><a href="http://blog.everqueue.com/chiba/2015/08/24/693/" target="_blank">YAPC::Asia Tokyo 2015に参加してきました | へぼい日記</a> <a href="http://b.hatena.ne.jp/entry/http://blog.everqueue.com/chiba/2015/08/24/693/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.everqueue.com/chiba/2015/08/24/693/"></a></li>
+<li><a href="http://www.hasegawa-tomoki.com/blog/2015/08/24/yapcasia2015/" target="_blank">あの逆三角形の内部 ～ YAPC::Asia 行ってきた #yapcasia | 長谷川智希 @tomzoh blog</a> <a href="http://b.hatena.ne.jp/entry/http://www.hasegawa-tomoki.com/blog/2015/08/24/yapcasia2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.hasegawa-tomoki.com/blog/2015/08/24/yapcasia2015/"></a></li>
+<li><a href="http://mizchi.hatenablog.com/entry/2015/08/24/130016" target="_blank">YAPCで俺たちの夏が終わった - mizchi&#39;s blog</a> <a href="http://b.hatena.ne.jp/entry/http://mizchi.hatenablog.com/entry/2015/08/24/130016" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mizchi.hatenablog.com/entry/2015/08/24/130016"></a></li>
+<li><a href="http://www2.hatenadiary.jp/entry/2015/08/23/164725" target="_blank">YAPC::Asia Tokyo 2015行ってきた - (｡･ω･｡)ノ･☆&#39;:*;&#39;:*</a> <a href="http://b.hatena.ne.jp/entry/http://www2.hatenadiary.jp/entry/2015/08/23/164725" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www2.hatenadiary.jp/entry/2015/08/23/164725"></a></li>
+<li><a href="http://09.hatenadiary.jp/entry/2015/08/24/070000" target="_blank">YAPC::Asia Tokyo 2015 - 09</a> <a href="http://b.hatena.ne.jp/entry/http://09.hatenadiary.jp/entry/2015/08/24/070000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://09.hatenadiary.jp/entry/2015/08/24/070000"></a></li>
+<li><a href="http://task-blog.net/2015/08/23/yapc2015report-0/" target="_blank">YAPC::Asia 2015に参加してきた(前夜祭編) | task blog</a> <a href="http://b.hatena.ne.jp/entry/http://task-blog.net/2015/08/23/yapc2015report-0/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://task-blog.net/2015/08/23/yapc2015report-0/"></a></li>
+<li><a href="http://sakaik.hateblo.jp/entry/20150823/yapc2015" target="_blank">10回目の最後のYAPCに2回目の参加をしてきた - sakaikの日々雑感～(T)編</a> <a href="http://b.hatena.ne.jp/entry/http://sakaik.hateblo.jp/entry/20150823/yapc2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sakaik.hateblo.jp/entry/20150823/yapc2015"></a></li>
+<li><a href="http://www.h-fj.com/blog/archives/2015/08/24-095036.php" target="_blank">YAPC::Asia TOKYO 2015終了 - The blog of H.Fujimoto</a> <a href="http://b.hatena.ne.jp/entry/http://www.h-fj.com/blog/archives/2015/08/24-095036.php" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.h-fj.com/blog/archives/2015/08/24-095036.php"></a></li>
+<li><a href="http://p-side.net/entry/116" target="_blank">YAPC::Asia Tokyo 2015に参加して大規模カンファレンス運営の知見を得ようと頑張った #yapcasia - けいまさんですけど</a> <a href="http://b.hatena.ne.jp/entry/http://p-side.net/entry/116" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://p-side.net/entry/116"></a></li>
+<li><a href="http://rohki.hatenablog.com/entry/2015/08/24/151620" target="_blank">YAPC::Asia 2015 Hackathon にて聞いたり書いたり - ソモサン</a> <a href="http://b.hatena.ne.jp/entry/http://rohki.hatenablog.com/entry/2015/08/24/151620" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rohki.hatenablog.com/entry/2015/08/24/151620"></a></li>
+<li><a href="http://ruiknemui.blogspot.jp/2015/08/yapcasia.html" target="_blank">だいたい毎日眠い: YAPC::Asiaが終わってしまった</a> <a href="http://b.hatena.ne.jp/entry/http://ruiknemui.blogspot.jp/2015/08/yapcasia.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ruiknemui.blogspot.jp/2015/08/yapcasia.html"></a></li>
+<li><a href="http://otakki.hateblo.jp/entry/2015/08/24/163356" target="_blank">YAPC::Asia 2015参加レポートと敗北 - こおろぎと蛞蝓</a> <a href="http://b.hatena.ne.jp/entry/http://otakki.hateblo.jp/entry/2015/08/24/163356" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://otakki.hateblo.jp/entry/2015/08/24/163356"></a></li>
+<li><a href="http://diary.osa-p.net/2015/08/yapcasia-tokyo-2015-yapcasia.html" target="_blank">日記: YAPC::Asia Tokyo 2015に参加してきました #yapcasia</a> <a href="http://b.hatena.ne.jp/entry/http://diary.osa-p.net/2015/08/yapcasia-tokyo-2015-yapcasia.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://diary.osa-p.net/2015/08/yapcasia-tokyo-2015-yapcasia.html"></a></li>
+<li><a href="http://mura-s.hatenadiary.jp/entry/2015/08/24/174905" target="_blank">YAPC::Asia 2015に参加しました - mura-sのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://mura-s.hatenadiary.jp/entry/2015/08/24/174905" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mura-s.hatenadiary.jp/entry/2015/08/24/174905"></a></li>
+<li><a href="http://blog.tokoyax.com/entry/yapcasia2015/day2" target="_blank">Perlを知らない人が YAPC::Asia 2015 に参加してきた(2日目) - fugafuga.write()</a> <a href="http://b.hatena.ne.jp/entry/http://blog.tokoyax.com/entry/yapcasia2015/day2" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.tokoyax.com/entry/yapcasia2015/day2"></a></li>
+<li><a href="http://konboi.hatenablog.com/entry/2015/08/24/193830" target="_blank">YAPC::Asia 2015 に参加してきた #yapcasia - @Konboi memo</a> <a href="http://b.hatena.ne.jp/entry/http://konboi.hatenablog.com/entry/2015/08/24/193830" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://konboi.hatenablog.com/entry/2015/08/24/193830"></a></li>
+<li><a href="http://ksawada.hatenablog.com/entry/2015/08/24/194126" target="_blank">YAPCに前夜祭からフル参加してきました！ - ブログ名はまだ無い(仮
+)</a> <a href="http://b.hatena.ne.jp/entry/http://ksawada.hatenablog.com/entry/2015/08/24/194126" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ksawada.hatenablog.com/entry/2015/08/24/194126"></a></li>
+<li><a href="http://upec.jp/archives/649" target="_blank">YAPC::Asia Tokyo 2015 へ参加 | yancya blog</a> <a href="http://b.hatena.ne.jp/entry/http://upec.jp/archives/649" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://upec.jp/archives/649"></a></li>
+<li><a href="http://www.showwin.asia/2015/08/24/yapcasia-2015-%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%EF%BC%81/" target="_blank">YAPC::Asia 2015 に参加してきた！ | しょ〜うぃん広場</a> <a href="http://b.hatena.ne.jp/entry/http://www.showwin.asia/2015/08/24/yapcasia-2015-%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%EF%BC%81/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.showwin.asia/2015/08/24/yapcasia-2015-%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%EF%BC%81/"></a></li>
+<li><a href="http://qiita.com/takky/items/1a821566da9aeb424145" target="_blank">YAPC::Asia 2015に行ってきた　~1日目~ - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/takky/items/1a821566da9aeb424145" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/takky/items/1a821566da9aeb424145"></a></li>
+<li><a href="http://tm-b.hatenablog.com/entry/2015/08/23/232639" target="_blank">YAPC::Asia Tokyo 2015 参加　#yapcasia - tm-b's diary</a> <a href="http://b.hatena.ne.jp/entry/http://tm-b.hatenablog.com/entry/2015/08/23/232639" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tm-b.hatenablog.com/entry/2015/08/23/232639"></a></li>
+<li><a href="http://www.chihayafuru.jp/tdiary/?date=20150821" target="_blank">ちはやふる日記 - YAPC::Asia Tokyo 2015</a> <a href="http://b.hatena.ne.jp/entry/http://www.chihayafuru.jp/tdiary/?date=20150821" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.chihayafuru.jp/tdiary/?date=20150821"></a></li>
+<li><a href="http://lpcwww.com/2015/08/23/yapcasia2015/" target="_blank">YAPC::ASIA2015!!! - 08.21 Fri / 22 Sta</a> <a href="http://b.hatena.ne.jp/entry/http://lpcwww.com/2015/08/23/yapcasia2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lpcwww.com/2015/08/23/yapcasia2015/"></a></li>
+<li><a href="http://umeyuki.net/archives/thankyou-yapcasia/" target="_blank">本当に最後だった #yapcasia エンジニアにしてくれてありがとう! - U &amp; Me</a> <a href="http://b.hatena.ne.jp/entry/http://umeyuki.net/archives/thankyou-yapcasia/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://umeyuki.net/archives/thankyou-yapcasia/"></a></li>
+<li><a href="http://deg84.hatenablog.com/entry/2015/08/25/yapcasia2015" target="_blank">YAPC::Asia Tokyo 2015レポート #yapcasia - deg84のブログ</a> <a href="http://b.hatena.ne.jp/entry/http://deg84.hatenablog.com/entry/2015/08/25/yapcasia2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://deg84.hatenablog.com/entry/2015/08/25/yapcasia2015"></a></li>
+<li><a href="http://www.chirashiura.com/entry/2015/08/25/003348" target="_blank">YAPC::Asiaにいってきました #yapcasia - チラシ裏日記上等！！新館</a> <a href="http://b.hatena.ne.jp/entry/http://www.chirashiura.com/entry/2015/08/25/003348" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.chirashiura.com/entry/2015/08/25/003348"></a></li>
+<li><a href="http://nightyknight.hatenablog.com/entry/2015/08/25/004834" target="_blank">YAPC::Asia 2015 に行ってきました - (ブロ&#39;)グ</a> <a href="http://b.hatena.ne.jp/entry/http://nightyknight.hatenablog.com/entry/2015/08/25/004834" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nightyknight.hatenablog.com/entry/2015/08/25/004834"></a></li>
+<li><a href="http://mint.hateblo.jp/entry/2015/08/25/011317" target="_blank">YAPC::Asia TOKYO 2015 に行きました - ミントフレーバー緑茶</a> <a href="http://b.hatena.ne.jp/entry/http://mint.hateblo.jp/entry/2015/08/25/011317" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mint.hateblo.jp/entry/2015/08/25/011317"></a></li>
+<li><a href="http://k242hd.github.io/blog/2015/08/25/yapc-paticipated/" target="_blank">YAPC::Asia Tokyo 2015に参加した話 | To Be Engineered</a> <a href="http://b.hatena.ne.jp/entry/http://k242hd.github.io/blog/2015/08/25/yapc-paticipated/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://k242hd.github.io/blog/2015/08/25/yapc-paticipated/"></a></li>
+<li><a href="http://sylph01.hatenablog.jp/entry/20150825/1440444404" target="_blank">YAPC::Asia Tokyo 2015 1日目(8/21)参加記録 - そんなことはさて>おいて</a> <a href="http://b.hatena.ne.jp/entry/http://sylph01.hatenablog.jp/entry/20150825/1440444404" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sylph01.hatenablog.jp/entry/20150825/1440444404"></a></li>
+<li><a href="http://hogespace.hatenablog.jp/entry/2015/08/25/024401" target="_blank">YAPC::Asia Tokyo 2015に行ってきました！#yapcasia - まどろみの思考空間</a> <a href="http://b.hatena.ne.jp/entry/http://hogespace.hatenablog.jp/entry/2015/08/25/024401" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hogespace.hatenablog.jp/entry/2015/08/25/024401"></a></li>
+<li><a href="http://www.nishimiyahara.net/2015/08/25/062743" target="_blank">YAPC::Asia Tokyo とPerlと私 #yapcasia | IT Office Nishimiyahara</a> <a href="http://b.hatena.ne.jp/entry/http://www.nishimiyahara.net/2015/08/25/062743" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.nishimiyahara.net/2015/08/25/062743"></a></li>
+<li><a href="http://freedom-man.com/blog/yapc-reporter-2015/" target="_blank">Perlド初心者がYAPC gihyoレポーターをやってみた話</a> <a href="http://b.hatena.ne.jp/entry/http://freedom-man.com/blog/yapc-reporter-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://freedom-man.com/blog/yapc-reporter-2015/"></a></li>
+<li><a href="http://satzz.hatenablog.com/entry/2015/08/25/084328" target="_blank">ぼくのさんかしたさいしょでさいごのYAPC::Asia Tokyo - Schreibe mit Blut</a> <a href="http://b.hatena.ne.jp/entry/http://satzz.hatenablog.com/entry/2015/08/25/084328" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://satzz.hatenablog.com/entry/2015/08/25/084328"></a></li>
+<li><a href="http://greenhorn.hateblo.jp/entry/2015/08/24/232651" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - ミルク色の記録</a> <a href="http://b.hatena.ne.jp/entry/http://greenhorn.hateblo.jp/entry/2015/08/24/232651" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://greenhorn.hateblo.jp/entry/2015/08/24/232651"></a></li>
+<li><a href="http://ameblo.jp/tomihisa18/entry-12065336860.html" target="_blank">YAPC::Asia Tokyoの10年間｜馮富久のブログ - Tomihisa Fuon&#39;s Blog</a> <a href="http://b.hatena.ne.jp/entry/http://ameblo.jp/tomihisa18/entry-12065336860.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ameblo.jp/tomihisa18/entry-12065336860.html"></a></li>
+<li><a href="http://chiastolite.hatenablog.com/entry/2015/08/24/170012" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - chiastolite's blog</a> <a href="http://b.hatena.ne.jp/entry/http://chiastolite.hatenablog.com/entry/2015/08/24/170012" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chiastolite.hatenablog.com/entry/2015/08/24/170012"></a></li>
+<li><a href="http://ameblo.jp/tomihisa18/entry-12065336860.html" target="_blank">YAPC::Asia Tokyoの10年間｜馮富久のブログ - Tomihisa Fuon&#39;s Blog</a> <a href="http://b.hatena.ne.jp/entry/http://ameblo.jp/tomihisa18/entry-12065336860.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ameblo.jp/tomihisa18/entry-12065336860.html"></a></li>
+<li><a href="http://yutacar.net/post/127352256644/%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9Fyapcasia-tokyo-2015" target="_blank">参加した！YAPC::Asia TOKYO 2015 | yutacar.net</a> <a href="http://b.hatena.ne.jp/entry/http://yutacar.net/post/127352256644/%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9Fyapcasia-tokyo-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yutacar.net/post/127352256644/%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9Fyapcasia-tokyo-2015"></a></li>
+<li><a href="http://alpacat.hatenablog.com/entry/2015/08/24/113000" target="_blank">YAPC::Asia 2015 に参加しました - アルパカログ</a> <a href="http://b.hatena.ne.jp/entry/http://alpacat.hatenablog.com/entry/2015/08/24/113000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://alpacat.hatenablog.com/entry/2015/08/24/113000"></a></li>
+<li><a href="http://portalshit.net/2015/08/25/spectated-yapc-asia-tokyo-2015" target="_blank">YAPC::Asia Tokyo 2015 を観覧 - portal shit!</a> <a href="http://b.hatena.ne.jp/entry/http://portalshit.net/2015/08/25/spectated-yapc-asia-tokyo-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://portalshit.net/2015/08/25/spectated-yapc-asia-tokyo-2015"></a></li>
+<li><a href="http://kanonji.info/blog/2015/08/25/report-yapc-asia-tokyo-2015/" target="_blank">YAPC::Asia Tokyo 2015に行ってきました | kanonjiのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://kanonji.info/blog/2015/08/25/report-yapc-asia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kanonji.info/blog/2015/08/25/report-yapc-asia-tokyo-2015/"></a></li>
+<li><a href="http://kanonji.info/blog/2015/08/22/make-electron-based-sample-application-with-electron-prebuilt/" target="_blank">Electronでサンプルアプリケーションを作ってみた（electron-prebuilt） | kanonjiのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://kanonji.info/blog/2015/08/22/make-electron-based-sample-application-with-electron-prebuilt/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kanonji.info/blog/2015/08/22/make-electron-based-sample-application-with-electron-prebuilt/"></a></li>
+<li><a href="http://john-smith.hatenadiary.jp/entry/2015/08/25/050621" target="_blank">YAPC Asia TOKYO 2015 - 無精・短気・傲慢</a> <a href="http://b.hatena.ne.jp/entry/http://john-smith.hatenadiary.jp/entry/2015/08/25/050621" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://john-smith.hatenadiary.jp/entry/2015/08/25/050621"></a></li>
+<li><a href="http://kitak.hatenablog.jp/entry/2015/08/25/120146" target="_blank">YAPC::Asia 2015に参加しました #yapcasia - kitak.blog</a> <a href="http://b.hatena.ne.jp/entry/http://kitak.hatenablog.jp/entry/2015/08/25/120146" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kitak.hatenablog.jp/entry/2015/08/25/120146"></a></li>
+<li><a href="https://www.wantedly.com/companies/hitomedia/posts/9113" target="_blank">【弊社の社員がYAPC Asiaに登壇しました!!】... 株式会社ヒトメディアの投稿 - Wantedly</a> <a href="http://b.hatena.ne.jp/entry/https://www.wantedly.com/companies/hitomedia/posts/9113" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://www.wantedly.com/companies/hitomedia/posts/9113"></a></li>
+<li><a href="https://moneyforward.com/engineers_blog/2015/08/24/yapcasiatokyo2015-1stday/" target="_blank">YAPC::Asia Tokyo 2015 1日目 #yapcasia | マネーフォワード エンジニアブログ</a> <a href="http://b.hatena.ne.jp/entry/https://moneyforward.com/engineers_blog/2015/08/24/yapcasiatokyo2015-1stday/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://moneyforward.com/engineers_blog/2015/08/24/yapcasiatokyo2015-1stday/"></a></li>
+<li><a href="http://leko.jp/archives/769" target="_blank">YAPC 2015行ってきました | WEB EGG</a> <a href="http://b.hatena.ne.jp/entry/http://leko.jp/archives/769" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://leko.jp/archives/769"></a></li>
+<li><a href="http://hayajo.hatenablog.com/entry/2015/08/25/184401" target="_blank">YAPC::Asia Tokyo 2015 に参加してきました - hayajoのはてなブログ</a> <a href="http://b.hatena.ne.jp/entry/http://hayajo.hatenablog.com/entry/2015/08/25/184401" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hayajo.hatenablog.com/entry/2015/08/25/184401"></a></li>
+<li><a href="http://arvelt.hatenablog.com/entry/2015/08/24/194910" target="_blank">YAPC2015に行った話 - arveltのソフトウェア技術メモ</a> <a href="http://b.hatena.ne.jp/entry/http://arvelt.hatenablog.com/entry/2015/08/24/194910" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://arvelt.hatenablog.com/entry/2015/08/24/194910"></a></li>
+<li><a href="http://akihiro0228.hatenablog.com/entry/2015/08/25/213551" target="_blank">YAPC::Asia 2015 に行ってきました - 2日目 - Akihiro&#39;s Programmer Blog</a> <a href="http://b.hatena.ne.jp/entry/http://akihiro0228.hatenablog.com/entry/2015/08/25/213551" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://akihiro0228.hatenablog.com/entry/2015/08/25/213551"></a></li>
+<li><a href="http://cross-black777.hatenablog.com/entry/2015/08/23/000442" target="_blank">YAPC::Asia Tokyo 2015 に参加しました！ - とある元SEの学習日記</a> <a href="http://b.hatena.ne.jp/entry/http://cross-black777.hatenablog.com/entry/2015/08/23/000442" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://cross-black777.hatenablog.com/entry/2015/08/23/000442"></a></li>
+<li><a href="http://valencia.hatenablog.com/entry/2015/08/23/141230" target="_blank">YAPC::Asia 2015に参加しました。 - valencia日誌</a> <a href="http://b.hatena.ne.jp/entry/http://valencia.hatenablog.com/entry/2015/08/23/141230" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://valencia.hatenablog.com/entry/2015/08/23/141230"></a></li>
+<li><a href="http://satzz.hatenablog.com/entry/2015/08/25/084328" target="_blank">ぼくのさんかしたさいしょでさいごのYAPC::Asia Tokyo - Schreibe mit Blut</a> <a href="http://b.hatena.ne.jp/entry/http://satzz.hatenablog.com/entry/2015/08/25/084328" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://satzz.hatenablog.com/entry/2015/08/25/084328"></a></li>
+<li><a href="http://betahikaru.hatenablog.com/entry/2015/08/25/225026" target="_blank">YAPC::Asia Tokyo 2014 Rebuild Meetup と YAPC::Asia Tokyo 2015 と 私
+ - betahikaruのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://betahikaru.hatenablog.com/entry/2015/08/25/225026" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://betahikaru.hatenablog.com/entry/2015/08/25/225026"></a></li>
+<li><a href="http://smczk.hatenablog.jp/entry/2015/08/26/012051" target="_blank">YAPC::Asia Tokyo 2015に参加した。 - (・x・).mif</a> <a href="http://b.hatena.ne.jp/entry/http://smczk.hatenablog.jp/entry/2015/08/26/012051" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://smczk.hatenablog.jp/entry/2015/08/26/012051"></a></li>
+<li><a href="http://www.grimrose.org/blog/2015/08/yapc-asia-tokyo-2015/" target="_blank">YAPC::Asia Tokyo 2015 に参加してきました。 #yapcasia - open build/reports/life/index.html</a> <a href="http://b.hatena.ne.jp/entry/http://www.grimrose.org/blog/2015/08/yapc-asia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.grimrose.org/blog/2015/08/yapc-asia-tokyo-2015/"></a></li>
+<li><a href="http://sixeight.hatenablog.com/entry/2015/08/25/005109" target="_blank">YAPC::Asia TOKYO 2015 に参加してきた - ちなみに</a> <a href="http://b.hatena.ne.jp/entry/http://sixeight.hatenablog.com/entry/2015/08/25/005109" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sixeight.hatenablog.com/entry/2015/08/25/005109"></a></li>
+<li><a href="http://kixixixixi.hatenablog.com/entry/20150822/1440235875" target="_blank">YAPC::Asia 2015にいってきました - だいたいそれでいいんじゃないの</a> <a href="http://b.hatena.ne.jp/entry/http://kixixixixi.hatenablog.com/entry/20150822/1440235875" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kixixixixi.hatenablog.com/entry/20150822/1440235875"></a></li>
+<li><a href="http://qiita.com/kyohei_shimada/items/5cacd2e0e56ec19457d8" target="_blank">yapcasia - YAPC::Asia TOKYO 2015に行ってきた - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/kyohei_shimada/items/5cacd2e0e56ec19457d8" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/kyohei_shimada/items/5cacd2e0e56ec19457d8"></a></li>
+<li><a href="http://d.hatena.ne.jp/limitusus/20150825/1440520708" target="_blank">YAPC::Asia 2015レポ - Limitの日記</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/limitusus/20150825/1440520708" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/limitusus/20150825/1440520708"></a></li>
+<li><a href="http://misogi.hatenablog.jp/entry/2015/08/26/082056" target="_blank">Perl Monger じゃないけど YAPC::Asia 2015 に参加しました。 - みそぎぶろぐ</a> <a href="http://b.hatena.ne.jp/entry/http://misogi.hatenablog.jp/entry/2015/08/26/082056" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://misogi.hatenablog.jp/entry/2015/08/26/082056"></a></li>
+<li><a href="http://blog.dameninngenn.com/entry/2015/08/26/083000" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - ダメ人間オンライン</a> <a href="http://b.hatena.ne.jp/entry/http://blog.dameninngenn.com/entry/2015/08/26/083000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.dameninngenn.com/entry/2015/08/26/083000"></a></li>
+<li><a href="http://if-i-were-an-engineer.blogspot.jp/2015/08/podcastyapcasia-2015.html" target="_blank">ぼくがもしWebサービスをつくれたら: 発信したい気持ち&#12289;Podcast&#12289;エンジニアではないぼく&#12290;YAPC::Asia Tokyo 2015&#12290;</a> <a href="http://b.hatena.ne.jp/entry/http://if-i-were-an-engineer.blogspot.jp/2015/08/podcastyapcasia-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://if-i-were-an-engineer.blogspot.jp/2015/08/podcastyapcasia-2015.html"></a></li>
+<li><a href="http://perl.no-tubo.net/2015/08/26/yapcasia-tokyo2015%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88%EF%BC%81/" target="_blank">YAPC::Asia Tokyo2015に参加してきたよ！ | clicktx::Tech::Memo</a> <a href="http://b.hatena.ne.jp/entry/http://perl.no-tubo.net/2015/08/26/yapcasia-tokyo2015%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88%EF%BC%81/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://perl.no-tubo.net/2015/08/26/yapcasia-tokyo2015%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88%EF%BC%81/"></a></li>
+<li><a href="http://amagitakayosi.hatenablog.com/entry/2015/08/24/103944" target="_blank">YAPC::Asia2015みてきた #yapcasia - マルシテイアは月の上</a> <a href="http://b.hatena.ne.jp/entry/http://amagitakayosi.hatenablog.com/entry/2015/08/24/103944" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://amagitakayosi.hatenablog.com/entry/2015/08/24/103944"></a></li>
+<li><a href="http://otakki.hateblo.jp/entry/2015/08/24/163356" target="_blank">YAPC::Asia 2015参加レポートと敗北 - こおろぎと蛞蝓</a> <a href="http://b.hatena.ne.jp/entry/http://otakki.hateblo.jp/entry/2015/08/24/163356" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://otakki.hateblo.jp/entry/2015/08/24/163356"></a></li>
+<li><a href="http://reizou05.com/post-241/" target="_blank">【YAPC::Asia】0日目！前夜祭レポート！</a> <a href="http://b.hatena.ne.jp/entry/http://reizou05.com/post-241/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://reizou05.com/post-241/"></a></li>
+<li><a href="http://reizou05.com/post-249/" target="_blank">【YAPC::Asia】1日目！Day1レポート！ #yapcasia</a> <a href="http://b.hatena.ne.jp/entry/http://reizou05.com/post-249/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://reizou05.com/post-249/"></a></li>
+<li><a href="http://nikuniku.me/?p=783" target="_blank">YAPC::Asia 2015 初めましてさようなら | ニクニクドットミー</a> <a href="http://b.hatena.ne.jp/entry/http://nikuniku.me/?p=783" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nikuniku.me/?p=783"></a></li>
+<li><a href="http://yashims85.hatenablog.com/entry/2015/08/25/014711" target="_blank">YAPC::Asia 2015 ありがとう YAPCに行ってきた - yashims85のブログ</a> <a href="http://b.hatena.ne.jp/entry/http://yashims85.hatenablog.com/entry/2015/08/25/014711" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yashims85.hatenablog.com/entry/2015/08/25/014711"></a></li>
+<li><a href="http://blogs.technet.com/b/ksasaki/archive/2015/08/26/yapc-asia-tokyo-2015.aspx" target="_blank">YAPC::Asia Tokyo 2015 に参加してきた話 - More Than One Way - Site Home - TechNet Blogs</a> <a href="http://b.hatena.ne.jp/entry/http://blogs.technet.com/b/ksasaki/archive/2015/08/26/yapc-asia-tokyo-2015.aspx" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blogs.technet.com/b/ksasaki/archive/2015/08/26/yapc-asia-tokyo-2015.aspx"></a></li>
+<li><a href="http://omohayui.hatenablog.com/entry/2015/08/26/004419" target="_blank">YAPC::Asia 2015 リファクタリングの話 - omohayui blog</a> <a href="http://b.hatena.ne.jp/entry/http://omohayui.hatenablog.com/entry/2015/08/26/004419" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://omohayui.hatenablog.com/entry/2015/08/26/004419"></a></li>
+<li><a href="http://nishidy.hatenablog.com/entry/2015/08/26/000957" target="_blank">YAPC::Asia Tokyo 2015 に参加しました - nishidy devel</a> <a href="http://b.hatena.ne.jp/entry/http://nishidy.hatenablog.com/entry/2015/08/26/000957" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nishidy.hatenablog.com/entry/2015/08/26/000957"></a></li>
+<li><a href="http://gvtkne.blogspot.jp/2015/08/yapcasia-2015.html" target="_blank">Giving is Taking - Networking: YAPC::ASIA 2015 参加メモ</a> <a href="http://b.hatena.ne.jp/entry/http://gvtkne.blogspot.jp/2015/08/yapcasia-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gvtkne.blogspot.jp/2015/08/yapcasia-2015.html"></a></li>
+<li><a href="http://blog.risouf.net/entry/29" target="_blank">YAPC::Asia Tokyo 2015 振り返り - blog.risouf.net</a> <a href="http://b.hatena.ne.jp/entry/http://blog.risouf.net/entry/29" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.risouf.net/entry/29"></a></li>
+<li><a href="http://qiita.com/takky/items/94db434e29fc85170c24" target="_blank">yapcasia - YAPC::Asia 2015に行ってきた　~2日目~ - Qiita</a> <a href="http://b.hatena.ne.jp/entry/http://qiita.com/takky/items/94db434e29fc85170c24" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://qiita.com/takky/items/94db434e29fc85170c24"></a></li>
+<li><a href="http://kanamono.hatenadiary.jp/entry/2015/08/25/233705" target="_blank">YAPC::Asia 2015に参加してた - ごくフツーな日常</a> <a href="http://b.hatena.ne.jp/entry/http://kanamono.hatenadiary.jp/entry/2015/08/25/233705" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kanamono.hatenadiary.jp/entry/2015/08/25/233705"></a></li>
+<li><a href="http://okaoka.hateblo.jp/entry/2015/08/26/233714" target="_blank">YAPC::Asia 2015 に行ってきた - okaokaのスクラップ帳</a> <a href="http://b.hatena.ne.jp/entry/http://okaoka.hateblo.jp/entry/2015/08/26/233714" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://okaoka.hateblo.jp/entry/2015/08/26/233714"></a></li>
+<li><a href="http://hidashun.hatenablog.com/entry/2015/08/26/235518" target="_blank">YAPC::Asia Tokyo 2015に行きました(遅い) - 崖っぷちの男</a> <a href="http://b.hatena.ne.jp/entry/http://hidashun.hatenablog.com/entry/2015/08/26/235518" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hidashun.hatenablog.com/entry/2015/08/26/235518"></a></li>
+<li><a href="http://adokoy.hatenablog.com/entry/2015/08/27/012048" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - adokoyのブログ</a> <a href="http://b.hatena.ne.jp/entry/http://adokoy.hatenablog.com/entry/2015/08/27/012048" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://adokoy.hatenablog.com/entry/2015/08/27/012048"></a></li>
+<li><a href="http://zakiry.hatenablog.com/entry/2015/08/27/010103" target="_blank">YAPC ASIA 2015 行きました - zakiry's diary</a> <a href="http://b.hatena.ne.jp/entry/http://zakiry.hatenablog.com/entry/2015/08/27/010103" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://zakiry.hatenablog.com/entry/2015/08/27/010103"></a></li>
+<li><a href="http://yuh.hatenadiary.jp/entry/2015/08/27/004449" target="_blank">YAPCAsia 2015 参加記 - Caronte</a> <a href="http://b.hatena.ne.jp/entry/http://yuh.hatenadiary.jp/entry/2015/08/27/004449" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yuh.hatenadiary.jp/entry/2015/08/27/004449"></a></li>
+<li><a href="http://hisaichi5518.hatenablog.jp/entry/2015/08/27/135904" target="_blank">YAPC::Asia 2015に行ってきた。 - パルカワ2</a> <a href="http://b.hatena.ne.jp/entry/http://hisaichi5518.hatenablog.jp/entry/2015/08/27/135904" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hisaichi5518.hatenablog.jp/entry/2015/08/27/135904"></a></li>
+<li><a href="http://www.infiniteloop.co.jp/blog/2015/08/yapcasia-tokyo-2015/" target="_blank">YAPC::Asia Tokyo 2015 遠征記 | 株式会社インフィニット>ループ技術ブログ</a> <a href="http://b.hatena.ne.jp/entry/http://www.infiniteloop.co.jp/blog/2015/08/yapcasia-tokyo-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.infiniteloop.co.jp/blog/2015/08/yapcasia-tokyo-2015/"></a></li>
+<li><a href="http://www.bravesoft.co.jp/blog/archives/1479" target="_blank">YAPC::Asia Tokyo 2015に参加してきました | スマホ研究部 by ブレイブソフト
+</a> <a href="http://b.hatena.ne.jp/entry/http://www.bravesoft.co.jp/blog/archives/1479" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.bravesoft.co.jp/blog/archives/1479"></a></li>
+<li><a href="http://codechord.com/2015/08/yapcasiatokyo2015/" target="_blank">YAPC::Asia Tokyo 2015に参加した覚え書き #yapcasia |  codechord</a> <a href="http://b.hatena.ne.jp/entry/http://codechord.com/2015/08/yapcasiatokyo2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://codechord.com/2015/08/yapcasiatokyo2015/"></a></li>
+<li><a href="http://yukiotoko.hatenablog.com/entry/2015/08/27/023012" target="_blank">YAPC::Asia Tokyo 2015に参加しました - yukiotoko blog</a> <a href="http://b.hatena.ne.jp/entry/http://yukiotoko.hatenablog.com/entry/2015/08/27/023012" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yukiotoko.hatenablog.com/entry/2015/08/27/023012"></a></li>
+<li><a href="http://tnaototo.hatenadiary.jp/entry/2015/08/27/230234" target="_blank">YAPC::Asia Tokyo 2015 に行ってきた！ - tnaototo&#39;s diary</a> <a href="http://b.hatena.ne.jp/entry/http://tnaototo.hatenadiary.jp/entry/2015/08/27/230234" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tnaototo.hatenadiary.jp/entry/2015/08/27/230234"></a></li>
+<li><a href="http://alligatorswamp.hatenablog.com/entry/2015/08/27/210000" target="_blank">YAPC::Asia Tokyo 2015 に行ってきた - Alligator Swamp</a> <a href="http://b.hatena.ne.jp/entry/http://alligatorswamp.hatenablog.com/entry/2015/08/27/210000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://alligatorswamp.hatenablog.com/entry/2015/08/27/210000"></a></li>
+<li><a href="https://www.naney.org/diki/d/2015-08-22-YAPC-Asia-Tokyo-2015.html" target="_blank">YAPC::Asia Tokyo 2015 2日目 | nDiki</a> <a href="http://b.hatena.ne.jp/entry/https://www.naney.org/diki/d/2015-08-22-YAPC-Asia-Tokyo-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://www.naney.org/diki/d/2015-08-22-YAPC-Asia-Tokyo-2015.html"></a></li>
+<li><a href="https://www.naney.org/diki/d/2015-08-21-YAPC-Asia-Tokyo-2015.html" target="_blank">YAPC::Asia Tokyo 2015 1日目 | nDiki</a> <a href="http://b.hatena.ne.jp/entry/https://www.naney.org/diki/d/2015-08-21-YAPC-Asia-Tokyo-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://www.naney.org/diki/d/2015-08-21-YAPC-Asia-Tokyo-2015.html"></a></li>
+<li><a href="https://www.naney.org/diki/d/2015-08-20-YAPC-Asia-Tokyo-2015.html" target="_blank">YAPC::Asia Tokyo 2015 前夜祭 | nDiki</a> <a href="http://b.hatena.ne.jp/entry/https://www.naney.org/diki/d/2015-08-20-YAPC-Asia-Tokyo-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://www.naney.org/diki/d/2015-08-20-YAPC-Asia-Tokyo-2015.html"></a></li>
+<li><a href="http://naganeys.hatenablog.jp/entry/2015/08/28/200554" target="_blank">YAPC::Asia 2015 参加感想 - いろいろ、メモ</a> <a href="http://b.hatena.ne.jp/entry/http://naganeys.hatenablog.jp/entry/2015/08/28/200554" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://naganeys.hatenablog.jp/entry/2015/08/28/200554"></a></li>
+<li><a href="http://mosuke5.hateblo.jp/entry/2015/08/22/223025" target="_blank">(個人的) YAPC::Asia 2015ふりかえり - Goldstine研究所</a> <a href="http://b.hatena.ne.jp/entry/http://mosuke5.hateblo.jp/entry/2015/08/22/223025" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mosuke5.hateblo.jp/entry/2015/08/22/223025"></a></li>
+<li><a href="http://blog.hifumi.info/2015/08/29/yapcasia2015/" target="_blank">YAPC::Asia Tokyo 2015 感想 #yapcasia | blog: takahiro okumura</a> <a href="http://b.hatena.ne.jp/entry/http://blog.hifumi.info/2015/08/29/yapcasia2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.hifumi.info/2015/08/29/yapcasia2015/"></a></li>
+<li><a href="http://sironekotoro.hateblo.jp/entry/2015/08/29/104422" target="_blank">YAPC::Asia 2015 にいってきた - sironekotoroの日記</a> <a href="http://b.hatena.ne.jp/entry/http://sironekotoro.hateblo.jp/entry/2015/08/29/104422" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sironekotoro.hateblo.jp/entry/2015/08/29/104422"></a></li>
+<li><a href="http://mihyaeru21.hatenablog.com/entry/2015/08/29/160848" target="_blank">YAPC::Asia Tokyo 2015に行ってきた + 座談会に出てきた - みひゃろぐ</a> <a href="http://b.hatena.ne.jp/entry/http://mihyaeru21.hatenablog.com/entry/2015/08/29/160848" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mihyaeru21.hatenablog.com/entry/2015/08/29/160848"></a></li>
+<li><a href="http://martian.org/karen/2015/08/30/yapcasia-2015/" target="_blank">Khaos  &raquo; Blog Archive   &raquo; YAPC::Asia 2015</a> <a href="http://b.hatena.ne.jp/entry/http://martian.org/karen/2015/08/30/yapcasia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://martian.org/karen/2015/08/30/yapcasia-2015/"></a></li>
+<li><a href="http://mihyaeru21.hatenablog.com/entry/2015/08/29/160848" target="_blank">YAPC::Asia Tokyo 2015に行ってきた + 座談会に出てきた - みひゃろぐ</a> <a href="http://b.hatena.ne.jp/entry/http://mihyaeru21.hatenablog.com/entry/2015/08/29/160848" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mihyaeru21.hatenablog.com/entry/2015/08/29/160848"></a></li>
+<li><a href="http://ziguzagu.org/2015/08/yapcasia-tokyo-2015.html" target="_blank">ziguzagu.org : YAPC::Asia Tokyo 2015</a> <a href="http://b.hatena.ne.jp/entry/http://ziguzagu.org/2015/08/yapcasia-tokyo-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ziguzagu.org/2015/08/yapcasia-tokyo-2015.html"></a></li>
+<li><a href="http://martian.org/karen/2015/08/30/yapcasia-2015/" target="_blank">Khaos  &raquo; Blog Archive   &raquo; YAPC::Asia 2015</a> <a href="http://b.hatena.ne.jp/entry/http://martian.org/karen/2015/08/30/yapcasia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://martian.org/karen/2015/08/30/yapcasia-2015/"></a></li>
+<li><a href="http://weblog.bulknews.net/post/127944341844/yapcasia-2015" target="_blank">Tatsuhiko Miyagawa's blog &#8212; YAPC::Asia 2015</a> <a href="http://b.hatena.ne.jp/entry/http://weblog.bulknews.net/post/127944341844/yapcasia-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://weblog.bulknews.net/post/127944341844/yapcasia-2015"></a></li>
+<li><a href="http://blog.techack.net/archive/2015/08/30/yapcasia2015" target="_blank">YAPC::ASIA Tokyo 2015に行ってきた</a> <a href="http://b.hatena.ne.jp/entry/http://blog.techack.net/archive/2015/08/30/yapcasia2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.techack.net/archive/2015/08/30/yapcasia2015/"></a></li>
+<li><a href="http://orzup.hateblo.jp/entry/2015/08/31/082346" target="_blank">YAPC::Asia Tokyo 2015 に行ってきた！ - あらみそかもすぞ</a> <a href="http://b.hatena.ne.jp/entry/http://orzup.hateblo.jp/entry/2015/08/31/082346" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://orzup.hateblo.jp/entry/2015/08/31/082346"></a></li>
+<li><a href="http://dokechin.hatenablog.com/entry/2015/08/22/124449" target="_blank">最後のYAPC::Asia 2015に参加 - 鈍足ランナーのＩＴ日記</a> <a href="http://b.hatena.ne.jp/entry/http://dokechin.hatenablog.com/entry/2015/08/22/124449" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dokechin.hatenablog.com/entry/2015/08/22/124449"></a></li>
+<li><a href="http://hackmylife.net/archives/8948079.html" target="_blank">YAPC::Asia2015いってきた : hackmylife</a> <a href="http://b.hatena.ne.jp/entry/http://hackmylife.net/archives/8948079.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hackmylife.net/archives/8948079.html"></a></li>
+<li><a href="http://sandragon.hatenablog.com/entry/2015/08/31/001917" target="_blank">YAPC::Asia Tokyo 2015に行ってきた - MogLog</a> <a href="http://b.hatena.ne.jp/entry/http://sandragon.hatenablog.com/entry/2015/08/31/001917" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://sandragon.hatenablog.com/entry/2015/08/31/001917"></a></li>
+<li><a href="http://blog.retrorocket.biz/post/127250082745/%E5%89%8D%E5%A4%9C%E7%A5%AD-1%E6%97%A5%E7%9B%AE%E5%8F%82%E5%8A%A0%E3%83%A1%E3%83%A2" target="_blank">前夜祭～1日目参加メモ。 - Radical No.11</a> <a href="http://b.hatena.ne.jp/entry/http://blog.retrorocket.biz/post/127250082745/%E5%89%8D%E5%A4%9C%E7%A5%AD-1%E6%97%A5%E7%9B%AE%E5%8F%82%E5%8A%A0%E3%83%A1%E3%83%A2" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.retrorocket.biz/post/127250082745/%E5%89%8D%E5%A4%9C%E7%A5%AD-1%E6%97%A5%E7%9B%AE%E5%8F%82%E5%8A%A0%E3%83%A1%E3%83%A2"></a></li>
+<li><a href="http://nekoya.github.io/blog/2015/08/29/thank-yapc/" target="_blank">YAPCという区切りは大きく重いがブログを書かなければ終わらないのだ | Nekoya Press</a> <a href="http://b.hatena.ne.jp/entry/http://nekoya.github.io/blog/2015/08/29/thank-yapc/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nekoya.github.io/blog/2015/08/29/thank-yapc/"></a></li>
+<li><a href="http://wakegisky.hatenablog.com/entry/2015/09/01/000618" target="_blank">YAPC::Asia 2015 の前夜祭に参加しました - wakegisky&#39;s diary</a> <a href="http://b.hatena.ne.jp/entry/http://wakegisky.hatenablog.com/entry/2015/09/01/000618" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://wakegisky.hatenablog.com/entry/2015/09/01/000618"></a></li>
+<li><a href="http://pointoht.ti-da.net/e7911292.html" target="_blank">Perl YAPC::Asia 2015｜Perl perl_4｜blog20100901</a> <a href="http://b.hatena.ne.jp/entry/http://pointoht.ti-da.net/e7911292.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://pointoht.ti-da.net/e7911292.html"></a></li>
+<li><a href="http://blog.10rane.com/2015/08/22/yapc-asia-2015/" target="_blank">YAPC::Asia2015に行ってきた -- blog.10rane.com</a> <a href="http://b.hatena.ne.jp/entry/http://blog.10rane.com/2015/08/22/yapc-asia-2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.10rane.com/2015/08/22/yapc-asia-2015/"></a></li>
+<li><a href="http://smile-tech.net/2015/09/01/yapcasia2015.html" target="_blank">YAPC::Asia Tokyo 2015に参加してきた</a> <a href="http://b.hatena.ne.jp/entry/http://smile-tech.net/2015/09/01/yapcasia2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://smile-tech.net/2015/09/01/yapcasia2015.html"></a></li>
+<li><a href="http://umasuke.hatenablog.com/entry/2015/09/02/%E3%80%90WIP%E3%80%91YAPC%3A%3AAsia_Tokyo_2015_(1%E6%97%A5%E7%9B%AE%E3%83%BB2%E6%97%A5%E7%9B%AE)" target="_blank">【WIP】YAPC::Asia Tokyo 2015 (1日目・2日目) - 末端エンジニアの活動記録</a> <a href="http://b.hatena.ne.jp/entry/http://umasuke.hatenablog.com/entry/2015/09/02/%E3%80%90WIP%E3%80%91YAPC%3A%3AAsia_Tokyo_2015_(1%E6%97%A5%E7%9B%AE%E3%83%BB2%E6%97%A5%E7%9B%AE)" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://umasuke.hatenablog.com/entry/2015/09/02/%E3%80%90WIP%E3%80%91YAPC%3A%3AAsia_Tokyo_2015_(1%E6%97%A5%E7%9B%AE%E3%83%BB2%E6%97%A5%E7%9B%AE)"></a></li>
+<li><a href="http://hatehate.hatenadiary.jp/entry/2015/09/01/231732" target="_blank">yapc::asia 2015に行ってきた - analog</a> <a href="http://b.hatena.ne.jp/entry/http://hatehate.hatenadiary.jp/entry/2015/09/01/231732" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hatehate.hatenadiary.jp/entry/2015/09/01/231732"></a></li>
+<li><a href="http://blog.bgbgbg.net/archives/3557" target="_blank">YAPC::Asia Tokyo 2015に行ってきた</a> <a href="http://b.hatena.ne.jp/entry/http://blog.bgbgbg.net/archives/3557" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.bgbgbg.net/archives/3557"></a></li>
+<li><a href="http://note103.hateblo.jp/entry/2015/09/03/140014" target="_blank">私のYAPC::Asia TOKYO 2015（1） 〜前夜祭＆1日目〜 - the code to rock</a> <a href="http://b.hatena.ne.jp/entry/http://note103.hateblo.jp/entry/2015/09/03/140014" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://note103.hateblo.jp/entry/2015/09/03/140014"></a></li>
+<li><a href="https://gist.github.com/onigra/eafdc2c568beef26c7d6" target="_blank">YAPC::Asia 2015に行ってきました #yapcasia · GitHub</a> <a href="http://b.hatena.ne.jp/entry/https://gist.github.com/onigra/eafdc2c568beef26c7d6" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://gist.github.com/onigra/eafdc2c568beef26c7d6"></a></li>
+<li><a href="http://yoshidashingo.hatenablog.com/entry/2015/08/24/180723" target="_blank">YAPC::Asia Tokyo 2015 に行ってきた (そして約束のない土地へ) - yoshidashingo</a> <a href="http://b.hatena.ne.jp/entry/http://yoshidashingo.hatenablog.com/entry/2015/08/24/180723" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://yoshidashingo.hatenablog.com/entry/2015/08/24/180723"></a></li>
+<li><a href="http://d.hatena.ne.jp/namikawamisaki/20150903" target="_blank">2015-09-03 - なみかわみさきの日記</a> <a href="http://b.hatena.ne.jp/entry/http://d.hatena.ne.jp/namikawamisaki/20150903" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://d.hatena.ne.jp/namikawamisaki/20150903"></a></li>
+<li><a href="http://miyako.hatenablog.jp/entry/2015/08/28/011032" target="_blank">「YAPC　今年で最後って　本当？」 - 京都の片隅でぼんやりしてます</a> <a href="http://b.hatena.ne.jp/entry/http://miyako.hatenablog.jp/entry/2015/08/28/011032" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://miyako.hatenablog.jp/entry/2015/08/28/011032"></a></li>
+<li><a href="http://komaji504.hateblo.jp/entry/2015/09/03/011745" target="_blank">最初で最後のYAPC::Asia Tokyoに参加してきた - 馬鹿がエンジニアやってみた</a> <a href="http://b.hatena.ne.jp/entry/http://komaji504.hateblo.jp/entry/2015/09/03/011745" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://komaji504.hateblo.jp/entry/2015/09/03/011745"></a></li>
+<li><a href="http://seikoudoku2000.hatenablog.com/entry/yapc-asia-2015" target="_blank">YAPC:Asia Tokyo 2015 に行った - seikoudoku2000のブログ</a> <a href="http://b.hatena.ne.jp/entry/http://seikoudoku2000.hatenablog.com/entry/yapc-asia-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://seikoudoku2000.hatenablog.com/entry/yapc-asia-2015"></a></li>
+<li><a href="http://shoken.hatenablog.com/entry/2015/08/24/154224" target="_blank">YAPC::Asia 2015のスライド #yapcasia - Shoken Startup Blog</a> <a href="http://b.hatena.ne.jp/entry/http://shoken.hatenablog.com/entry/2015/08/24/154224" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://shoken.hatenablog.com/entry/2015/08/24/154224"></a></li>
+<li><a href="http://tsucchi.github.io/perl/2015/09/06/yapc" target="_blank">YAPC::Asia Tokyo 2015 の感想とか - tsucchi の日記 2nd season</a> <a href="http://b.hatena.ne.jp/entry/http://tsucchi.github.io/perl/2015/09/06/yapc/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tsucchi.github.io/perl/2015/09/06/yapc/"></a></li>
+<li><a href="http://www.yuuan.net/item/1048" target="_blank">YAPC::Asia Tokyo 2015 に行ってきました | yuuAn&#039;s Note</a> <a href="http://b.hatena.ne.jp/entry/http://www.yuuan.net/item/1048" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.yuuan.net/item/1048"></a></li>
+<li><a href="http://wakegisky.hatenablog.com/entry/2015/09/06/205649" target="_blank">YAPC::Asia 2015 2日目に参加しました - wakegisky&#39;s diary</a> <a href="http://b.hatena.ne.jp/entry/http://wakegisky.hatenablog.com/entry/2015/09/06/205649" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://wakegisky.hatenablog.com/entry/2015/09/06/205649"></a></li>
+<li><a href="http://minato128.hateblo.jp/entry/2015/08/23/233400" target="_blank">YAPC::Asia 2015 に行ってきた - minato128 blog</a> <a href="http://b.hatena.ne.jp/entry/http://minato128.hateblo.jp/entry/2015/08/23/233400" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://minato128.hateblo.jp/entry/2015/08/23/233400"></a></li>
+</ol>
+<br /><br />
+
+<h3>Sponsors | スポンサー・関係者</h3>
+<ul style="list-style-type: disc; padding-left: 2em">
+<li><a href="http://careerhack.en-japan.com/report/detail/569" target="_blank">YAPC::Asia Tokyo 2015に協賛させていただきました！ #yapcasia | CAREER HACK</a> <a href="http://b.hatena.ne.jp/entry/http://careerhack.en-japan.com/report/detail/569" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://careerhack.en-japan.com/report/detail/569"></a></li>
+<li><a href="http://shanon-tech.blogspot.jp/2015/08/yapcasia-tokyo-2015-yapcasia.html" target="_blank">YAPC::Asia Tokyo 2015 へ行ってきました！ #yapcasia</a> <a href="http://b.hatena.ne.jp/entry/http://shanon-tech.blogspot.jp/2015/08/yapcasia-tokyo-2015-yapcasia.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://shanon-tech.blogspot.jp/2015/08/yapcasia-tokyo-2015-yapcasia.html"></a></li>
+<li><a href="http://techdev.seesaa.net/article/424600481.html" target="_blank">Seesaaは今年もYAPC::Asia Tokyo 2015に協賛しております: シーサー技術開発部のブログ（仮）</a> <a href="http://b.hatena.ne.jp/entry/http://techdev.seesaa.net/article/424600481.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://techdev.seesaa.net/article/424600481.html"></a></li>
+<li><a href="http://inoue0426.hateblo.jp/entry/2015/08/23/012812" target="_blank">YAPC::Asia Tokyo 2015 ~初参加で最後の言語カンファレンスに行ってきた~ - #1000line/day #sprint</a> <a href="http://b.hatena.ne.jp/entry/http://inoue0426.hateblo.jp/entry/2015/08/23/012812" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://inoue0426.hateblo.jp/entry/2015/08/23/012812"></a></li>
+<li><a href="http://blog.mrmt.net/entry/2015/08/23/193150" target="_blank">YAPC::Asia Tokyo 2015おつかれさまでした - なんか:かんがえて-6</a> <a href="http://b.hatena.ne.jp/entry/http://blog.mrmt.net/entry/2015/08/23/193150" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.mrmt.net/entry/2015/08/23/193150"></a></li>
+<li><a href="http://www.donzoko.net/cgi-bin/tdiary/20150823.html#p01" target="_blank">どんぞこ日誌(2015-08-23)</a> <a href="http://b.hatena.ne.jp/entry/http://www.donzoko.net/cgi-bin/tdiary/20150823.html#p01" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.donzoko.net/cgi-bin/tdiary/20150823.html#p01"></a></li>
+<li><a href="http://ikuwow.website/entry/yapc2015/" target="_blank">YAPC::Asia Tokyo 2015にスポンサー側で参加してきました : Query OK.</a> <a href="http://b.hatena.ne.jp/entry/http://ikuwow.website/entry/yapc2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ikuwow.website/entry/yapc2015/"></a></li>
+<li><a href="http://shanon-tech.blogspot.jp/2015/08/0yapcasia-tokyo-2015.html" target="_blank">株式会社シャノン技術ブログ: 制作費0円!!YAPC::Asia Tokyo 2015スポンサー動画作成の裏側 #yapcasia</a> <a href="http://b.hatena.ne.jp/entry/http://shanon-tech.blogspot.jp/2015/08/0yapcasia-tokyo-2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://shanon-tech.blogspot.jp/2015/08/0yapcasia-tokyo-2015.html"></a></li>
+<li><a href="http://blog.kentarok.org/entry/2015/08/24/125656" target="_blank">「採用目的」動画が公開されました #yapcasia - delirious thoughts</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kentarok.org/entry/2015/08/24/125656" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kentarok.org/entry/2015/08/24/125656"></a></li>
+<li><a href="http://www.sixapart.jp/pressroom/2015/08/yapcasia_2015.html" target="_blank">YAPC::Asia 2015 でコーヒースポンサーをさせていただきました！ - 広報ブログ | シックス・アパート - CMSソフトウェア、サービスを提供</a> <a href="http://b.hatena.ne.jp/entry/http://www.sixapart.jp/pressroom/2015/08/yapcasia_2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.sixapart.jp/pressroom/2015/08/yapcasia_2015.html"></a></li>
+<li><a href="http://labs.gree.jp/blog/2015/08/14229/" target="_blank">YAPC::Asia Tokyo 2015にいってきました | GREE Engineers&#039; Blog</a> <a href="http://b.hatena.ne.jp/entry/http://labs.gree.jp/blog/2015/08/14229/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://labs.gree.jp/blog/2015/08/14229/"></a></li>
+<li><a href="http://blog.kushii.net/archives/1983589.html" target="_blank">YAPC::Asia の運営は４回やったけど初めて「参加」をしてきた話 - 941::blog</a> <a href="http://b.hatena.ne.jp/entry/http://blog.kushii.net/archives/1983589.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.kushii.net/archives/1983589.html"></a></li>
+<li><a href="http://careerhack.en-japan.com/report/detail/573" target="_blank">YAPC::Asia 2015の大懇親会で、参加者と運営者にひとこと頂きました #yapcasia | CAREER HACK</a> <a href="http://b.hatena.ne.jp/entry/http://careerhack.en-japan.com/report/detail/573" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://careerhack.en-japan.com/report/detail/573"></a></li>
+<li><a href="http://hokkai7go.hatenablog.jp/entry/2015/08/25/001446" target="_blank">YAPC::Asia Tokyo 2015に行って来ました - 実はhokkai7go</a> <a href="http://b.hatena.ne.jp/entry/http://hokkai7go.hatenablog.jp/entry/2015/08/25/001446" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hokkai7go.hatenablog.jp/entry/2015/08/25/001446"></a></li>
+<li><a href="http://blog.reactio.jp/entry/2015/08/25/085007" target="_blank">最後のYAPC::AsiaTokyo2015に潜入レポート!!!! - Reactioブログ | 障害対応の救世主Reactio(リアクティオ)</a> <a href="http://b.hatena.ne.jp/entry/http://blog.reactio.jp/entry/2015/08/25/085007" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.reactio.jp/entry/2015/08/25/085007"></a></li>
+<li><a href="http://blog.sixapart.jp/2015-08/yapcasia2015.html" target="_blank">vim か emacs かが問題じゃない。Perl で書くことが重要だ。#yapcasia - Six Apart ブログ</a> <a href="http://b.hatena.ne.jp/entry/http://blog.sixapart.jp/2015-08/yapcasia2015.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.sixapart.jp/2015-08/yapcasia2015.html"></a></li>
+<li><a href="http://blog.hde.co.jp/entry/2015/08/25/111123" target="_blank">YAPC::Asia Tokyo 2015に参加しました - HDE BLOG</a> <a href="http://b.hatena.ne.jp/entry/http://blog.hde.co.jp/entry/2015/08/25/111123" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.hde.co.jp/entry/2015/08/25/111123"></a></li>
+<li><a href="http://kamadango.com/yapc2015/" target="_blank">YAPC行ってきた &#8211; kamadango.com</a> <a href="http://b.hatena.ne.jp/entry/http://kamadango.com/yapc2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://kamadango.com/yapc2015/"></a></li>
+<li><a href="http://fusic.co.jp/doings/21" target="_blank">イベントレポート「YAPC::Asia Tokyo 2015」#平田レポ | Fusicってなんしようと？ | 株式会社Fusic（フュージック）｜ 福岡よりシステム開発によるソリューションを</a> <a href="http://b.hatena.ne.jp/entry/http://fusic.co.jp/doings/21" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://fusic.co.jp/doings/21"></a></li>
+<li><a href="http://ku00.hatenablog.com/entry/2015/08/28/133238" target="_blank">YAPC::Asia Tokyo 2015に参加してきた話 (前夜祭+1日目) - お布団宇宙ねこ</a> <a href="http://b.hatena.ne.jp/entry/http://ku00.hatenablog.com/entry/2015/08/28/133238" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ku00.hatenablog.com/entry/2015/08/28/133238"></a></li>
+<li><a href="http://dekotech.dekokun.info/entry/2015/08/23/171322" target="_blank">YAPC Asia 2015の感想やわからなかったことを調べたことなど #yapcasia  - でこて>っくろぐ ねお</a> <a href="http://b.hatena.ne.jp/entry/http://dekotech.dekokun.info/entry/2015/08/23/171322" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://dekotech.dekokun.info/entry/2015/08/23/171322"></a></li>
+<li><a href="http://chy72.hatenablog.com/entry/2015/08/28/024656" target="_blank">東京旅行に行ってきました - 72         (/^^)/⌒●~*</a> <a href="http://b.hatena.ne.jp/entry/http://chy72.hatenablog.com/entry/2015/08/28/024656" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chy72.hatenablog.com/entry/2015/08/28/024656"></a></li>
+</ul>
+<br /><br />
+
+<h3>Organizers/Staff | 運営（スタッフ・CONBU）</h3>
+<ul style="list-style-type: disc; padding-left: 2em">
+<li><a href="http://blog.sugyan.com/entry/2015/08/23/003533" target="_blank">YAPC::Asia 2015 に参加してきた - すぎゃーん日記</a> <a href="http://b.hatena.ne.jp/entry/http://blog.sugyan.com/entry/2015/08/23/003533" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.sugyan.com/entry/2015/08/23/003533"></a></li>
+<li><a href="http://mitsuba.hateblo.jp/entry/2015/08/23/003733" target="_blank">#yapcasia にボランティアスタッフとして参加しました - 海の響きを懐かしむ</a> <a href="http://b.hatena.ne.jp/entry/http://mitsuba.hateblo.jp/entry/2015/08/23/003733" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mitsuba.hateblo.jp/entry/2015/08/23/003733"></a></li>
+<li><a href="http://inari.hatenablog.com/entry/2015/08/23/154059" target="_blank">YAPCにボランティアスタッフとして参加してきた #yapcasia - inari111 blog</a> <a href="http://b.hatena.ne.jp/entry/http://inari.hatenablog.com/entry/2015/08/23/154059" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://inari.hatenablog.com/entry/2015/08/23/154059"></a></li>
+<li><a href="http://tamamemo.hatenablog.com/entry/2015/08/23/181940" target="_blank">今年もお祭りをつつがなく終えた #yapcasia - たまめも(tech)</a> <a href="http://b.hatena.ne.jp/entry/http://tamamemo.hatenablog.com/entry/2015/08/23/181940" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tamamemo.hatenablog.com/entry/2015/08/23/181940"></a></li>
+<li><a href="http://mactkg.hateblo.jp/entry/2015/08/23/182157" target="_blank">YAPC::Asia Tokyo 2015でボランティアスタッフした。トークの感想とスタッフやってみての所感 - 半空洞男女関係</a> <a href="http://b.hatena.ne.jp/entry/http://mactkg.hateblo.jp/entry/2015/08/23/182157" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://mactkg.hateblo.jp/entry/2015/08/23/182157"></a></li>
+<li><a href="http://hkoba.hatenablog.com/entry/2015/08/23/181455" target="_blank">最後の YAPC::Asia 2015 、ボランティアで参加してみました - hkoba blog</a> <a href="http://b.hatena.ne.jp/entry/http://hkoba.hatenablog.com/entry/2015/08/23/181455" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://hkoba.hatenablog.com/entry/2015/08/23/181455"></a></li>
+<li><a href="https://www.facebook.com/yuko.narukama/posts/866806376733643" target="_blank">YAPC::Asia Tokyo 2015にコアスタッフとして約半
+年間、運営に関わらせていただきました</a> <a href="http://b.hatena.ne.jp/entry/https://www.facebook.com/yuko.narukama/posts/866806376733643" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://www.facebook.com/yuko.narukama/posts/866806376733643"></a></li>
+<li><a href="http://gardha.hatenablog.com/entry/2015/08/23/195449" target="_blank">個人的yapc出来事 - 庭の自由な空間</a> <a href="http://b.hatena.ne.jp/entry/http://gardha.hatenablog.com/entry/2015/08/23/195449" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://gardha.hatenablog.com/entry/2015/08/23/195449"></a></li>
+<li><a href="http://lestrrat.ldblog.jp/archives/46024592.html" target="_blank">日記風味に綴る、YAPC::Asia Tokyo 2015までの道 : D-7 &lt;altijd in beweging&gt;</a> <a href="http://b.hatena.ne.jp/entry/http://lestrrat.ldblog.jp/archives/46024592.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lestrrat.ldblog.jp/archives/46024592.html"></a></li>
+<li><a href="http://chocopie116.hatenablog.com/entry/2015/08/23/%E6%9C%80%E5%88%9D%E3%81%A7%E6%9C%80%E5%BE%8C%E3%81%AEYAPC%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F_%23yapcasia_" target="_blank">最初で最後のYAPCにスタッフとして参加した #yapcasia  - It&#39;s now or never.</a> <a href="http://b.hatena.ne.jp/entry/http://chocopie116.hatenablog.com/entry/2015/08/23/%E6%9C%80%E5%88%9D%E3%81%A7%E6%9C%80%E5%BE%8C%E3%81%AEYAPC%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F_%23yapcasia_" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chocopie116.hatenablog.com/entry/2015/08/23/%E6%9C%80%E5%88%9D%E3%81%A7%E6%9C%80%E5%BE%8C%E3%81%AEYAPC%E3%81%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F_%23yapcasia_"></a></li>
+<li><a href="http://togetter.com/li/864607" target="_blank">CONBUの記録（YAPC::Asia Tokyo 2015編) - Togetterまとめ</a> <a href="http://b.hatena.ne.jp/entry/http://togetter.com/li/864607" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://togetter.com/li/864607"></a></li>
+<li><a href="http://masasuzu.hatenablog.jp/entry/2015/08/23/YAPC_Asia" target="_blank">#yapcasia YAPC::Asia 2015でボランティアスタッフしてきた - 目の前に僕らの道がある</a> <a href="http://b.hatena.ne.jp/entry/http://masasuzu.hatenablog.jp/entry/2015/08/23/YAPC_Asia" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://masasuzu.hatenablog.jp/entry/2015/08/23/YAPC_Asia"></a></li>
+<li><a href="http://monmon.hateblo.jp/entry/2015/08/24/142801" target="_blank">YAPC::Asia Tokyo がなかったら今の僕はないと言っても良いくらい楽しんで参加し続けました - こんにちはこんにちはmonmonです！</a> <a href="http://b.hatena.ne.jp/entry/http://monmon.hateblo.jp/entry/2015/08/24/142801" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://monmon.hateblo.jp/entry/2015/08/24/142801"></a></li>
+<li><a href="http://trapple.hateblo.jp/entry/2015/08/24/171423" target="_blank">YAPC::Asia 2015 に参加してきました - Blog::Trapple</a> <a href="http://b.hatena.ne.jp/entry/http://trapple.hateblo.jp/entry/2015/08/24/171423" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://trapple.hateblo.jp/entry/2015/08/24/171423"></a></li>
+<li><a href="http://ngym.org/2015/thank-you-yapc-asia-tokyo/" target="_blank">YAPC::Asia Tokyo 2015</a> <a href="http://b.hatena.ne.jp/entry/http://ngym.org/2015/thank-you-yapc-asia-tokyo/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ngym.org/2015/thank-you-yapc-asia-tokyo/"></a></li>
+<li><a href="http://taijijiji.hatenablog.com/entry/2015/08/23/231307" target="_blank">ネットワーク屋さんが初めてYAPC::Asiaに参加した雑記 - taijijiji blog</a> <a href="http://b.hatena.ne.jp/entry/http://taijijiji.hatenablog.com/entry/2015/08/23/231307" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://taijijiji.hatenablog.com/entry/2015/08/23/231307"></a></li>
+<li><a href="http://blog.katsyoshi.org/blog/2015/08/25/i-went-to-yapc-asia-as-a-volanteer-staff/" target="_blank">YAPC::Asia 2015に参加しました(ボランティアスタッフとして) - katsyoshiのめもみたいなもの</a> <a href="http://b.hatena.ne.jp/entry/http://blog.katsyoshi.org/blog/2015/08/25/i-went-to-yapc-asia-as-a-volanteer-staff/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://blog.katsyoshi.org/blog/2015/08/25/i-went-to-yapc-asia-as-a-volanteer-staff/"></a></li>
+<li><a href="https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015" target="_blank">How to pack Novelty goods YAPC::Asia Tokyo 2015 // Speaker Deck</a> <a href="http://b.hatena.ne.jp/entry/https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/takeshiyako/how-to-pack-novelty-goods-yapc-asia-tokyo-2015"></a></li>
+<li><a href="http://chnstz.net/2015/08/yapcasia10/" target="_blank">10回目のYAPC::Asiaは最高の花火だった #yapcasia | ちんぶろ</a> <a href="http://b.hatena.ne.jp/entry/http://chnstz.net/2015/08/yapcasia10/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://chnstz.net/2015/08/yapcasia10/"></a></li>
+<li><a href="http://lestrrat.ldblog.jp/archives/46039372.html" target="_blank">YAPC::Asia Tokyo 2015 - 皆に作ってもらったイベントだった : D-7 &lt;altijd in beweging&gt;</a> <a href="http://b.hatena.ne.jp/entry/http://lestrrat.ldblog.jp/archives/46039372.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://lestrrat.ldblog.jp/archives/46039372.html"></a></li>
+<li><a href="http://tsuchinoko.dmmlabs.com/?p=2122" target="_blank">YAPC::Asia Tokyo2015 の会場ネットワークをCONBUが構築しました | ツチノコブログ</a> <a href="http://b.hatena.ne.jp/entry/http://tsuchinoko.dmmlabs.com/?p=2122" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tsuchinoko.dmmlabs.com/?p=2122"></a></li>
+<li><a href="http://enukane.github.io/blog/2015/08/26/yapc2015/" target="_blank">YAPC2015 に CONBU プロジェクトメンバとして参加してきました - #error NO_MONEY</a> <a href="http://b.hatena.ne.jp/entry/http://enukane.github.io/blog/2015/08/26/yapc2015/" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://enukane.github.io/blog/2015/08/26/yapc2015/"></a></li>
+<li><a href="http://rico.blog.jp/archives/1670087.html" target="_blank">YAPC::Asia Tokyo 2015 で遊んできた #yapcasia : もふブロ</a> <a href="http://b.hatena.ne.jp/entry/http://rico.blog.jp/archives/1670087.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://rico.blog.jp/archives/1670087.html"></a></li>
+<li><a href="http://www.ekkun.com/2015/08/26/flash-back-yapcasia-tokyo.html" target="_blank">YAPC::AsiaをTシャツで振り返る。 - ekkun.com</a> <a href="http://b.hatena.ne.jp/entry/http://www.ekkun.com/2015/08/26/flash-back-yapcasia-tokyo.html" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://www.ekkun.com/2015/08/26/flash-back-yapcasia-tokyo.html"></a></li>
+<li><a href="https://medium.com/@lestrrat/the-10th-and-final-yapc-asia-tokyo-6bf15dae1ab4" target="_blank">The 10th and Final YAPC::Asia Tokyo -- Medium</a> <a href="http://b.hatena.ne.jp/entry/https://medium.com/@lestrrat/the-10th-and-final-yapc-asia-tokyo-6bf15dae1ab4" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/https://medium.com/@lestrrat/the-10th-and-final-yapc-asia-tokyo-6bf15dae1ab4"></a></li>
+<li><a href="http://tamamemo.hatenablog.com/entry/2015/08/28/014042" target="_blank">ワタシとPerl、ワタシとYAPC - たまめも(tech)</a> <a href="http://b.hatena.ne.jp/entry/http://tamamemo.hatenablog.com/entry/2015/08/28/014042" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://tamamemo.hatenablog.com/entry/2015/08/28/014042"></a></li>
+<li><a href="http://uzulla.hateblo.jp/entry/2015/08/28/034142" target="_blank">YAPC::Asia Tokyo 2015 への感謝 - uzullaがブログ</a> <a href="http://b.hatena.ne.jp/entry/http://uzulla.hateblo.jp/entry/2015/08/28/034142" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://uzulla.hateblo.jp/entry/2015/08/28/034142"></a></li>
+<li><a href="http://nekova.hatenablog.com/entry/2015/08/30/163843" target="_blank">YAPC::Asia Tokyo 2015のスタッフ業を終えて - nekovaの日記</a> <a href="http://b.hatena.ne.jp/entry/http://nekova.hatenablog.com/entry/2015/08/30/163843" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://nekova.hatenablog.com/entry/2015/08/30/163843"></a></li>
+<li><a href="http://ikosin.hatenablog.com/entry/2015/09/02/082000" target="_blank">YAPC::Asia Tokyo 2015 で CONBU スタッフとボランティアスタッフしてきた - ikosin&#39;s diary</a> <a href="http://b.hatena.ne.jp/entry/http://ikosin.hatenablog.com/entry/2015/09/02/082000" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://ikosin.hatenablog.com/entry/2015/09/02/082000"></a></li>
+<li><a href="http://bochibochibocchi0095.hatenablog.com/entry/2015/09/06/225501" target="_blank">ぼちぼちぼっちな日常</a> <a href="http://b.hatena.ne.jp/entry/http://bochibochibocchi0095.hatenablog.com/entry/2015/09/06/225501" target="_blank"><img src="http://b.hatena.ne.jp/entry/image/http://bochibochibocchi0095.hatenablog.com/entry/2015/09/06/225501"></a></li>
+</ul>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Lightning Talks (Aug 22) | 8月22日のLT</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/lightning-talks-aug-22.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.294</id>
+
+    <published>2015-08-22T02:39:38Z</published>
+    <updated>2015-08-22T02:48:43Z</updated>
+
+    <summary>約10本のLTの枠に35本の応募とはどういうことですか！本編にも引けを取らない3...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>約10本のLTの枠に35本の応募とはどういうことですか！本編にも引けを取らない3倍以上の倍率です！落ちてしまった方、すみません！</p>
+
+<p>本日は以下の方々にLTをしていただきます！</p>
+
+<p>国際会議場のモニターでの接続テストをトークとトークの間の時間に行っておいてください。LTの時間（16:40）の5分ほど前に壇上横に集まってください</p>
+
+<ul style="list-style-type: disc; padding-left: 2em">
+<li> MySQL 5.7の罠があなたを狙っている  </li>
+<li>吉祥寺.pmというイベントを作った話〜聞きたいトークが有れば自分でイベントを作ろう！〜 </li>
+<li>命名の話をします </li>
+<li>botになる技術  </li>
+<li>モダンなクライアントサイド JavaScript に追い付くためのための小さな（しかし大変な）一歩の話 </li>
+<li>Evaluating your stylesheets </li>
+<li>Thank you for ${^ENCODING} variable </li>
+<li>本物の "ロック" ってやつを魅せてあげますよ - 分散排他ロック篇</li>
+<li>コミュ力あげてこ </li>
+<li>CONBUの道具箱 </li>
+<li>Vim script静的解析の光と闇 </li>
+</ul>
+
+<p>今日発表が難しいかたは@lestrratまでご連絡ください！</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Lightning Talks (Aug 21) | 8月21日のLT</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/lightning-talks-aug-21.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.293</id>
+
+    <published>2015-08-21T02:44:56Z</published>
+    <updated>2015-08-21T02:52:25Z</updated>
+
+    <summary>本日は以下の方々にLTをしていただきます！ 国際会議場のモニターでの接続テストを...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>本日は以下の方々にLTをしていただきます！</p>
+
+<p>国際会議場のモニターでの接続テストをトークとトークの間の時間に行っておいてください。LTの時間（16:40）の5分ほど前に壇上横に集まってください</p>
+
+<ul style="list-style-type: disc; padding-left: 2em">
+<li> 日本最多のオフィス訪問シリーズ 「行ってきたシリーズ」のTOP5＋αとして日本のイケてるオフィスを紹介しちゃうよ！ </li>
+<li>Gitの作り方 </li>
+<li>SaaSを組み合わせて作る, ぼくらの障害対応術! </li>
+<li>cpm - an experimental cpan client </li>
+<li>Norikraで作るPHPの例外検出システム </li>
+<li>RSSをざっくりクロールしてゆるふわにパースする </li>
+<li>Slack + Hubot でお前の一番好きな二次元嫁キャラと一緒に仕事をする </li>
+<li>YAPC?雨事情 </li>
+<li>Haskell Strikes Back </li>
+<li>(昔の) PHP が誇った最高の機能 register_globals の真実、そして未来へ </li>
+<li> Perl同人活動報告2015 </li>
+</ul>
+
+<p>今日発表が難しいかたは@lestrratまでご連絡ください！</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>「ビッグサイトから○○までは○時間！」</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/the-big-chaban.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.292</id>
+
+    <published>2015-08-18T02:00:00Z</published>
+    <updated>2015-08-18T11:21:08Z</updated>
+
+    <summary>(Japanese Only) 今回のYAPC::Asia Tokyo 2015...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(Japanese Only)</p>
+
+<p>今回のYAPC::Asia Tokyo 2015の会場である東京ビッグサイトが遠いとお嘆きの方がたまにいらっしゃいます。はたして本当にそうなのでしょうか？！</p>
+
+<p>それを確認するため（？）にスタッフのM氏とU氏がある初夏の日に自らの体をはって実証してくれました...</p>
+
+<p><a href="http://yapcasia.org/2015/chikai.png"><img alt="chikai.png" src="http://yapcasia.org/2015/assets_c/2015/08/chikai-thumb-600xauto-570.png" width="600" height="337" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a></p>
+
+<p>以下動画の第1話をご覧ください：</p>
+
+<div style="text-align: center; display: block; margin: 0 auto 20px;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/leqKKLgKcEk?feature=player_detailpage&start=52" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p>なおこの動画はYAPC::Asia Tokyo 2015のチケット販売マーケティングの一環として作られる予定だったのですが、予想以上にチケットが売れてしまい、気づいた時には売り切れてしまっていました。そのためそれ以上の販売促進をする必要がなくなってしまい本作品危うくお蔵入りとなりかけたのですが、今回なんとかYAPC::Asia Tokyo開催前に公開を...！ という一念だけで作業が行われたものです。</p>
+
+<p>ひょっとしたらYAPC期間中に最終話まで公開できないかも... 以下、準備でき次第更新していきます...！</p>
+
+<ul style="list-style-type: disc">
+<li><a href="https://www.youtube.com/watch?v=Uk7ZLZxjidw">第0話</a></li>
+<li><a href="https://www.youtube.com/watch?v=leqKKLgKcEk">第1話 「お台場脱出編」</a></li>
+<li><a href="https://www.youtube.com/watch?v=qXDNkoweL7s">第2話 「品川で我々が見たものとは！？」 </a></li>
+<li><a href="https://www.youtube.com/watch?v=H7drbMJPiIo">第3話 「五反田昼食物語 」</a></li>
+<li><a href="https://www.youtube.com/watch?v=iy_SsNnpx0Y">第4話「我慢大会」</a></li>
+</ul>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Vote For The Best Talks! | ベストトーク賞に投票しよう！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/vote-for-the-best-talks.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.291</id>
+
+    <published>2015-08-18T01:00:00Z</published>
+    <updated>2015-08-18T01:03:39Z</updated>
+
+    <summary>(English follows Japanese) 以前アナウンスした通り、Y...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p><a href="http://yapcasia.org/2015/news/06/best-talk-awards.html" target="_blank">以前アナウンスした通り</a>、YAPC::Asia Tokyo 2015では皆様が選んだトークの上位3位までに副賞がつく「ベストトーク賞」を開催しています。</p>
+
+<div style="text-align: center; font-size: 2em; margin-bottom: 2em"><strong><a href="http://yapcasia.org/2015/vote/form">投票はこちらから！</a></strong></div>
+
+<p>Peatixチケットを持っている方なら誰でも投票できます。二日券・個人スポンサーの方は全部で4票、8月21日のトークに2票、8月22日のトーク2票投票することができます。1日券の方は来場されたその日の分のトークから2票分投票ができます。<strong>スピーカーの方々は是非投票を呼びかけてください</strong>。</p>
+
+<p>投票は8月22日のクロージング直前まで受け付けます。結果発表はクロージングの際行います！</p>
+
+<p>=====</p>
+
+<p><a href="http://yapcasia.org/2015/news/06/best-talk-awards.html" target="_blank">As previously announced</a>, you can vote for the Best Talk Awards!</p>
+
+<div style="text-align: center; font-size: 2em; margin-bottom: 2em"><strong><a href="http://yapcasia.org/2015/vote/form">Vote from here!</a></strong></div>
+
+<p>Anybody with a Peatix ticket can vote. Those with 2 day passes have 4 ballots, 2 ballots for talks on Day 1, and 2 ballots for talks on Day 2. Those with 1 day passes can vote on talks for the day the ticket is valid for. <strong>If you are a speaker, please spread the word</strong>!</p>
+
+<p>We will accept votes until right before Closing. Results will be announced at the Closing session.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>HashTags | ハッシュタグについて</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/hashtags.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.290</id>
+
+    <published>2015-08-17T08:11:27Z</published>
+    <updated>2015-08-17T08:43:39Z</updated>
+
+    <summary>(English Follows Japanese) こんにちは、YAPC実行委...</summary>
+    <author>
+        <name>Junichi Ishida</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English Follows Japanese)<br />
+こんにちは、YAPC実行委員の石田です。</p>
+
+<p>目前に迫ったYAPC::Asia Tokyo 2015ですが、当日はぜひともTwitterなどで感想や情報をシェアしてください！！</p>
+
+<p>こちらがイベント全体向けのHashtagです。</p>
+
+<p>#yapcasia</p>
+
+<p>今回はトラック毎のハッシュタグも用意いたしました。</p>
+
+<p>#yapcasiaA  / トラックA (国際会議場)<br />
+#yapcasiaB  / トラックB (701-702)<br />
+#yapcasiaC  / トラックC (703)<br />
+#yapcasiaD  / トラックD (605-606)<br />
+#yapcasiaE  / トラックE (607-608)<br />
+#yapcasiaDinner  / 懇親会 (レセプションホール)</p>
+
+<p>是非とも皆さまご活用ください！</p>
+
+<p>====</p>
+
+<p>Here are our official hashtags.</p>
+
+<p>When referring to the event as a whole, please use:</p>
+
+<p>#yapcasia</p>
+
+<p>If you want to specify which room your posts refer to, please use the following:</p>
+
+<p>#yapcasiaA / Track A (International Conference Hall)<br />
+#yapcasiaB / Track B (701-702)<br />
+#yapcasiaC / Track C (703)<br />
+#yapcasiaD / Track D (605-606)<br />
+#yapcasiaE / Track E (607-608)<br />
+#yapcasiaDinner / Conference Dinner (Reception Hall)<br />
+</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>WiFi at the Venue | 会場WiFi ネットワークについて</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/wifi-at-the-venue.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.289</id>
+
+    <published>2015-08-17T06:30:00Z</published>
+    <updated>2015-08-17T06:24:09Z</updated>
+
+    <summary>(English follows Japanese) カンファレンスに行ったはい...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>カンファレンスに行ったはいいものの、会場にWiFiがなくて接続できない... もしくは、会場にWiFiはあるけど、2000人も同時接続することを考えてないから回線が激重で使えない... そんな不安な気持ちでカンファレンスに参加するのは嫌ですよね！</p>
+
+<p>YAPC::Asia Tokyoでは2013年より毎年CONBUの皆様にお願いして会場にWiFiネットワークを設置していただいており、参加者の皆様に快適に過ごしていただけるように努めております。そして今年も<a href="http://hatenacorp.jp/" target="_blank">株式会社はてな様</a>のスポンサーシップ、そして<a href="http://conbu.net" target="_blank">CONBU</a>、<a href="http://www.juniper.net/jp/jp/" target="_blank">ジュニパーネットワークス</a>、<a href="http://labo.dmm.com/" target="_blank">DMM.com ラボ</a>の皆様の技術提供によりWiFiが提供される予定です！</p>
+
+<p><a href="/2015/network.html" target="_blank">そのWiFiについての情報はこちら</a>！SSIDやネットワーク設計が記されています。接続パスワードは会場でお知らせいたします。</p>
+
+<p>====</p>
+
+<p>Conferences need good WiFi. You don't want to go to a conference with horrible WiFi, do you?</p>
+
+<p>YAPC::Asia Tokyo has been providing custom-built WiFi that does not rely on the venue (who typically do not expect a horde of engineers to saturate their traffic) to our attendees. This year we will have one too! It will be brought to you by sponsorship of <a href="http://hatenacorp.jp/" target="_blank">Hatena Inc</a>. The network will be run by <a href="http://conbu.net" target="_blank">CONBU</a> with technical assistance by <a href="http://www.juniper.net/jp/jp/" target="_blank">Juniper Networks</a> and <a href="http://labo.dmm.com/" target="_blank">DMM.com Labo</a>.</p>
+
+<p><a href="/2015/network.html" target="_blank">Details of the network can be found here</a>! Password for the network will be given to you once you arrive to the venue.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Day 0 - YAPC::Asia Tokyo 2015 前夜祭</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/day0.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.288</id>
+
+    <published>2015-08-17T00:00:00Z</published>
+    <updated>2015-08-17T07:34:12Z</updated>
+
+    <summary>(English follows Japanese) いよいよYAPC::Asi...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>いよいよYAPC::Asia Tokyo 2015は<strong>今週</strong>です！</p>
+
+<p>YAPC::Asia Tokyo では例年本番の二日間（Day 1, Day 2）の前夜に前夜祭と称して本編のチケットを持った方であれば誰でも参加ができるイベントを行っております。前夜祭は前夜祭で一応本編とは別イベントですが、今年はトークの応募倍率が大変高かったため、微妙なラインで選ばれなかったけど、この話も聞きたい...！というものを選択させていただき、8月20日の前夜祭に話していただくことにしました。なんと前夜祭のくせに<a href="http://yapcasia.org/2015/talk/schedule?date=2015-08-20" target="_blank">２トラックです（</a>！）。</p>
+
+<p>当日は飲み物とスナックをお出ししますので、ゆるりとご来場ください。事前チェックインもできます＊ </p>
+
+<p>会場は本編と同じビッグサイト会議棟、開場は18時、トーク開始は19時の予定です。<a href="http://yapcasia.org/2015/news/07/getting-around-the-venue.html" target="_blank">道順はこちらの記事等を参考にしてください</a>。ページ内の各リンクをたどっていくと、以下のような動画での案内もあります。ただし前夜祭は7Fではなく6Fでの開催となりますのでご注意ください。本番は7Fでチェックインがあり、6Fと7F両方を使っての開催となります</p>
+
+<div class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/u1mQqOeNXrE?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p>ちなみに前夜祭のトップを飾るのは「<a href="http://yapcasia.org/2015/talk/show/b355fa20-122e-11e5-8ba5-d9f87d574c3a" target="_blank">言語開発の現場</a>」と「<a href="http://yapcasia.org/2015/talk/show/621948f2-0d46-11e5-a403-67dc7d574c3a" target="_self">PHP帝国の逆襲！（を願うPHPerが話す最近のPHPについてのクイックツアー PHP7対応版）</a>」で、午後７時から開始予定です。</p>
+
+<p>皆様のご来場をお待ちしております！</p>
+
+<p>＊）前夜祭は上記のように落選したトークの救済策として開催されることもありますが、 Day 1, Day 2に向けて運営側がチェックインの練習をするという側面もあります... 多少もたつくかもしれませんが、ご容赦ください。</p>
+
+<p>=========</p>
+
+<p>YAPC::Asia Tokyo 2015 is coming up <strong>THIS WEEK</strong>!</p>
+
+<p>We will hold our "Pre-YAPC" event on Aug 20. Every year we have a mini-social or a conference on this day, dubbed "Day 0", where <a href="http://yapcasia.org/2015/talk/schedule?date=2015-08-20" target="_blank">we enjoy some talks</a>, drinks, and snacks (note for Foreign attendees: sorry, Japanese sessions only). You can also check-in early so you don't have to do so during the busy hours on Day 1.</p>
+
+<p>The venue (same as the main YAPC::Asia Tokyo venue, Tokyo Bigsight) opens at 18:00, and the event starts at 19:00 on the 6th floor of the Conference Tower. For directions, please refer to this entry, which will also give you a video walkthrough like below:</p>
+
+<div class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/u1mQqOeNXrE?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p>We hope to see you soon!</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia Tokyo Hackathon! | YAPC::Asia Tokyo参加者なら誰でも参加OK！YAPC::Asia Tokyoハッカソンのお知らせ</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/yapcasia-tokyo-hackathon.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.287</id>
+
+    <published>2015-08-10T02:15:00Z</published>
+    <updated>2015-08-10T02:14:26Z</updated>
+
+    <summary>(English follows Japanese) こんにちは、Microso...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>こんにちは、Microsoftの久森です。</p>
+
+<p>突然ですが、2年ぶりのYAPC::Asia Tokyoハッカソンについてのお知らせです。<br />
+<strong>今年はハッカソン会場としてMicrosoftの品川セミナールームを提供できることになりました！</strong></p>
+
+<p>今回は大きい部屋を押さえることができたので、広く開放いたします。<br />
+もちろんWiFiや電源の提供もございます。</p>
+
+<p>YAPC参加者の皆様、ふるってハッカソンへもご参加ください。</p>
+
+<p>入館管理の都合上、下記URLから参加登録をお願いいたします。</p>
+
+<p><a href="http://yapcasia2015-hackathon.peatix.com" target="_blank">http://yapcasia2015-hackathon.peatix.com</a></p>
+
+<p>問い合わせ先: id:myfinder or tahisamo at microsoft.com</p>
+
+<p><br />
+<a href="http://yapcasia.org/2015/865_large.jpg"><img alt="865_large.jpg" src="http://yapcasia.org/2015/assets_c/2015/08/865_large-thumb-600xauto-564.jpg" width="600" height="399" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a><br />
+<div style="text-align: center">（注：写真は昨年のYAPC::Asia Tokyo 2014で行われたPerl入学式のものです）</div></p>
+
+<p>----------</p>
+
+<p>Hi everyone!</p>
+
+<p>We are pleased to announce that there will be a YAPC::Asia hackathon this year, hosted by Microsoft!<br />
+The venue is the Microsoft Japan 31-floor seminar room. Wi-Fi and power are obviously available!</p>
+
+<p>If you are a YAPC::Asia Tokyo 2015 attendee, you are welcome to join!<br />
+Just so we know who is coming, please register from the following URL.</p>
+
+<p><a href="http://yapcasia2015-hackathon.peatix.com" target="_blank">http://yapcasia2015-hackathon.peatix.com</a></p>
+
+<p>If you have any questions, please contact: id:myfinder or tahisamo at microsoft.com</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Additional Tickets On Sale | 追加チケット販売！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/additional-tickets-on-sale.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.286</id>
+
+    <published>2015-08-10T00:30:00Z</published>
+    <updated>2015-08-10T00:22:47Z</updated>
+
+    <summary>(English follows Japanese) いよいよYAPC::Asi...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>いよいよYAPC::Asia Tokyo 2015の開催も来週となりました！<br />
+<a href="http://yapcasia.org/2015/news/08/call-for-lightning-talks.html" target="_blank">LTの応募もしております。皆様のご応募お待ちしております！</a></p>
+
+<p>え、でも<strong>チケットがない</strong>？気づいた時には<strong>売り切れてた</strong>？</p>
+
+<p>そんな皆様のために！キャンセル分等を含め<strong>追加で50枚のチケットを販売いたします</strong>！</p>
+
+<p>ただし本チケットYAPC::Asia Tokyo 2015に二日間入場できるだけで<strong>トートバッグ・Tシャツ等のノベルティは一切つきません</strong>のでご注意ください。その代わりお値段も5500円となっております！</p>
+
+<p><a href="http://peatix.com/event/87412" target="_blank">こちらのサイト</a>より「2 Day Pass (Entry only) | 二日券 入場のみ」を選んでご購入ください！</p>
+
+<p>また、以前販売されたチケットを含め、チケットのキャンセルは8/13まで受け付けますがそれ以降のキャンセルには応じかねます。あしからずご了承ください。</p>
+
+<p>来週皆様にお目にかかるのを楽しみにしています！</p>
+
+<p>===</p>
+
+<p>YAPC::Asia Tokyo 2015 is next week!<br />
+We're accepting Lightning Talk proposals!</p>
+
+<p>But wait, you say you have no ticket? Well...</p>
+
+<p>Due to cancellations, we are going to put an additional 50 tickets on sale. However, please note that these additional tickets will only grant you access to YAPC::Asia Tokyo 2015, and <strong>you will NOT be able to receive swags and T-shirts</strong>.</p>
+
+<p><a href="http://peatix.com/event/87412" target="_blank">Please proceed to the tickets page</a> and purchase the ticket labeled "2 Day Pass (Entry only) | 二日券 入場のみ"!</p>
+
+<p>Also please note that we will only accept cancellations until Aug 13, JST.</p>
+
+<p>Looking forward to seeing you all next week!</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Call For Lightning Talks | LT 募集開始！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/call-for-lightning-talks.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.284</id>
+
+    <published>2015-08-06T01:45:00Z</published>
+    <updated>2015-08-06T01:49:36Z</updated>
+
+    <summary>(English follows Japanese) ふと気づけばもうYAPC:...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>ふと気づけばもうYAPC::Asia Tokyo 2015の開催が目前まで迫ってきました！ ここでLightning Talkの募集を開始致します！ Lightning Talkとは5分以内に行うトークのことです。5分になったところでまた終了していない場合は銅鑼が鳴り、そこでトークは終了となります。＊ 5分というと1スライドに15秒かけると20枚ですよ！</p>
+
+<p><a href="http://yapcasia.org/2015/talk/input?lt=1" target="_blank"><strong>応募はこちらから</strong></a>！内容は技術についてか、技術者が見て楽しいものをお願いします！<br />
+＊ LTのネタ内容は応募しても発表後まで公表されませんので、応募の際は安心してネタバレしてください。</p>
+
+<p>今年も例年通りDay 1（8月21日）とDay 2（8月22日）にそれぞれ枠があります。それぞれの日のランチ時間前後にどのトークが採用されたのかを<a href="https://twitter.com/yapcasia" target="_blank">@yapcasia のTwitterアカウント</a>と<a href="http://yapcasia.org/2015/talk/show/22957e9c-1872-11e5-aca1-525412004261">Lightning Talks Day 1</a>と<a href="http://yapcasia.org/2015/talk/show/69caedbd-1872-11e5-aca1-525412004261" target="_blank">Lightning Talks Day 2</a>のページにて発表します。採用された方はそれぞれのトーク開始10分前に国際会議場にお集まりください。</p>
+
+<p>トーク応募は8月22日正午頃まで可能ですが、締め切りギリギリに応募すると当然二日目のLTしか参加できる可能性はなくなり、競争率がぐっとあがりますのでご注意ください。早めの応募をおすすめします！なおLTに参加するためにはチケット購入やすでにスピーカーである等、YAPCにすで参加している必要がありますのでご注意ください。LTの応募・採択だけで参加可能にはなりません。</p>
+
+<p>それでは皆様のご応募お待ちしております！</p>
+
+<p><a href="http://yapcasia.org/2015/_MG_6980_original.jpg"><img alt="_MG_6980_original.jpg" src="http://yapcasia.org/2015/assets_c/2015/08/_MG_6980_original-thumb-600xauto-562.jpg" width="600" height="400" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a><br />
+We are quickly approaching the X-day for YAPC::Asia Tokyo 2015. And we are opening our Call For Lightning Talks! </p>
+
+<p><a href="http://yapcasia.org/2015/talk/input?lt=1&lang=en" target="_blank"><strong>Please submit your proposals here</strong></a>. (the contents of your proposal will not be published until after your talk, so feel free to put spoilers in the proposal)</p>
+
+<p>We will announce on our <a href="https://twitter.com/yapcasia" target="_blank">@yapcasia Twitter account</a> and pages for <a href="http://yapcasia.org/2015/talk/show/22957e9c-1872-11e5-aca1-525412004261" target="_blank">Lightning Talks Day 1</a> and <a href="http://yapcasia.org/2015/talk/show/69caedbd-1872-11e5-aca1-525412004261" target="_blank">Day 2</a> as to which talks were accepted. This will be done around lunch time on Aug 21 (Day 1) and Aug 22 (Day 2) respectively. Please check there, and if your talk is accepted, please come to the Main Hall 10 minutes before the respective lightning talk sessions.</p>
+
+<p>We will accept submissions until lunch time on Aug 22, but do note that if you wait until the last minute, you will only be eligible for the Lightning Talks Day 2 slot, and therefore you will have competition to be selected. We recommend that you submit your proposal early! Please note that you already need to be registered to attend YAPC::Asia Tokyo 2015 in order to participate in the Lightning Talks.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>学生向け！ YAPC::Asia Tokyoのイベントツイートまとめ職人を募集中！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/tweet-reporter-wanted.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.285</id>
+
+    <published>2015-08-05T09:29:05Z</published>
+    <updated>2015-08-05T09:58:45Z</updated>
+
+    <summary>こんにちはYAPC実行委員の石田です 今年度、メディアスポンサー様でもあるTog...</summary>
+    <author>
+        <name>Junichi Ishida</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>こんにちはYAPC実行委員の石田です</p>
+
+<p>今年度、メディアスポンサー様でもある<a href="http://togetter.com/" target="_blank">Togetter様</a>が、YAPC::Asia Tokyo 2015 イベント開催期間中にリアルタイムでまとめを作るために、若干名のイベントまとめ職人（サポーター）を募集しているそうです。</p>
+
+<p><a href="https://www.wantedly.com/projects/26717" target="_blank">https://www.wantedly.com/projects/26717</a></p>
+
+<div style="text-align:center">
+<a href="http://togetter.com/" target="_blank"><img src="http://yapcasia.org/2015/assets/images/sponsors/togetter.jpg" width="300"></a>
+</div>
+
+<p>Togetter様は過去様々なイベントのツイッターまとめを作成されていますが、YAPC::Asia Tokyo 2015でもリアルタイムにまとめを作成いただく予定です。(例 <a href="http://togetter.com/li/814097" target="_blank">【全部入り】LINE DEVELOPER DAY_2015 Tokyo まとめまとめ #linedevday - Togetterまとめ </a>)</p>
+
+<blockquote>YAPC::Asia Tokyoに関心がある / Perlに関心がある / その他技術系カンファレンスイベントに感心のある皆様、開発経験は問いません。
+まずはお話を聞きたいということでも構いませんので、ふるってご応募下さい！
+</blockquote>
+
+<p>とのことです！</p>
+
+<p>特に、YAPCに参加したかったけれど、出遅れなどで残念ながら参加ができない学生様にご応募いただきたい！という事です。Togetterやツイッター、まとめが好きな人、是非ご検討を！</p>
+
+<p>詳細はこちらのページです。<br />
+<a href="https://www.wantedly.com/projects/26717" target="_blank">https://www.wantedly.com/projects/26717</a><br />
+</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>お昼もセッションをきいちゃおう！しかも豪華お弁当付き！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/08/lunch-session.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.269</id>
+
+    <published>2015-08-03T00:08:00Z</published>
+    <updated>2015-08-03T00:05:53Z</updated>
+
+    <summary>こんにちは、YAPC運営スタッフの小沢宏美です。 どうぞ宜しくお願い致します♪ ...</summary>
+    <author>
+        <name>Hiromi Ozawa</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>こんにちは、YAPC運営スタッフの小沢宏美です。<br />
+どうぞ宜しくお願い致します♪</p>
+
+<p>8/22(土)のお昼の時間、12時20分〜、トラックB、トラックC会場にて。<br />
+<a href="http://fusic.co.jp/" target="_blank">株式会社Fusic様</a>、<a href="http://www.mobilefactory.jp/" target="_blank">株式会社モバイルファクトリー様</a>のご提供でランチセッションを行います。</p>
+
+<p>ランチセッションとは簡単に言うと、トラックB、トラックC会場でお弁当を無料で配布するので、<br />
+上記スポンサーの方々のセッションを聞きつつ、食べて下さいね！というものです。<br />
+当日は先着順で受け付けますので、7FのトラックA、トラックBにお越しください！</p>
+
+<div style="text-align:center">
+<a href="http://fusic.co.jp/" target="_blank"><img alt="fusic.jpg" src="/2015/assets_c/2015/07/fusic-thumb-600x600-461.jpg" width="300" height="300"></a>
+<a href="http://www.mobilefactory.jp/" target="_blank"><img alt="mobile_factory.jpg" src="/2015/assets_c/2015/07/mobile_factory-thumb-600x600-459.jpg" width="300" height="300"></a>
+</div>
+
+<p>モバイルファクトリー様は「<a href="http://yapcasia.org/2015/talk/show/e34fca9d-2ad1-11e5-aca1-525412004261" target="_blank">モバイルファクトリーを支える位置情報技術</a>」と題して<a href="http://ekimemo.com" target="_blank">駅メモ</a>で使用されている位置情報技術について語っていただきます。</p>
+
+<p>Fusic様は「<a href="http://yapcasia.org/2015/talk/show/e46f9d1b-2ad1-11e5-aca1-525412004261" target="_blank">福岡のWeb屋さんの社内事情について、あるいは社内コミュニケーションのあり方について</a>」と題して、対外的な開発実績などには載らない様々な社内システムを開発していく中での取り組みについてお話をしていただける予定です。</p>
+
+<p>↓↓↓昨年のランチセッションの様子はこちら↓↓↓</p>
+
+<p>美味しそうなお弁当＼(^o^)／<br />
+<div style="text-align:center"><br />
+<a href="http://yapcasia.org/2015/assets_c/2015/07/obento1.jpg"><img alt="obento1.jpg" src="http://yapcasia.org/2015/assets_c/2015/07/obento1-thumb-600xauto-453.jpg" width="600" height="399" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a><br />
+<a href="http://yapcasia.org/2015/assets_c/2015/07/obento2.jpg"><img alt="obento2.jpg" src="http://yapcasia.org/2015/assets_c/2015/07/obento2-thumb-600xauto-455.jpg" width="600" height="399" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a><br />
+</div></p>
+
+<p>去年はすぐにお弁当が品切れとなりました！ご注意をー！</p>
+
+<p><a href="http://yapcasia.org/2015/assets_c/2015/07/obento3.jpg"><img alt="obento3.jpg" src="http://yapcasia.org/2015/assets_c/2015/07/obento3-thumb-600xauto-457.jpg" width="600" height="399" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a></p>
+
+<p>さあ皆さん、当日忘れないように要メモだーーーノノノ<br />
+</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia Tokyo 2015のイベントレポーターを追加募集中！！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/07/yapcasia-tokyo-2015-1.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.283</id>
+
+    <published>2015-07-31T08:32:35Z</published>
+    <updated>2015-07-31T08:59:26Z</updated>
+
+    <summary>こんにちは、YAPC実行委員の石田です！ ついに明日から8月です！そう、ついにY...</summary>
+    <author>
+        <name>Junichi Ishida</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>こんにちは、YAPC実行委員の石田です！</p>
+
+<p>ついに明日から8月です！そう、ついにYAPC開催当月ですね！</p>
+
+<p>YAPC実行委員の面々は、現在迫り来る各種締切に襲いかかられ、積み上がるタスクに対し「人類は無力だ...」とか思ったり、もう残りが一ヶ月もない現実から目をそらしつつも粛々とタスクをこなしておりますが、皆さまはいかがお過ごしでしょうか。<br />
+暑い日が続きますので、どうぞお体にはお気をつけください。</p>
+
+<p><br />
+さて、本題です。<a href="http://yapcasia.org/2015/news/07/yapcasia-tokyo-2015.html">先日もご紹介しましたGihyo.jp様のイベントレポーター募集</a>ですが、今回<strong style="font-size:150%">レポーターの追加募集</strong>が発表されました！</p>
+
+<p><br />
+ご存じの通り、YAPCのチケットはすでに売り切れてしまっており、運営側にも「追加はないのか？」という問い合わせをしばしば頂いておりますが、残念ながら追加販売の予定はありません。</p>
+
+<p><img alt="チケットは売り切れ..." src="http://yapcasia.org/2015/assets_c/2015/07/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202015-07-31%2017.24.04.png" width="303" height="376" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></p>
+
+<p>辛抱強く販売ページを監視してのキャンセル待ちや個人間でのチケットの譲渡は問題ありませんが、そんな不確実なことでは、チケットを手に入れるまで心安らかに眠る事ができません...。</p>
+
+<p><br />
+<strong style="font-size:150%">しかし！</strong>なんとですね、<strong style="font-size:150%">YAPCイベントレポーターになれば</strong>ですよ、レポーター用<strong style="font-size:150%">YAPC参加チケットが手に入ります！しかも無料で！！</strong></p>
+
+<p>勿論イベントレポーターの作業がお手軽だとはいいません、しかし各種トークを聞き、Gihyo.jpサイトに掲載されるレポートを書き上げることで、皿洗い（？）の代わりにタダで参加できるのです！</p>
+
+<p><a href="http://gihyo.jp/news/report/01/yapcasia2014/0001" target="_blank">去年のレポートはこちらです</a>。</p>
+
+<p>勿論これを一人で書いているわけではありませんので、レポーターは何人も参加します。もしかしたらYAPCに知り合いがいない方でも、そこから知り合いになっていくとかそういうのもあったりするのでしょう！（想像です）</p>
+
+<p><br />
+ちなみに、友人のPerl Mongerもイベントレポーターをしたことがあります。そんな彼の当時のエントリを貼っておきます。</p>
+
+<p><a href="http://moznion.hatenadiary.com/entry/20120930/1349019895" target="_blank">その手の平は尻もつかめるさ - YAPC に僕の童貞をあらかた持っていかれた話</a></p>
+
+<p>タイトルは少々アレですが、</p>
+
+<p>- 無料でYAPC に入場できる！<br />
+- レポート対象のトークだったら絶対に座れる！<br />
+- 1番良いところでトークを聞ける！　特等席！<br />
+- こんな良いことずくめな上に、なんとお給金をもらえる！</p>
+
+<p>そして、「色々初心者でも大丈夫」ということが良く解りますね！</p>
+
+<p><br />
+皆さま、是非！是非是非！ご検討ください！詳細につきましては以下のGihyo.jp様の募集エントリをご確認ください！</p>
+
+<p><a href="http://gihyo.jp/news/info/2015/07/3001">gihyo.jp，YAPC::Asia Tokyo 2015のイベントレポーターを追加募集 （http://gihyo.jp/news/info/2015/07/3001）</a><br />
+※「応募締切は2015年8月10日（月）」とのことですので、お早めに！</p>
+
+<p>では、YAPC::Asia Tokyo 2015でお会いしましょう！！</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Getting Around the Venue | 会場への道順</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2015/news/07/getting-around-the-venue.html" />
+    <id>tag:yapcasia.org,2015:/2015//7.270</id>
+
+    <published>2015-07-23T05:56:00Z</published>
+    <updated>2015-07-23T05:51:38Z</updated>
+
+    <summary>(English follows Japanese) こんにちは、実行委員の石田...</summary>
+    <author>
+        <name>Junichi Ishida</name>
+        
+    </author>
+    
+        <category term="news" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2015/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>こんにちは、実行委員の石田です！<br />
+YAPC::Asia Tokyo 2015が開催される東京ビッグサイトの会議棟までの道順を紹介致します。</p>
+
+<p>ビッグサイトへ訪れた事がある方は多くいらっしゃるでしょうが、特徴的な会議棟には入ったことが無い方が多いと思われます、是非とも参考にしてください。</p>
+
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1621.4539908413285!2d139.79331802340243!3d35.62999492808723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601889dd9531f04b%3A0x9f3b785d6a57673a!2z44CSMTM1LTAwNjMg5p2x5Lqs6YO95rGf5p2x5Yy65pyJ5piO77yT5LiB55uu77yR77yR4oiS77yRIOadseS6rOODk-ODg-OCsOOCteOCpOODiOilv-Wxleekuuajnw!5e0!3m2!1sja!2sjp!4v1437243787237" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+
+<p><a href="https://www.google.co.jp/maps/place/%E3%80%92135-0063+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%9C%89%E6%98%8E%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%E2%88%92%EF%BC%91+%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E8%A5%BF%E5%B1%95%E7%A4%BA%E6%A3%9F/@35.6299949,139.793318,18z/data=!3m1!5s0x601889dc3bd04223:0xa230d50a6673e740!4m2!3m1!1s0x601889dd9531f04b:0x9f3b785d6a57673a!6m1!1e1">Google map - Tokyo Big Sight</a></p>
+
+<ul style="list-style-type:disc; margin-left: 2em; margin-bottom: 2em">
+<li><a href="http://yapcasia.org/2015/news/07/how-to-get-to-tokyo-bigsight-area-ja.html">ビッグサイト周辺駅へのアクセス手段</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/getting-from-kokusai-tenjijo-to-tokyo-bigsight-ja.html">りんかい線国際展示場駅から東京ビッグサイトまで</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/getting-from-kokusai-tenjijo-seimon-to-tokyo-bigsight-ja.html">ゆりかもめ国際展示場正門駅から東京ビッグサイトまで</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/getting-from-tokyo-bigsight-entrance-to-international-conference-room-ja.html">東京ビッグサイトエントランスから7階の国際会議場まで </a></li>
+<li><a href="http://yapcasia.org/2015/news/07/tokyo-bay-ariake-washington-hotel-ja.html">東京ベイ有明ワシントンホテルについて</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/hotel-sunroute-ja.html">ホテルサンルート有明について</a></li>
+</ul>
+
+<h3>各種所要時間について</h3>
+
+<p>各駅・ホテルからビッグサイトまでの所要時間はスムーズに進めば以下の通りです。</p>
+
+<ul style="list-style-type:disc; margin-left: 2em; margin-bottom: 2em">
+<li> りんかい線 国際展示場駅改札から約12分</li>
+<li> ゆりかもめ 国際展示場正門駅改札から約9分</li>
+<li> ワシントンホテルより約10分</li>
+<li> ホテルサンルートより約12分</li>
+</ul>
+
+<p>ただし、初日の朝などは受付が大変混雑することが想定されます。是非時間に余裕をもってご来場ください！</p>
+
+<hr>
+
+<p>Hello! I'm Ishida (@uzulla), a member of the YAPC::Asia Tokyo 2015 organizer team.<br />
+This entry will explain how to get around the venue (Tokyo Bigsight) and the hotels near by.</p>
+
+<p><br />
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1621.4539908413285!2d139.79331802340243!3d35.62999492808723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601889dd9531f04b%3A0x9f3b785d6a57673a!2z44CSMTM1LTAwNjMg5p2x5Lqs6YO95rGf5p2x5Yy65pyJ5piO77yT5LiB55uu77yR77yR4oiS77yRIOadseS6rOODk-ODg-OCsOOCteOCpOODiOilv-Wxleekuuajnw!5e0!3m2!1sja!2sjp!4v1437243787237" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+
+<p><a href="https://www.google.co.jp/maps/place/%E3%80%92135-0063+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%9C%89%E6%98%8E%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%E2%88%92%EF%BC%91+%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E8%A5%BF%E5%B1%95%E7%A4%BA%E6%A3%9F/@35.6299949,139.793318,18z/data=!3m1!5s0x601889dc3bd04223:0xa230d50a6673e740!4m2!3m1!1s0x601889dd9531f04b:0x9f3b785d6a57673a!6m1!1e1">Google map - Tokyo Big Sight</a></p>
+
+<ul style="list-style-type:disc; margin-left: 2em; margin-bottom: 2em">
+<li><a href="http://yapcasia.org/2015/news/07/how-to-get-to-tokyo-bigsight-area-en.html">How To Get To Tokyo Bigsight Area</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/getting-from-kokusai-tenjijo-to-tokyo-bigsight-en.html">Getting From Kokusai Tenjijo (Rinkai Line) To Tokyo Bigsight</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/getting-from-kokusai-tenjijo-seimon-to-tokyo-bigsight-en.html">Getting From Kokusai Tenjijo Seimon (Yurikamome Line) To Tokyo Bigsight</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/getting-from-tokyo-bigsight-entrance-to-international-conference-room-en.html">Getting From Tokyo Bigsight Entrance To International Conference Room (7F)</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/tokyo-bay-ariake-washington-hotel-en.html">Tokyo bay Ariake Washington Hotel</a></li>
+<li><a href="http://yapcasia.org/2015/news/07/hotel-sunroute-en.html">Hotel SUNROUTE Ariake</a></li>
+</ul>
+
+<h3>Estimated time</h3>
+
+<p>Below is a list of estimated time that it will take to reach Tokyo Bigsight from the stations and hotels.</p>
+
+<ul style="list-style-type:disc; margin-left: 2em; margin-bottom: 2em">
+<li>From Kokusai-Tenjijo station (Rinkai Line): Approximately 12 minutes.</li>
+<li>From Kokusai-Tenjijo-Seimon station (Yurikamome): Approximately 9 minutes.</li>
+<li>From Washington Hotel: Approximately 10 minutes.</li>
+<li>From Hotel Sunroute: Approximately 12 minutes.</li>
+</ul>
+
+<p>The check-in counters are expected to be very crowded on the beginning of Day 1. Please make sure you arrive early to not miss attending the talks!</p>
+
+<p>If you get lost, or encounter problems arriving to the venue, you can contact us at our <a href="http://twitter.com/yapcasia">YAPC::Asia Tokyo Twitter account</a>.</p>
+
+<p><br />
+</p>]]>
+        
+    </content>
+</entry>
+
+</feed>
