@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>YAPC::Asia Tokyo 2011</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/" />
+    <link rel="self" type="application/atom+xml" href="http://yapcasia.org/2011/atom.xml" />
+    <id>tag:yapcasia.org,2012-02-16:/2011//3</id>
+    <updated>2012-02-15T23:17:57Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 5.12</generator>
+
+<entry>
+    <title>YAPC::Asia Tokyo 2011 ベストトークの副賞追加とアンケートのお願い | More Prizes, and Questionnaires</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/prizes-and-questionnaires.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.33</id>
+
+    <published>2011-10-18T07:35:47Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>過去最大規模となったYAPC::Asia Tokyo 2011、皆様ご参加いただ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>過去最大規模となったYAPC::Asia Tokyo 2011、皆様ご参加いただきまして<br />
+ありがとうございました。</p>
+
+<p>じつはクロージングで発表するのを失念していたのですが（スイマセン！）<br />
+ベストトークに副賞が２つ追加となっておりますので紹介させていただきます。</p>
+
+<p>まず１つ目。miyagawa氏の来日スポンサードをしていただいた<a href="https://www.dotcloud.com/" target="_blank">dotCloud様</a>より<br />
+dotCloud の Pro アカウント１年分 ($99x12) です。これでまたガッツリ開発出来ますね！</p>
+
+<p>２つ目は、当日の速報記事を素晴らしいクオリティで提供してくださった<a href="http://gihyo.jp/" target="_blank">技術評論社様</a>より<br />
+- <a href="http://gihyo.jp/magazine/SD" target="_blank">Software Design</a> 年間購読権1年分<br />
+- <a href="http://gihyo.jp/magazine/wdpress" target="_blank">WEB+DB PRESS</a> 年間購読権1年分<br />
+が贈られます。発送は来月から、です。おめでとうございます！</p>
+
+<p><br />
+ご参加いただいた皆様に１つお願いがあります。<br />
+すでに100件を超える感想エントリを拝見しておりますが、もう少し突っ込んで<br />
+感想やご意見をいただきたいと思いますので、是非こちらのアンケートフォームより<br />
+YACP::Asia Tokyo 2011 の感想をお聞かせください。今後の運営の参考にさせていただきます。<br />
+→<strong><a href="https://docs.google.com/a/perlassociation.org/spreadsheet/viewform?hl=en_US&formkey=dFMxNXJ5akQyQ2I3VHY0bFc3WHFlMHc6MA#gid=0" target="_blank">こちらのフォームより、ご意見をお聞かせください</a></strong></p>
+
+<p><br />
+発表された資料などは<a href="http://yapcasia.org/2011/timetable.html" target="_blank">トーク一覧からご覧いただけます</a>。<br />
+録画した動画などは現在編集中ですので、出来次第随時公開していきます。</p>
+
+<p>===</p>
+
+<p>So the largest YAPC ever is over.</p>
+
+<p>However, there a few things we forgot to announce during the closing, so here goes...</p>
+
+<p>First, the best talk award winner (Fujiwara-san) will receive a couple of more prizes:</p>
+
+<p>The first extra prize is from <a href="https://www.dotcloud.com/" target="_blank">dotCloud</a>, who sponsored miyagawa-san's travel costs. Fujiwara-san will receive  dotCloud Pro account  for another year (worth $99 x 12 mo). More hacking time!</p>
+
+<p>The second extra prize is from gihyo (技術評論社） who provided us with the fastest report of YAPC::Asia Tokyo proceedings on their website. Fujiwara-san will receive 1yr subscription for both <a href="http://gihyo.jp/magazine/SD" target="_blank">Software Design</a> magazine and <a href="http://gihyo.jp/magazine/wdpress" target="_blank">WEB+DB PRESS</a>. </p>
+
+<p>Congratulations!</p>
+
+<p><br />
+The other announcement that we forgot to make is a call for all attendees to participate in our YAPC::Asia Tokyo questionnaire. Please answer these forms and tell us what you thought about the event. We will use your feedback to make this event even better.<br />
+→<strong><a href="https://docs.google.com/a/perlassociation.org/spreadsheet/viewform?hl=en_US&formkey=dFMxNXJ5akQyQ2I3VHY0bFc3WHFlMHc6MA#gid=0" target="_blank">Please send us your feedback!</a></strong></p>
+
+<p>Talk slides are being collected and listed on the <a href="/2011/talk/?lang=en" target="_blank">talk list page</a>.<br />
+Videos are being edited right now, and will be available when they are ready. Stay tuned!</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>LTタイムテーブルがアップしました | Lightning Talk Schedule is now up</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/lightning-talk-schedule-is-now-up.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.32</id>
+
+    <published>2011-10-13T23:57:17Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>(English follows Japanese)LTのタイムテーブルを作成、...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[(English follows Japanese)<div><br /></div><div><a href="https://docs.google.com/spreadsheet/pub?hl=en_US&amp;hl=en_US&amp;key=0AgazarpZ-dOvdEIzMW54bUFUYkZYbDlDejVBOEYtZHc&amp;output=html">LTのタイムテーブル</a>を作成、アップしました！ 応募をされた方はご確認ください。</div><div><br /></div><div>あと２，３本であれば飛び込みのLTも受け付けますので、もしご希望の場合は直接 <a href="http://twitter.com/lestrrat">@lestrrat</a> までご連絡ください。</div><div><br /></div><div>====</div><div><br /></div><div>We've published the <a href="https://docs.google.com/spreadsheet/pub?hl=en_US&amp;hl=en_US&amp;key=0AgazarpZ-dOvdEIzMW54bUFUYkZYbDlDejVBOEYtZHc&amp;output=html">Lightning Talks schedule</a>. Please check it out if you applied for one.</div><div><br /></div><div>We can accept a couple of more LTs, if you want to get in, please contact <a href="http://twitter.com/lestrrat">@lestrrat</a>.</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia 2011 いよいよ明日から！</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/yapcasia-areuready.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.31</id>
+
+    <published>2011-10-12T11:44:15Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>こんにちは、櫛井です！ YAPC::Asia 2011いよいよ明日から前夜祭が開...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>こんにちは、櫛井です！</p>
+
+<p>YAPC::Asia 2011いよいよ明日から前夜祭が開催されます！やったぜ！ひゅー！<br />
+参加者の皆さん、心と体と資料の準備は進んでいますか？</p>
+
+<p>というわけで、今回は「gihyo.jp×YAPC::Asia 2011コラボ企画―6回目を迎えるYAPC::Asia Tokyo 2011の見所を関係者に聞いてみました」という記事を掲載していただいたのですが、関係者が教えてくれた<strong>YAPC開催までに準備しておくといいこと</strong>をまとめてみました！</p>
+
+<p><big>■ lestrratさんの場合</big><br />
+<img alt="lestrrat.jpg" src="http://yapcasia.org/2011/2011/10/12/lestrrat.jpg" width="400" height="266" class="mt-image-none" style="" /><blockquote>なんだろう。笑顔で挨拶，かな。僕としては，ふらっと来てふらっと誰かと話して帰ってくれることが重要だと思うので「笑顔で挨拶」出来ることが大事ですかね。なので，今からできることは話しかけるちょっとの勇気を持つことと，ニカッと笑顔で話しかける練習かな（笑）</blockquote>　全文はこちら→ <a href="http://gihyo.jp/dev/serial/01/yapcasia2011/0001" target="_blank">第1回　牧大輔氏に聞くYAPC:Asia 2011の見所</a></p>
+
+<p><br />
+<big>■ tokuhiromさんの場合</big><br />
+<img alt="tokuhirom.jpg" src="http://yapcasia.org/2011/2011/10/12/tokuhirom.jpg" width="400" height="266" class="mt-image-none" style="" /><blockquote>そうですね，あらかじめ一発ネタとかそういうのを仕込んでおくといいんじゃないですかね。YAPC開催の1週間くらい前にホッテントリになるような面白い一発ネタエントリを上げておくと「あぁ！あの人ね！」ってなるみたいな。あとはgithubでpull request送るとかでもいいですね。たとえば，話してみたい人のプロジェクトにリクエスト送ってバグを探したりして「あ，ここtypoあった」とかしておくと「あー！こないだありがとうございました！」って話のキッカケにもなるし，その行為自体もいいことだし。コミュニケーションのきっかけになるような準備をしておくのがいいんじゃないかなと思います。</blockquote>　全文はこちら→ <a href="http://gihyo.jp/dev/serial/01/yapcasia2011/0002" target="_blank">第2回　tokuhirom氏に聞くYAPC:Asia 2011の見所</a></p>
+
+<p><big>■ hidekさんの場合</big><br />
+<img alt="hidek.jpg" src="http://yapcasia.org/2011/2011/10/12/hidek.jpg" width="400" height="290" class="mt-image-none" style="" /><br />
+準備しておくといいこと、実は聞き忘れておりまして。スイマセン！でも、きっと自然体で来ればいいと思うよってhidekさんなら言ってくれると思います！（多分）<br />
+　全文はこちら→ <a href="http://gihyo.jp/dev/serial/01/yapcasia2011/0003" target="_blank">第3回　hidek氏に聞くYAPC:Asia 2011の見所</a></p>
+
+<p>あと私からは是非<a href="http://yapcasia.org/2011/timetable.html">タイムテーブルも見直してみて</a>欲しいと思います。小飼弾さんのトークや、伊藤直也さんのトークなど、詳細が更新されているものや時間が変わっているものもありますので、どのトークを見るか確認する際に参考にしてくださいね。</p>
+
+<p>はい、というわけで「今からそんな準備できねーよ！」というツッコミもありそうですが明日お会いするのを楽しみにしています！</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia 2011 チケット・チェックインの方法 | How to Check-in</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/howto-checkin.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.30</id>
+
+    <published>2011-10-04T02:34:38Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>YAPC::Asia Tokyo 2011のチケット及びチェックイン方法について...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[YAPC::Asia Tokyo 2011のチケット及びチェックイン方法についてのご案内です。<div><br /></div><div>チケットをすでにご購入済みの方々はご購入時にメールですでに連絡が行っているはずです。そのメールの中に http://yapcasia.org/2011/ticket/XXXXXXX のようなURLが記載されていますので、このページを表示できるかどうかご確認ください。該当ページにはQRコードが表示されるはずです。（なおこのページには後日ベストトーク賞の投票のためのリンクが当日記されます）</div><div><br /></div><div>当日はバーコードリーダーを使って、このQRコードを読み込み、チェックインを行いますので、このQRコードをお持ち下さい。この際、QRコード自体はそれなりに鮮明な状態で読み取れれば紙媒体に印刷してあっても、スマートフォン・タブレットのようなもので表示させていただいても構いません。</div><div><br /></div><div>当日支払いを選択した場合はチェックインの際に参加費を徴収させていただきます。学生チケットご購入の場合は学生証をご呈示ください。</div><div><br /></div><div>この後 ノベルティ・ストラップをお渡し致します。ストラップは再入場証明の代わりとなりますので、会場内では常に首にかけていただくとともに、なくさないようにしてください。</div><div><br /></div><div>チケットの紛失、学生証を忘れた場合などは一律4500円でチケットを再購入していただく形になりますのでご注意ください。</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">なおスポンサーチケットの方やスピーカーの方は受付にてその旨お伝えいただければOKです</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">また当日券に関しては別途受付を設けますのでそちらからご購入ください。以前にお知らせした通り、当日券は一律4500円で、発注の都合上ノベルティ等および投票権はつきません。当日券の発行枚数は余裕があると思いますので慌てずにご来場ください。</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">問題や質問があった場合は yapc at perlassociation.orgまでご連絡ください。</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">====</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">Here's how we are handling check-in for YAPC:Asia Tokyo 2011:</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">If you have already purchased a ticket, then you should have already received an email with a URL of the form "http://yapcasia.org/2011/ticket/XXXXXX". Please check and see that you can display this page. In that page, there should be a two-dimensional barcode (BTW, a link for the Best Talk award votes should appear when YAPC starts)</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">We will be using a barcode reader to read this barcode, so please bring it when you come to the venue. You may choose to print it on paper, or you can simply bring a smartphone, tablet, etc that can display this barcode. Just make sure that it is clearly displayed and readable by a machine.</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">If you chose to pay at the venue, you will need to pay for the ticket when you check in. If you chose a student ticket, you need to bring proof that you are eligible for a student ticket.</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">Once your ticket is validated, you will be presented with a set of novelties from our sponsors, and a neck-strap. This neck-strap will be the used for admittance at the venue, so please wear it at all times during the conference, and please don't lose it!</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">In case you lose your ticket or you fail to bring proof that you're a student, you will need to pay for a regular ticket at 4500 JPY.</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">If you're a invited guest or a speaker, just let us know when you check-in, and we will handle it.</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">As previously announced, we will have a limited amount of tickets at the door. Please do note that these tickets will NOT come with novelties, and &nbsp;you will not have a vote for the Best Talk award, and they come at 4500JPY. We should have ample number of tickets, so you shouldn't need to rush.</div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"><br /></div><div id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown">If you have any questions or concerns, please send mail to yapc at perlassocition.org</div><div><br /></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia 2011 前夜祭について | YAPC Eve Proceedings</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/yapcasia-eve.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.29</id>
+
+    <published>2011-10-04T02:28:55Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>(English follows Japanese) こんにちは、櫛井です。 い...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>こんにちは、櫛井です。<br />
+いよいよ来週となったYAPC::Asia 2011、運営事務局も準備の最終確認に入っております。</p>
+
+<p>さて、案内が出来ていなかった前夜祭についてです。<br />
+おかげさまで本編トークに多数の応募をいただきましたが、残念ながら<br />
+採択されなかったトークも数多くあります。というわけで今年のYAPC前夜祭は<br />
+Rejectされたトークを発表する"Reject Conf"を行います。</p>
+
+<p>■YAPC::Asia 2011 前夜祭 概要<br />
+日時：10月13日(木) 17:00開場、18:00スタート<br />
+会場：東工大 大岡山キャンパス 100年記念館 3F フェライト会議室 (<a href="http://yapcasia.org/2011/#date" target="_blank">地図</a>)<br />
+トーク：発表内容はこちらをご覧ください　<a href="http://yapcasia.org/2011/timetable.html" target="_blank">タイムテーブル</a></p>
+
+<p>前夜祭はチケットをお持ちの方であれば無料で入場出来ます。<br />
+チケットをお持ちで無い方は入場料が1000円別途かかりますのでご注意ください。<br />
+（当日券をその場でご購入いただければ別途料金は発生しません）</p>
+
+<p>前夜祭会場で発表が行われている一方で、スピーカーや参加者の方達が集まり<br />
+雑談するというのが恒例となっております。多少ですが、ビールなどの飲み物を提供いたします。</p>
+
+<p><img border="0" src="http://yapcasia.org/2011/images/banner_pict_04.jpg"  /><br />
+昨年の前夜祭会場（付近）の様子</p>
+
+<p><br />
+是非皆さんも真面目に発表を聞くなり雑談をするなり、各々ゆるく過ごしていただければと思います。<br />
+※前夜祭では受付の事前チェックインも行いますので、１日目の混雑解消のためにも<br />
+　ご協力いただけるとありがたいです！</p>
+
+<p>当日支払・当日券購入の方で領収書の発行が必要な方は受付スタッフまでお申し付けください。</p>
+
+<p><br />
+====</p>
+
+<p>We're quickly closing in on YAPC::Asia Tokyo 2011, it's just a couple of weeks away.<br />
+At this point we'd like to tell you a little bit about the proceedings during 10/13 "the YAPC Eve".</p>
+
+<p>At the YAPC::Eve, we will be holding the "Reject Conf" -- this year we got so many talk submissions that we can carry another mini conference like this :)</p>
+
+<p>■ YAPC::Asia 2011 RejectConf<br />
+When: Thursday, 10/13. Doors open at 17:00, starts at 18:00<br />
+Where: Titech Centennial Hall 3F  (<a href="http://yapcasia.org/2011/#date" target="_blank">map</a>)<br />
+What: Please refer to the time table <a href="http://yapcasia.org/2011/timetable.html" target="_blank">here</a></p>
+
+<p>If you already have a YAPC ticket, you can just drop by. If you don't have a YAPC ticket but you still want to attend just this event, we will be charging 1000JPY (You may opt to buy tickets at the door, which will be 4500 JPY with restrictions -- in which case you will be admitted to the main conference on 10/14 and 10/15)</p>
+
+<p>Traditionally, the YAPC Eve event is a somewhat informal meetup, where people just hang around at the hall while presentations are going on in the seminar room. We will be serving beverages (including beer).</p>
+
+<p><img border="0" src="http://yapcasia.org/2011/images/banner_pict_04.jpg"  /><br />
+Here's what it looked like last year</p>
+
+<p>You can listen to the talks or just hang around. Have fun!<br />
+Note, we will also be doing pre-checkin for the main conference. Please go though check-in during this time to avoid congestion during the next morning!</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Lightning Talk募集中です！ | We&apos;re now accepting Lightning Talks!</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/now-accepting-lightning-talks.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.28</id>
+
+    <published>2011-10-03T04:02:04Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>こんにちは牧ですお待たせいたしました、Lightning Talk (LT)の募...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[こんにちは牧です<div><br /></div><div>お待たせいたしました、Lightning Talk (LT)の募集を開始しました！下記フォームよりご応募ください（トーク概要に関しては、特に入力する必要はありませんが、もし何かコメントがあれば書き添えてください）</div><div><br /></div><div><a href="http://yapcasia.org/2011/talk/submit">http://yapcasia.org/2011/talk/submit</a></div><div><br /></div><div>今回は 2日通して全部で<a href="http://yapcasia.org/2011/timetable.html">20個前後のLTを受理出来る予定です</a>。LTの採用・不採用及び発表順は当日中にYAPCサイト上で順番を発表しますので、応募した方は <a href="http://twitter.com/yapcasia">@yapcasia</a>やYAPCサイトのほうで自分の発表順を確認してください！〆切りは 10/13いっぱいです！</div><div><br /></div><div><br /></div><div>皆様のご応募をお待ちしております！</div><div><br /></div><div>====</div><div><br /></div><div>We've started accepting Lightning Talks for YAPC::Asia Tokyo 2011. Please submit your talk proposal from below form (you don't need to write anything in the abstract, but if you have any comments, feel free to do so)</div><div><br /></div><div><a href="http://yapcasia.org/2011/talk/submit?lang=en">http://yapcasia.org/2011/talk/submit</a></div><div><br /></div><div>We should be able to accomodate about 20 or so talks <a href="http://yapcasia.org/2011/timetable.html">during the two Lightning Talk slots</a>. We will be announcing which talks got accepted and at which &nbsp;time slot they will be presented, so stay tuned for updated on <a href="http://twitter.com/yapcasia">@yapcasia</a> and/or this site! The deadline is 10/13.</div><div><br /></div><div><br /></div><div><br /></div><div><br /></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>当日券について | Tickets At The Door</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/tickets-at-the-door.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.27</id>
+
+    <published>2011-09-28T00:43:51Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>先日お伝えしたとおり、ご好評のためYAPC::Asia 2011のチケットは全て...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<a href="http://yapcasia.org/2011/news/ticket-sales-status.html">先日お伝えしたとおり</a>、ご好評のためYAPC::Asia 2011のチケットは全て売り切れてしまいました。それでもまだチケットについてのお問い合わせがあるため、当日券を50枚ほど販売することにいたしました。ただし、このチケットはすでに販売しているチケットと若干違いますので、以下をご確認の上当日券をお求め下さい：<div><br /></div><div><ul><li>当日券の料金は一律4500円で、二日券のみです。もし万が一二日目に当日券をご購入いただいても、4500円となります</li><li>当日券にはTシャツ、公式ストラップ、ノベルティはつきません。それぞれすでに数を指定して発注してしまいっているため余剰分はございません。</li><li>当日券でご入場いただいた方にはベストトーク賞の投票には参加いただけません。</li></ul><div>当日券の販売は売り切れ次第終了です。なおTechLION経由でご連絡いただいている方は当日券の予約をなされている、という形ですので 会場にいらした際にその旨をお伝えください。</div></div><div><br /></div><div>チケットは買いそびれたけどYAPC::Asiaのトークは聞きたい！という方はお早めにご来場ください！</div><div><br /></div><div>====</div><div><br /></div><div><a href="http://yapcasia.org/2011/news/ticket-sales-status.html">As we've mentioned before</a>, tickets for YAPC::Asia Tokyo 2011 are *completely* sold out. However we still get inquiries for additional tickets, so we will be selling an additional 50 tickets at the door. This ticket is a bit different from the tickets we have been selling, so please beware of the following:</div><div><br /></div><div><ul><li>Ticket price is 4500 JPY, and you will be admitted for both days.&nbsp;</li><li>This ticket does NOT include T-shirt, official strap, and other novelties. We have already ordered them, and we have no extras to spare.</li><li>This ticket does NOT include a vote for the Best Talk award.</li></ul><div>These tickets will be available on a first-come first-serve basis.</div></div><div><br /></div><div>If you missed your chance to buy your ticket but still want to hear the talks in YAPC::Asia, please come early!</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>一部スケジュール変更のお知らせ | Schedule Changes</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/schedule-changes.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.26</id>
+
+    <published>2011-09-26T05:58:13Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>牧です講演者の都合により以下のトークはキャンセルとなりました：Xslate マス...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<div>牧です</div><div><br /></div>講演者の都合により以下のトークはキャンセルとなりました：<div><br /></div><div><ul><li><a href="http://yapcasia.org/2011/talk/57">Xslate マスターコース</a></li></ul></div><div><br /></div><div>なお、この影響で以下のトークの時間が変更されておりますのでご確認ください</div><div><br /></div><div><ul><li><a href="http://yapcasia.org/2011/talk/58">大規模環境における、マニアックなキャッシュ利用術</a></li></ul><div><br /></div></div><div>楽しみにされていた皆様には大変ご迷惑をおかけいたしますが、何卒ご理解のほどよろしくおねがいいたします。</div><div><br /></div><div>====</div><div><br /></div><div>Due to the speaker's schedule constraints, the following talk has been canceled:</div><div><br /></div><div><ul><li><a href="http://yapcasia.org/2011/talk/57">Mastering Xslate</a></li></ul></div><div><br /></div><div>Also, please note the starting time for the following talk has been changed as a result:</div><div><br /></div><div><ul><li><a href="http://yapcasia.org/2011/talk/58">Cache Maniacs</a></li></ul></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>懇親会は無料！ | YAPC Dinner Is Free!</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/-yapc-dinner-is-free.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.25</id>
+
+    <published>2011-09-16T06:56:08Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>(English follows Japanese)牧です。さきほど半日がかりで...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<div>(English follows Japanese)</div><div><br /></div>牧です。<div><br /></div><div>さきほど半日がかりでCSSやDB、Google Calendarと格闘して<a href="http://yapcasia.org/2011/timetable.html">タイムテーブルを出しましたが</a>、その際是非10/14の一番最後のコマに注目してください。そうそう、LTのあとのそこです。</div><div><br /></div><div>「懇親会」って書いてありますね。その後に「無料」って書いてありますね。そうですね。無料なんです！ これまでは毎年各人数千円の費用を徴収していましたが、なんと今年は JPA, 株式会社ミクシィ、株式会社 ディー・エヌ・エーの三社で費用全部持ちのため、YAPC参加者の皆様は無料で入場できます！当日は会場である生協の食堂にふらっと立ち寄ってください。皆さんのご来場をお待ちしています！</div><div><br /></div><div><br /></div><div>（懇親会はYAPC参加者のみ対象です。なお飲み物も食べ物も充分に用意はしているはずですが、それぞれ一定量しかないのでみんなでシェアしてください。また一応建物のキャパシティの問題があるので、あまりにも人数が多い場合は入場制限をする場合もありますのでご了承ください）</div><div><br /></div><div><br /></div><div>===</div><div><br /></div><div>So now that <a href="http://yapcasia.org/2011/timetable.html">we finally put out our talk schedule online</a>, I'd like you to look at the last slot of for 10/14. Yes, &nbsp;right after the Lightning Talks Day 1.</div><div><br /></div><div>You see "Social/Dinner" there? You see it says "FREE"? Yes, this year the social is free as in beer, because JPA, Mixi, and DeNA are sponsoring the entire thing for you! All you need to do is just stop by. Looking forward to seeing you all there!</div><div><br /></div><div>(Please note that while we should have plenty of food and drinks, there will not be any extra food coming in, so please be nice and share with others. Also, if in the unlikely case we have more people than the venue can accomodate for, we will have to limit the number of people in the room)</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>タイムテーブルを公開しました | Talk Schedules are now online</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/talk-schedules-are-now-online.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.24</id>
+
+    <published>2011-09-16T06:36:03Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>YAPC::Asia Tokyo 2011のタイムテーブルを公開しました。トーク...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<a href="http://yapcasia.org/2011/timetable.html">YAPC::Asia Tokyo 2011のタイムテーブルを公開しました</a>。トークの順番や時間は予告なく変わる可能性もありますのでご了承ください。当日の情報は twitter上で @<a href="http://twitter.com/yapcasia">yapcasia</a> で流しますので、変更等はそちらをご確認ください。<div><br /></div><div>====</div><div><br /></div><div><a href="http://yapcasia.org/2011/timetable.html">YAPC::Asia Tokyo 2011 Talk Schedules are now online</a>. Note that the schedule may change without notice. During the conference, we will be announcing such information via @<a href="http://twitter.com/yapcasia">yapcasia</a> account twitter, so please stay tuned there if you need more info.</div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>チケット販売情報 | Ticket Sales Status</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/ticket-sales-status.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.23</id>
+
+    <published>2011-09-12T04:05:12Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>こんにちは、牧です。チケット販売の状況をお知らせします。先日発表していた通り、T...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[こんにちは、牧です。<div><br /></div><div>チケット販売の状況をお知らせします。先日発表していた通り、Tシャツ付きチケットは先週金曜日の時点で販売を締め切りました。そして今度は 本日時点で 1日券は売り切れとなりました！</div><div><br /></div><div>現在販売しているのは 二日通し券と学生用チケットのみです。そして今回用意できるチケットはそれぞれ二日通し券 30枚、学生チケット15枚です。これで打ち止め！</div><div><br /></div><div><a href="http://yapcasia.org/2011/ticket/">是非いまのうちにご購入を！</a></div><div><br /></div><div>===</div><div><br /></div><div>As previously announced, tickets with T shirts are gone as of last Friday. And today, we're out of one-day passes!</div><div><br /></div><div>We now have a) Two-day passes, and b) Student tickets. And we only have 30 two day passes and 15 student tickets! This is it!.</div><div><br /></div><div><a href="http://yapcasia.org/2011/ticket/?lang=en">Get your tickets NOW!</a></div><div><br /></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia 2011のイベントレポーターを募集しています</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/yapcasia-gihyo.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.22</id>
+
+    <published>2011-09-07T07:04:30Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>こんにちは、櫛井です。 今年も、会場の熱気を多くの方にお伝えする為に、技術評論社...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>こんにちは、櫛井です。</p>
+
+<p>今年も、会場の熱気を多くの方にお伝えする為に、技術評論社様の<br />
+<a href="http://gihyo.jp/" target="_blank">gihyo.jp</a> で毎日その日のハイライトをレポートしてくれる方を<br />
+二名ほど募集いたします。</p>
+
+<p>YAPC Asia 2011 の全日程に参加出来る方で是非レポートを<br />
+書きたいと言う方がいらっしゃいましたら、yapc at perlassociation.org<br />
+まで氏名を明記の上「YAPC Asia 2011 イベントレポーター希望」という<br />
+件名でメールを送って下さい。金額は変動するようですが謝礼も出るとのことです。</p>
+
+<p>過去にご協力いただいたイベントレポートはこちら<br />
+<a href="http://gihyo.jp/news/report/01/yapcasia2009" target="_blank">YAPC::Asia Tokyo 2009 スペシャルレポート</a><br />
+<a href="http://gihyo.jp/news/report/01/yapcasia2010" target="_blank">YAPC::Asia Tokyo 2010 スペシャルレポート</a></p>
+
+<p><br />
+※イベントレポーターの方は参加チケット不要です<br />
+　既に購入してしまったという方はキャンセル可能です</p>
+
+<p></p>
+
+<p>皆さんの応募をお待ちしております！</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>個人スポンサー費用の使い道 | What we&apos;re using the Individual Sponsorship for</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/what-were-using-the-individual-sponsorship-for.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.21</id>
+
+    <published>2011-09-05T06:43:19Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>(English follows Japanese) こんにちは、牧です 本年の...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>こんにちは、牧です</p>
+
+<p>本年のYAPC::Asia Tokyo 2011では個人スポンサーという制度を設けてみたところ、なんと現時点で<a href="http://yapcasia.org/2011/sponsor/">80名以上の方にスポンサーとなっていただきました</a>。<a href="http://yapcasia.org/2011/news/individual-sponsor-novelty-and-design.html">個人スポンサーになっていただいた方々にはノベルティという形でもお返しをしていく予定ですが</a>、今回この個人スポンサー制度を通して集めたお金は以下の事に使われる事になりましたのでお知らせいたします：</p>
+
+<ol>
+<li><a href="http://yapcasia.org/2011/news/special-guests.html">Jesse Vincent氏を招待するための費用</a></li>
+<li>海外から参加されるゲストスピーカーの方々のホテル代 (4日 x 5000円)</li>
+</ol>
+
+<p>特に今回は海外からのスピーカーの補助という形は初の試みですが、東京は物価の高い場所でもありますので、今回は実験として行ってみる予定です。</p>
+
+<p><a href="http://yapcasia.org/2011/sponsor/">個人スポンサーの皆様に感謝です</a>！ありがとうございます！</p>
+
+<p>=====</p>
+
+<p>We have setup a way for individuals to become our sponsor this year, and to our pleasant surprise, <a href="http://yapcasia.org/2011/sponsor/">over 80 people</a> have so far  pledged to become one. <a href="http://yapcasia.org/2011/news/individual-sponsor-novelty-and-design.html">We have previously announced that we will be returning our favor by creating some extra novelties</a>, but we'd like to share where this sponsorship fund will be used:</p>
+
+<ol>
+<li>Part of the money will be spent to cover <a href="http://yapcasia.org/2011/news/special-guests.html">the airfare costs for Jesse Vincent</a></li>
+<li>Other non-invited foreign speakers will receive 4 nights x 5000JPY towards hotel fees</li>
+</ol>
+
+<p>This is the first time we are spending money on non-keynote guests, but Tokyo being such an expensive city, we're experimenting with ways we can help our speakers.</p>
+
+<p>All of this is possible because of our <a href="http://yapcasia.org/2011/sponsor/">Individual Sponsors' generosity</a>. A big Thank You goes for every one of them!</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>個人スポンサー用 ノベルティデザイン + 締め切り | Individual Sponsor Novelty Design and Deadline</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/individual-sponsor-novelty-and-design.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.20</id>
+
+    <published>2011-08-31T06:07:37Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>(English follows Japanese) 牧です。 前の記事はTシャ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>牧です。</p>
+
+<p><a href="http://yapcasia.org/2011/news/tshirt-desgin-and-deadline.html">前の記事はTシャツ付きチケットを購入していただいた方のため</a>のものでしたが、こちらは<b>個人スポンサー</b>になっていただいた方向けの特別Tシャツです（デザインは仮のものです）！歴代YAPC::Asiaのロゴを全部連ねてみました。繰り返しますが、こちらは<a href="http://yapcasia.org/2011/sponsor/" style="font-weight:bold">個人スポンサーになっていただいた方のみ</a>の提供となります！そして個人スポンサーの締め切りも<span style="font-weight: bold; font-size: 1.5em">9/9となります</span>。</p>
+
+<p><img src="http://yapcasia.org/2011/images/t-shirt_b.jpg" /></p>
+
+<p>あと前に宣言した通り、スティッカーもつきます！こちらも仮デザインですが、このようなデザインになる予定です。これももちろん<a href="http://yapcasia.org/2011/sponsor/" style="font-weight:bold">個人スポンサーになっていただいた方のみ</a>の提供となります！</p>
+
+<p><img src="http://yapcasia.org/2011/images/sticker_a.jpg" /></p>
+
+<p>個人スポンサーの締め切りもTシャツチケットと同じく、<span style="font-weight: bold; font-size: 1.5em">9/9となります</span>。<a href="http://yapcasia.org/2011/news/yapcasia-2011-sponsor-reward.html">個人スポンサーのみがもらえる特典</a>をご希望の方はお急ぎを！</p>
+
+<p><br />
+<p style="font-weight:bold; font-size:2em"><a href="http://yapcasia.org/2011/ticket/">チケット絶賛発売中です！</a></p></p>
+
+<p>====</p>
+
+<p><a href="http://yapcasia.org/2011/news/tshirt-desgin-and-deadline.html">The previous entry was for anybody who purchased tickets with T-shirts</a>, but this below is the T shirt design (draft) for our <b>Individual Sponsors</b>, with all the logo marks for our previous YAPCs. This T shirt is <a href="http://yapcasia.org/2011/sponsor/" style="font-weight:bold">only available for our Individual Sponsors</a>!</p>
+
+<p><img src="http://yapcasia.org/2011/images/t-shirt_b.jpg" /></p>
+
+<p>And as previously stated, you also get a sticker! This is also <a href="http://yapcasia.org/2011/sponsor/" style="font-weight:bold">only available for our Individual Sponsors</a>!</p>
+
+<p><img src="http://yapcasia.org/2011/images/sticker_a.jpg" /></p>
+
+<p>The deadline to become an individual sponsor will be same as the tickets with T shirts, namely <b>September 9th</b>. If you're interested in <a href="http://yapcasia.org/2011/news/yapcasia-2011-sponsor-reward.html">novelties that ONLY our Individual Sponsors can get</a>, GRAB YOUR TICKETS NOW!</p>
+
+<p style="font-weight:bold; font-size:2em"><a href="http://yapcasia.org/2011/ticket/">Tickets for YAPC::Asia Tokyo 2011 are on sale RIGHT NOW!</a></p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>YAPC::Asia 2011 Tシャツ デザイン公開 + Tシャツ付きチケット締め切り | T-Shirt Designs And Deadlines For Ticket w/ T-Shirt</title>
+    <link rel="alternate" type="text/html" href="http://yapcasia.org/2011/news/tshirt-desgin-and-deadline.html" />
+    <id>tag:blog.yapcasia.org,2011:/2011//3.19</id>
+
+    <published>2011-08-31T01:31:31Z</published>
+    <updated>2012-02-15T23:17:57Z</updated>
+
+    <summary>(English follows Japanese) こんにちは、津久井です。 ...</summary>
+    <author>
+        <name>Daisuke Maki</name>
+        
+    </author>
+    
+    
+    <content type="html" xml:lang="ja" xml:base="http://yapcasia.org/2011/">
+        <![CDATA[<p>(English follows Japanese)</p>
+
+<p>こんにちは、津久井です。</p>
+
+<p>今年の公式Tシャツのデザインと、Tシャツ付きチケットの販売締め切りが決まったのでお知らせいたします。</p>
+
+<p>まず<span style="font-weight: bold; font-size: 1.5em">Tシャツ付きチケットの販売は9/9までとします</span>。それ以降はチケット本体は売り切れになるまで販売しつづけますが、Tシャツはもうこれ以降購入はできません。今年は、当日の販売ができるかどうかは未定ですので、どうしてもTシャツが欲しいという方は、この機会をお見逃しなく！</p>
+
+<p><a href="http://yapcasia.org/2011/assets_c/2011/08/YAPC2011-Tshirts-30.html" onclick="window.open('http://yapcasia.org/2011/assets_c/2011/08/YAPC2011-Tshirts-30.html','popup','width=630,height=539,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://yapcasia.org/2011/assets_c/2011/08/YAPC2011-Tshirts-thumb-300x256-30.jpg" width="300" height="256" alt="YAPC2011-Tshirts.jpg" class="mt-image-none" style="" /></a></p>
+
+<p>ネイビーのTシャツにしました。<br />
+これでTシャツのデザインがわからないからチケット買えないよ！という方も安心してチケットを買うことができると思いますので、どしどし購入してください。</p>
+
+<p><br />
+<p style="font-weight:bold; font-size:2em"><a href="http://yapcasia.org/2011/ticket/">チケット絶賛発売中です！</a></p></p>
+
+<p><br />
+=====</p>
+
+<p>We've finally settled on the design for our official T-shirt for YAPC::Asia Tokyo! We're also setting a deadline for ticket sales for tickets with T-shirts.</p>
+
+<p>So first of all, <b>tickets with T-shirts will only be on sale up to September 9 (JST)</b>. Regular tickets will still be on sale until we're sold out, but you won't be able to purchase T-shirts afterwards. We're not planning on selling T-shirts at the venue, so if you really want them t-shirts, don't wait to get your ticket!</p>
+
+<p><a href="http://yapcasia.org/2011/assets_c/2011/08/YAPC2011-Tshirts-30.html" onclick="window.open('http://yapcasia.org/2011/assets_c/2011/08/YAPC2011-Tshirts-30.html','popup','width=630,height=539,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://yapcasia.org/2011/assets_c/2011/08/YAPC2011-Tshirts-thumb-300x256-30.jpg" width="300" height="256" alt="YAPC2011-Tshirts.jpg" class="mt-image-none" style="" /></p>
+
+<p>We've selected a navy as the base color this year. Now you can decide to get a ticket with or without a T-shirt:</p>
+
+<p style="font-weight:bold; font-size:2em"><a href="http://yapcasia.org/2011/ticket/">Tickets for YAPC::Asia Tokyo 2011 are on sale RIGHT NOW!</a></p>]]>
+        
+    </content>
+</entry>
+
+</feed>
