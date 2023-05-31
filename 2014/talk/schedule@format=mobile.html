@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html ng-app="yapc2014">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,
+                                   initial-scale=1, maximum-scale=1,
+                                   minimum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>YAPC::Asia Tokyo 2014</title>
+    <!-- Path to Framework7 Library CSS-->
+    <link rel="stylesheet" href="/2014/static/mobile/css/framework7.min.css">
+    <!-- Path to your custom app styles-->
+    <link rel="stylesheet" href="/2014/static/mobile/css/mobile-app.css">
+  </head>
+  <body>
+    <a id="top"></a>
+    <div class="views">
+      <div class="view view-main">
+        <div class="pages">
+          <div page-data="index" class="page">
+            <div class="page-content">
+              <div class="navbar">
+                <div class="navbar-inner">
+                  <div class="center">YAPC::Asia Tokyo 2014</div>
+                </div>
+              </div>
+
+
+              <div ng-controller="DateController" ng-init="change_date();" class="buttons-row schedule-tabs">
+                <a href="schedule@format=mobile.html#tab1" class="tab-link button " data-date="2014-08-28">Thu 8/28</a>
+                <a href="schedule@format=mobile.html#tab2" class="tab-link button " data-date="2014-08-29">Fri 8/29</a>
+                <a href="schedule@format=mobile.html#tab3" class="tab-link button " data-date="2014-08-30">Sat 8/30</a>
+              </div>
+
+              <div id="schedule" class="content-block" ng-controller="ScheduleController" ng-init="load();">
+                <div ng-controller="TalkController">
+                  <div ng-repeat="(start_time, talks) in talk_set">
+                    <div class="content-block-title">{{ start_time }}</div>
+                    <div class="list-block media-list">
+                      <ul ng-repeat="talk in talks">
+                        <li>
+                          <div class="item-wrapper" ng-class="'talk-' + talk.id">
+                            <div class="popup">
+                              <div class="content-block">
+                                <h3 class="entry-title">{{ talk.title || talk.title_en }}</h3>
+                                <div class="entry-media">
+                                  <img ng-src="{{ talk.speaker.profile_image_url }}" width="60">
+                                </div>
+                                <div class="entry-info">
+                                  <div class="entry-text">start: <b>{{ start_time }}</b>
+                                    / duration: <b>{{ talk.duration }}</b>min
+                                  </div>
+                                  <div class="entry-text">by: <b>{{ talk.speaker.name }}</b></div>
+                                 <div class="entry-text">at: <b>{{ talk.venue_name }}</b></div>
+                                </div>
+                                <div class="clear"></div>
+                                <div class="entry-abstract" ng-bind-html="talk.abstract_html"></div>
+                                <p><a href="schedule@format=mobile.html#" class="button button-round close-popup">Close</a></p>
+                              </div>
+                            </div>
+                            <!-- /END of popup -->
+                            <div class="item-content" onclick>
+                              <div class="item-media"><img ng-src="{{ talk.speaker.profile_image_url }}" width="50"></div>
+                              <div class="item-inner">
+                                <a href="schedule@format=mobile.html#" highlight="active" ng-click="show_detail(talk.id);" class="touch" ng-class="touch">
+                                  <div class="item-title-row">
+                                    <div class="item-title">{{ talk.title || talk.title_en }}</div>
+                                  </div>
+                                </a>
+                                <div class="item-text">{{ talk.venue_name }} {{ talk.duration }}min</div>
+                              </div>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <div class="toolbar-inner" ng-controller="ToolbarController">
+            <a href="schedule@format=mobile.html#" class="link" ng-click="scroll_to_top();">Schedules</a>
+            <a href="schedule@format=mobile.html#" class="link" ng-click="show_map();">Maps</a>
+          </div>
+        </div>
+
+        <div id="map">
+          <div class="popup map">
+            <img src="/2014/static/mobile/img/map.png" />
+            <p><a href="schedule@format=mobile.html#" class="button button-round close-popup">Close</a></p>
+          </div>
+        </div>
+            
+      </div>
+    <script type="text/javascript" src="/2014/static/mobile/js/framework7.js"></script>
+    <script type="text/javascript" src="/2014/static/mobile/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/2014/static/mobile/js/angular.min.js"></script>
+    <script type="text/javascript" src="/2014/static/mobile/js/sanitize.js"></script>
+    <script type="text/javascript" src="/2014/static/mobile/js/mobile-app.js"></script>
+  </body>
+</html>
+
