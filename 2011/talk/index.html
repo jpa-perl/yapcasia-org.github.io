@@ -1,0 +1,2178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Language" content="ja" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta name="description" content="Perl YAPC::Asia Tokyo 2011 Conference">
+    <meta name="keywords" content="Perl,YAPC,YAPC::Asia,Evolution,JPA,Japan Perl Association,大岡山,東工大,tokyo">
+    <meta name="copyright" content="(c) 2011 Japan Perl Association" />
+    <meta name="Author" content="Japan Perl Association">
+    <meta name="publisher" content="Japan Perl Association" />
+    <link rel="start" href="../index.html" title="ホーム" />
+    <link rel="stylesheet" type="text/css" href="../css/styles.css" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="../atom.xml" />
+    <link rel="shortcut icon" href="/2011/favicon.ico" >
+    <script src="http://www.google.com/jsapi"></script>
+    <script>google.load("jquery", "1.4.2");</script>
+    <script type="text/javascript" src="../js/jquery.pngFix.js" charset="utf-8"></script>
+    <script type="text/javascript" src="../js/jquery.cycle.all.js" charset="utf-8"></script>
+    <script type="text/javascript" src="../js/jquery.easing.1.3.js" charset="utf-8"></script>
+    <script type="text/javascript" src="../js/jquery.page-scroller.js" charset="utf-8"></script>
+    <script type="text/javascript" src="../js/functions.js" charset="utf-8"></script>
+    <script type="text/javascript" src="../mt.js"></script>
+    <script type="text/javascript">
+    var blog_id = '3';
+    var page_id = '';
+    </script>
+    
+    <!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script><![endif]-->
+    <title>YAPC::Asia Tokyo 2011</title>
+    <meta property="fb:admins" content="738956136,1385822643" />
+    <meta property="og:title" content="YAPC::Asia Tokyo 2011" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/2011/images/header_yapc_logo.png"/>
+    <meta property="og:site_name" content="YAPC::Asia Tokyo 2011" />
+</head>
+<body id="">
+<a id="top" name="top" ></a>
+
+
+<div id="header">
+<h1><a href="../index.html" title="YAPC::Asia Tokyo 2011">YAPC::Asia Tokyo 2011</a></h1>
+<ul>
+<li><a href="../index.html#date">Access/Date</a></li>
+<li><a href="../index.html#speakers">Guest Speakers</a></li>
+<li><a href="../index.html#news">News</a></li>
+<li><a href="index.html">Talks</a></li>
+<li><a href="../sponsor/index.html">Sponsor</a></li>
+</ul>
+</div><!--  / #header /  -->
+
+<div id="container">
+
+<style type="text/css">
+<!--
+    table.talktable td {
+        font-size: 12px;
+    }
+-->
+</style>
+
+<div id="primary_column"> 
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+<!--
+    $(document).ready( function() {
+        var iter = 0;
+        $( "a.likeable" ).each( function( i, e ) {
+            (function() {
+                var elem = $(e);
+                var container;
+                var timer;
+                var hasFocus = false;
+                var offset = elem.offset();
+                var href = "/2011/talk/" + elem.attr('href');
+                var gplusone_id = "talk_" + iter++;
+                elem.hover(
+                    function() {
+                        if ( container != null ) {
+                            return;
+                        }
+                        container = $("<div></div>");
+                        container.append(
+                            $('<div style="font-weight: bold"><a href="' + href + '">' + elem.text() + '</a></div>')
+                        );
+                        container.append( $('<div id="' + gplusone_id + '">GplusOne container</div>') );
+                        container.append( $("<br />") );
+
+                        var iframe = $('<iframe scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>');
+                        iframe.attr({ src: "http://www.facebook.com/plugins/like.php?href=" + encodeURIComponent( href ) });
+
+                        container.append(iframe);
+                        container.css( {
+                            position: "absolute",
+                            top: offset.top,
+                            left: offset.left + 15,
+                            padding: "10px",
+                            border: "1px solid #ccc",
+                            "background-color": "#fff"
+                        } );
+                        $( [ container, iframe ] ).each( function(i, c) {
+                            c = $(c);
+                            c.hover( 
+                                function() {
+                                    hasFocus = true;
+                                    if ( timer != null ) {
+                                        clearInterval(timer);
+                                        timer = null;
+                                    }
+                                },
+                                function() {
+                                    hasFocus = false;
+                                    if (timer != null ) {
+                                        clearInterval(timer);
+                                    }
+                                    timer = setInterval( function() {
+                                        if ( container != null ) {
+                                            clearInterval(timer);
+                                            container.fadeOut("slow", function() {
+                                                container.remove();
+                                                container = null;
+                                            });
+                                        }
+                                    }, 1000 );
+                                }
+                            );
+                        } );
+
+                        $("#primary_column").append(container);
+                        gapi.plusone.render(gplusone_id, {
+                            "size": "standard",
+                            "count": "true",
+                            "href": href
+                        });
+                    },
+                    function() {
+                        hasFocus = true;
+                        if ( timer != null ) {
+                            clearInterval(timer);
+                        }
+                        timer = setInterval( function() {
+                            if ( container != null ) {
+                                clearInterval(timer);
+                                container.fadeOut("slow", function() {
+                                    container.remove();
+                                    container = null;
+                                });
+                            }
+                        }, 1000 );
+                    }
+                )
+            })();
+        });
+    });
+-->
+</script>
+<style type="text/css">
+<!--
+    table.talktable {
+        width: 620px;
+    }
+
+    table.talktable th {
+        background-color: #fff;
+        font-weight: bold;
+        padding: 5px;
+    }
+    table.talktable th.title {
+        width: 150px;
+    }
+    table.talktable td.title {
+        width: 150px;
+    }
+    table.talktable td {
+        background-color: #fff;
+        padding: 5px;
+    }
+    ul.talksamples li {
+        font-weight: bold;
+    }
+-->
+</style>
+
+<div class="section"> 
+<h3><em>トーク一覧</em></h3> 
+<div class="box">
+<ul>
+    <li><a href="../timetable.html">タイムテーブル</a></li>
+    <li><a href="index.html#rejectconf">RejectConf (10/13 18:00 ~ )</a></li>
+    <li><a href="index.html#sweets">スイーツエリア</a></li>
+    <li><a href="index.html#maintalks">採用トーク一覧</a></li>
+    <li><a href="index.html#canceledtalks">キャンセルされたトーク</a></li>
+</ul>
+</div>
+
+    <p><a href="../news/talks-accepted.html">スピーカー（トークを応募した方）はこちらをご覧下さい</a></p>
+</div>
+
+<div class="section"> 
+<h3><em>Calendar Feed</em></h3> 
+<div class="box">
+<p>正式なタイムテーブルをまてないというそんなあなたはGoogle Calendarフィードをご覧下さい</p>
+<ul>
+    <li>
+        70周年記念講堂: [ <a href="http://www.google.com/calendar/feeds/perlassociation.org_ua20j663bsirsk1dl577n43lns%40group.calendar.google.com/public/basic">xml</a> ]
+    </li>
+    <li>
+        ディジタル多目的ホール (14日): [ <a href="http://www.google.com/calendar/feeds/perlassociation.org_1i4fs82j52abb7guhnsvolno6k%40group.calendar.google.com/public/basic">xml</a> ]
+    </li>
+    <li>
+        フェライト会議室 100年記念館: [ <a href="http://www.google.com/calendar/feeds/perlassociation.org_rmkjj22qgrm2ivq0220of7p2f0%40group.calendar.google.com/public/basic">xml</a> ]
+    </li>
+    <li>
+        蔵前会館 ロイヤルブルーホール (15日): [ <a href="http://www.google.com/calendar/feeds/perlassociation.org_s67a3g2m5i1es2ite3i8hdgcng%40group.calendar.google.com/public/basic">xml</a> ]
+    </li>
+    <li>
+        スイーツエリア - [ <a href="http://www.google.com/calendar/feeds/perlassociation.org_pn6nsitkvdacfl05m3963ajb3s%40group.calendar.google.com/public/basic">xml</a> ]
+    </li>
+    <li>
+        RejectConf - [ <a href="http://www.google.com/calendar/feeds/perlassociation.org_ov7dsipos3bvfhvjpe5a7iutcc%40group.calendar.google.com/public/basic">xml</a> ]
+    </li>
+</ul>
+<p>あくまで＊現時点＊でのスケジュールです。スケジュールは変更される可能性がありますのでご了承下さい</p>
+</div>
+</div>
+
+<div class="section"> 
+<a id="rejectconf" name="rejectconf">
+<h3><em>RejectConf 候補トーク</em></h3>
+</a>
+<table class="talktable" border="1">
+<tr>
+    <th class="title">タイトル</td>
+    <th>発表時間</td>
+    <th>言語</td>
+    <th>字幕</td>
+    <th>ジャンル</th>
+    <th>対象</th>
+    <th>発表者</td>
+</tr>
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/81.html">超個人情報のためのマルチクラウドを用いた分散セキュアストレージ (Distributed Secure Storage with Multiple Cloud for Super-Private Information)
+        </a></div>
+        <div style="margin-top: 2em">RejectConf        </div>
+        <div>[2011-10-13]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>指定無し</td>
+    <td>Akihiro Nakao</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>あなたのパスワード、他人のストレージに保存できますか？
+
+パスワードだけでなく、誰にも知られたくない秘密や、カルテ情報、自分自身の遺伝情報など、超個人情報をセキュアに保存するための実装と、
+そのPerlとのimplementationについて発表します。
+...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/93.html">本当は難しいフレンド・タイムライン処理
+        </a></div>
+        <div style="margin-top: 2em">RejectConf        </div>
+        <div>[2011-10-13]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>アプリケーション開発</td>
+    <td>中級者</td>
+    <td>kamipo</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://kamipo.github.com/talks/20111013-yapc2011/#0">http://kamipo.github.com/talks/20111013-yapc2011/#0</a></div>
+        <div>TwitterやFacebookのニュースフィードなどのように、友人の投稿を時系列に並べて表示する（以下「フレンド・タイムライン」と呼ぶ）、というのはソーシャルなウェブサービスにおいて一般的な手法であり、ウェブ系の開発者の多くはこのような機能を一度は実装したことがあるのではないかと思います。
+
+このフレンド・タイムライン処理は、一見すると簡単に実現できそうですが、データの増加に伴って様々なボトルネックが健在化してきます。
+
+本トークでは、フレンド・タイムライン機能を運用してきた経験から、データ増加...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/37.html">TTでもなくXSlateでもなく、HTML::Template(::Pro)を使うとても些細な理由 (Why I use HTML::Template(::Pro), neither TT nor XSlate)
+        </a></div>
+        <div style="margin-top: 2em">RejectConf        </div>
+        <div>[2011-10-13]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>初心者</td>
+    <td>Seiji OHIRA</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/SeijiOhira/yapcasia-2011-rejectconf-slide">http://www.slideshare.net/SeijiOhira/yapcasia-2011-rejectconf-slide</a></div>
+        <div>TTでもなくXSlateでもなく、HTML::Template(::Pro)を使うとても些細な理由
+
+いくつかのほんの些細な実体験を元に賢いテンプレートエンジンの落とし穴を紹介させて頂きます。
+
+Tenplate::Toolkit、仕事や趣味でPerlに勤しんできた方々にとってはとても甘美な響きです。何よりも賢く、実行エンジンはキャッシュされていれば恐ろしいほどに高速です。
+
+そう、かつて私がそして、きっと皆さんも大好きであろう出版社の一つであるO&#39;Reilly出版から書籍が出るほどにとても素...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/52.html">サービス運用者のための継続的監視
+        </a></div>
+        <div style="margin-top: 2em">RejectConf        </div>
+        <div>[2011-10-13]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>インフラ・DevOps</td>
+    <td>中級者</td>
+    <td>Tatsuro Myfinder Hisamori</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="https://docs.google.com/present/view?id=dfnn8385_108cpcddrf2&amp;pli=1">https://docs.google.com/present/view?id=dfnn8385_108cpcddrf2&amp;pli=1</a></div>
+        <div>サービスを運用する上で監視は欠かせないものです。
+障害発生時に通知が出るのは当然として、問題の早期発見の為に継続的監視を行うことはサービス品質の保証と向上に対し有効的かつ重要な手段だと考えます。
+
+本トークでは運用を安全に行うための手段や、実際にサービスで取り入れているツールとその利用方法について、開発/導入に至る背景を踏まえて解説します。...</div>
+    </td>
+</tr>
+
+
+</table>
+</div>
+
+<div class="section"> 
+<a id="sweets" name="sweets">
+<h3><em>スイーツエリア</em></h3>
+</a>
+<table class="talktable" border="1">
+<tr>
+    <th class="title">タイトル</td>
+    <th>発表時間</td>
+    <th>言語</td>
+    <th>字幕</td>
+    <th>ジャンル</th>
+    <th>対象</th>
+    <th>発表者</td>
+</tr>
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/94.html">App::staticperl
+        </a></div>
+        <div style="margin-top: 2em">スイーツエリア        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>English</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>上級者</td>
+    <td>Marc Lehmann</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>運営より： Marc Lehmann氏の代わりにとりあえず入れてあります。
+10分か15分くらいの短いセッションになる予定ですので、多分スイーツエリアで開催されることになります。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/47.html">あんなテスト、こんなテスト (this and that about testing)
+        </a></div>
+        <div style="margin-top: 2em">スイーツエリア        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>テスト</td>
+    <td>指定無し</td>
+    <td>tsucchi</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/tsucchi/this-and-that-about-testing">http://www.slideshare.net/tsucchi/this-and-that-about-testing</a></div>
+        <div>テストコードを書く際に、DBなどの外部の環境に依存する部分や、日時などOSに近い部分のテストが書きづらいのは周知のことと思います。
+
+しかし、「少しの黒魔術」や「ちょっと変わったモジュール」の力を借りればこういったテストも比較的楽に書くことができます。
+
+そんな、「ちょっとヘン、だけど有用」なテストのテクニックをご紹介したいと思います。
+
+(一般論というよりも、実際の業務で出会った問題とその対応を紹介する予定です)
+
+---
+It is difficult to write testco...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/53.html">Teto でニコニコ音声ストリーミング
+        </a></div>
+        <div style="margin-top: 2em">スイーツエリア        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>中級者</td>
+    <td>motemen</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="https://docs.google.com/present/view?id=dmtb2db_296fqq7fbvj">https://docs.google.com/present/view?id=dmtb2db_296fqq7fbvj</a></div>
+        <div>ニコニコ動画や YouTube の音声を連続して聴ける音声ストリーミングアプリ Teto のご紹介です。
+Teto を使って、適当なウェブサイトをプレイリスト代わりに iTunes 等で聴くことができます。
+
+https://github.com/motemen/Teto...</div>
+    </td>
+</tr>
+
+
+</table>
+</div>
+
+<div class="section"> 
+<a id="maintalks" name="maintalks">
+<h3><em>採用トーク一覧</em></h3>
+</a>
+<table class="talktable" border="1">
+<tr>
+    <th class="title">タイトル</td>
+    <th>発表時間</td>
+    <th>言語</td>
+    <th>字幕</td>
+    <th>ジャンル</th>
+    <th>対象</th>
+    <th>発表者</td>
+</tr>
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/64.html">Opening
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>コミュニティ</td>
+    <td>指定無し</td>
+    <td>941</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/941/yapcasia-2011-opening">http://www.slideshare.net/941/yapcasia-2011-opening</a></div>
+        <div>YAPC::Asia 2011の開幕を宣言いたします！...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/96.html">Perl 5.16 and beyond
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>40分</td>
+    <td>English</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>指定無し</td>
+    <td>Jesse Vincent</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/obrajesse/perl-516-and-beyond-yapcasia-2011">http://www.slideshare.net/obrajesse/perl-516-and-beyond-yapcasia-2011</a></div>
+        <div>The past few years have seen a renaissance of Perl development. With an annual release schedule and an ever-growing list of core contributors, the Perl community is more vibrant than ever before.
+
+We’ve spent the past two years refactoring our developme...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/68.html">CPANモジュールガイド編集後記＋α
+        </a></div>
+        <div style="margin-top: 2em">ディジタル多目的ホール (14日)        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>初心者</td>
+    <td>Naoki Tomita</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/tomita/yapcasia-2011-tomita">http://www.slideshare.net/tomita/yapcasia-2011-tomita</a></div>
+        <div>4月に発売された、「CPANモジュールガイド」を執筆中のメモを元にしたトークです。
+
+・本でとりあげた、あまり知られていないTips
+・没モジュールあれこれ
+・なぜこのモジュールに決めたのか（比較検討）
+・今ならこれも追加で取り上げたいもの
+
+10 modules I haven’t yet talked 的な感じの CPANモジュールをネタにしたざっくばらんなコネタ集トークです。執筆中メモはたくさん残っているのですが、一つ一つの話題は小さくてブログに書くのがめんどうで今に至っています。この...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/91.html">Carton: CPAN dependencies manager
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ライブラリ・ツール</td>
+    <td>初心者</td>
+    <td>Tatsuhiko Miyagawa</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/miyagawa/carton-cpan-dependency-manager-9690700">http://www.slideshare.net/miyagawa/carton-cpan-dependency-manager-9690700</a></div>
+        <div>Carton is a new command to manage Perl module dependencies for your applications. Like gem bundler for Ruby, Carton solves the issue of &quot;upgrading CPAN modules broke my code&quot; by allowing you to lock and freeze dependencies. Carton makes it easy to manage ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/92.html">Webアプリケーション高速化
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>アプリケーション開発</td>
+    <td>中級者</td>
+    <td>mala</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://ma.la/files/yapcasia2011/">http://ma.la/files/yapcasia2011/</a></div>
+        <div>あまり人がやらないようなアプローチでのWebアプリケーション高速化のノウハウについて話します。人がやらないと言ってもネタではなく基本的に真面目な話をします。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/22.html">A Language for getting the job done
+        </a></div>
+        <div style="margin-top: 2em">ディジタル多目的ホール (14日)        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>インフラ・DevOps</td>
+    <td>指定無し</td>
+    <td>Dan Kogai</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.dan.co.jp/~dankogai/yapcasia2011/jobdone.html">http://www.dan.co.jp/~dankogai/yapcasia2011/jobdone.html</a></div>
+        <div>&quot;Perl is a language for getting the job done&quot;.  This definition has not changed ever since.  But the language has evolved and the jobs have revolved.  I have done many talks on the evolution of the language.  This time I will talk about the revolution of ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/77.html">SmartPhone development guide with Node/CoffeeScript and HTML5 technologies, for Perl programmers
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>アプリケーション開発</td>
+    <td>指定無し</td>
+    <td>Naoya Ito</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/naoya1977/smartphone-development-guide-with-coffeescript-node-html5-technology-for-perl-programmers">http://www.slideshare.net/naoya1977/smartphone-development-guide-with-coffeescript-node-html5-technology-for-perl-programmers</a></div>
+        <div>Node/Coffee や HTML5 関連あるいは PhoneGap や Titanium Mobile などの JavaScript middleware を使ってのスマートフォン開発の手法を Perl での開発と比較しつつ、解説します。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/87.html">新はてなダイアリーの裏側
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>アプリケーション開発</td>
+    <td>中級者</td>
+    <td>Yasuhiro Onishi</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/onishi/ss-9726535">http://www.slideshare.net/onishi/ss-9726535</a></div>
+        <div>2003年にサービス開始した「はてなダイアリー」がこの秋、新しく生まれ変わります。
+全てが新しくなった「新はてなダイアリー」のシステムの裏側を解説します。
+
+新はてなダイアリーのアーキテクチャ、負荷分散や高速化のための仕組み、ユニークな機能などを紹介します。
+...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/56.html">Webアプリでパスワード保護はどこまでやればいいか
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>初心者</td>
+    <td>徳丸　浩</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/ockeghem/how-to-guard-your-password">http://www.slideshare.net/ockeghem/how-to-guard-your-password</a></div>
+        <div>PSNおよびQriocityに対する不正アクセスにより1億件を超えるパスワード情報が漏洩し、一方では地銀を中心にパスワードの不正利用と見られるなりすましの事件が多発するなど、パスワードの安全性に対する課題が高まっています。
+このトークでは、パスワード保護に関する現時点のベストプラクティスであるハッシュ、ソルト、ストレッチングの必要性と実装方法を紹介した上で、データの移行方法などよくある疑問に答えます。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/71.html">AnyEvent, Coro, IO::AIO - a good team 
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>40分</td>
+    <td>English</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>中級者</td>
+    <td>Marc Lehmann</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="/2011/slides/mlehmann/">/2011/slides/mlehmann/</a></div>
+        <div>このトークではPerlでの非同期・イベント駆動プログラミングの第一人者であるMarc Lehmann氏がこの手法を使ったプログラミングについて解説していただきます
+
+===
+
+This talk gives an introduction into the history and philosophy of
+AnyEvent, Coro and IO::AIO by looking at the actual problems that prompted
+their creation, how...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/41.html">Perlで構築された中規模サイトのDC引っ越し記録
+        </a></div>
+        <div style="margin-top: 2em">ディジタル多目的ホール (14日)        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>インフラ・DevOps</td>
+    <td>指定無し</td>
+    <td>FUJIWARA Shunichiro</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://dl.dropbox.com/u/224433/YAPC2011/index.html">http://dl.dropbox.com/u/224433/YAPC2011/index.html</a></div>
+        <div>会員登録38万人の音声投稿サイト「こえ部」 http://koebu.com/ のサーバサイドは主に Perl で構築されています。
+
+100万PV/日をサーバ約20台で処理する、小規模というにはちょっとだけ大きくなった中規模サイトに、データセンターを移転する話が持ち上がりました。
+
+この際、ただ移転するだけではなく、リリースから3年にわたって建て増しを繰り返して混乱しているサーバ群をリファクタリングし、今後の拡張に耐える SPOF の少ないアーキテクチャに再構築する作業も行います。
+
+なるべ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/49.html">Rubyist のための Perl ウェブアプリケーション開発入門 (Perl web development guide for Rubyist )
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>初心者</td>
+    <td>Kensuke Nagae</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/kyanny/rubyist-perl-perl-web-development-guide-for-rubyist">http://www.slideshare.net/kyanny/rubyist-perl-perl-web-development-guide-for-rubyist</a></div>
+        <div>RVM で複数の Ruby を使い分け、 Sinatra でさっとアプリケーションを書き、 Heroku にデプロイして公開する。これらは Rubyist にとってはおなじみのツールや環境ですが、 Perl でもまったく同じようなことができるのをご存知ですか？
+
+このトークでは、 Perlbrew, Mojolicious::Lite, DotCloud などを紹介し、前述のツールや環境と比較することで、 Rubyist に向けて Perl でのウェブアプリケーション開発を手ほどきします。「Perl ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/65.html">perlbrew
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>English</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>初心者</td>
+    <td>Kang-min Liu</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://speakerdeck.com/u/gugod/p/introduction-to-perlbrew">http://speakerdeck.com/u/gugod/p/introduction-to-perlbrew</a></div>
+        <div>perlbrew is a nice little tool for developers to try new versions of perl. With perlbrew, you can keep multiple versions of installations of perl in parallel, and run programs with any one of them easily.
+...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/63.html">Perl Mongerなりきりカードゲームの考案と実践 (Plan and Practice of Perl Monger Card Game)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>コミュニティ</td>
+    <td>指定無し</td>
+    <td>makamaka</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/maka2donzoko/yapcasia2011talk">http://www.slideshare.net/maka2donzoko/yapcasia2011talk</a></div>
+        <div>Perl Mongerになって悪の仕様や暴君な納期と闘うテーブルトークRPG『Pythons &amp; PerlMongers（パイソン・アンド・パルモンズ）』を2008年の夏コミで出しました（http://www.donzoko.net/gakuya/#trpg_pp）（Pythonは本編と全く何の関係もありません）。あれから3年。そろそろルールを改定し、よりゲーム性の高いものにしたいと考えています。
+
+と思ったのですが、今回抽象化を進めた結果、カードゲームになりました。プレーヤーはPerl Monger...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/95.html">Perl 5.14 For Pragmatists
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>40分</td>
+    <td>English</td>
+    <td>English</td>
+    <td>ライブラリ・ツール</td>
+    <td>指定無し</td>
+    <td>Ricardo Signes</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/rjbs/perl-514-8809465">http://www.slideshare.net/rjbs/perl-514-8809465</a></div>
+        <div>  Every new release of Perl comes with a big list of changes, plenty of
+  which seem carefully worded to make the average Perl programmer
+  wonder, &quot;Wait, do I care about this? What the heck is the global
+  interpreter phase?&quot; Perl 5.14 is chocked full...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/44.html">perl meets beats.
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>初心者</td>
+    <td>techno-cat (Cherry)</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/technocat/perl-meets-beats-9696162">http://www.slideshare.net/technocat/perl-meets-beats-9696162</a></div>
+        <div>How to make beats with perl.
+
+perlでbeatsを刻んで、最終的にgrooveを生みます。
+
+音響合成言語は（SuperColliderとか、AudacityのNyquistとか）いくつかありますが、
+perlでもやりたいよね、って思ってやってみたので発表します。
+
+1. perlによる音声合成処理
+  perlによるWAVファイル出力
+  音階の実装
+  単音, 和音の実装
+  ドラムマシンの実装
+
+2. grooveの実装
+  grooveと...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/75.html">Mobage オープンプラットフォームの事件簿 (The case file of Mobage Open Platform)
+        </a></div>
+        <div style="margin-top: 2em">ディジタル多目的ホール (14日)        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>アプリケーション開発</td>
+    <td>指定無し</td>
+    <td>Toru Yamaguchi</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/zigorou/yapc-asia-2011zigorou">http://www.slideshare.net/zigorou/yapc-asia-2011zigorou</a></div>
+        <div>Mobage オープンプラットフォームもリリースしてから、1年半以上が経ちました。振り返ってこの期間にどのような事件があり、その都度どのように解決していったかについて説明します。
+
+またスピンアウトして幾つかの CPAN モジュールにしていった理由や、社内で使っている大規模環境向けのツールなども紹介します。
+
+The Mobage Open Platform is after over 1 year and 6 months since it was released. I look up on ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/20.html">Mobageソーシャルゲームにおける大規模サーバ運用 with Perl (Large scale server operations in Mobage&#39;s Social Games with Perl)
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>インフラ・DevOps</td>
+    <td>中級者</td>
+    <td>りーお＠DeNA</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.riywo.com/yapcasia2011/#1">http://www.riywo.com/yapcasia2011/#1</a></div>
+        <div>Mobage@DeNAの管理・運用を通じて経験した大規模サーバ運用の中から、他の環境でも役立つ内容を提供したいと思います。特に2009年から始めた内製ソーシャルゲームでの運用を通じて、どの様にして開発者と協力して運用してきたかという部分をご紹介したいと思います。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/21.html">One Page Appsの作り方 (How to Build One Page Apps)
+        </a></div>
+        <div style="margin-top: 2em">ディジタル多目的ホール (14日)        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>アプリケーション開発</td>
+    <td>指定無し</td>
+    <td>Shinichiro Aska</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://slide.7kai.org/yapc2011/">http://slide.7kai.org/yapc2011/</a></div>
+        <div>How to Build One Page Apps
+
+実例を元にOne Page Appsの作り方を紹介します。
+
+One Page Apps(Single Page Application)とは1枚のHTMLで構成されたWebアプリケーションでTweetDech等が有名です。
+
+一日中開いたままでもバックグラウンドで同期が走り、必要に応じて通知やDOMの再構成が行われ、オフライン中の操作はスタックされ、通信回復後に再同期が行われる様なクライアントアプリケーションに非常に近い実装が必要になり...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/80.html">他言語から見たPerlのテスト (Perl Testing Consideration seen from other languages)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>テスト</td>
+    <td>指定無し</td>
+    <td>Masaki Nakagawa</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/masaki/perl-testing-consideration-seen-from-other-languages">http://www.slideshare.net/masaki/perl-testing-consideration-seen-from-other-languages</a></div>
+        <div>昨今では、プロダクトと一緒にテストを書くことがごく普通になりました。
+テストに対する考え方や環境は、言語が利用されてきた歴史やコミュニティといった要因に大きく影響を受けており、言語が変わるとその考え方もガラっと変わったりします。
+
+ここでは、Perl以外の言語でのテスト周辺事情とPerlのそれとを比較し、共通点や違いについて考察します。また、他言語でのプラクティスをPerlに適用するにはどうしたら良いか、ということも考えたいと思います。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/34.html">Apporoで類似文字列検索 (Approximate String Matching using Apporo)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>指定無し</td>
+    <td>Toshinori Satou</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://diary.overlasting.net/pdf/20111014_yapcasia2011_about_apporo_open.pdf">http://diary.overlasting.net/pdf/20111014_yapcasia2011_about_apporo_open.pdf</a></div>
+        <div>I introduce Apporo and range of application of it.
+Apporo is one of Approximate String Matching Engine.
+In example, it can use for spell correction for search query of a medium scale web service.
+See also &quot;http://code.google.com/p/apporo/&quot;.
+----
+Appo...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/60.html">Perlでちょいモテ電子工作 (Pretty Electric Engineering in Perl )
+        </a></div>
+        <div style="margin-top: 2em">ディジタル多目的ホール (14日)        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>指定無し</td>
+    <td>まんでぃー</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/YukiManno/yapc2011perl">http://www.slideshare.net/YukiManno/yapc2011perl</a></div>
+        <div>皆さん、Arduinoというオープンソースハードウェアをご存知でしょうか？
+Arduinoはマイコンの一種で、入出力ポートを備えており、C言語っぽいArduino独自の言語で書いたプログラムに従って様々な動きをさせることができます。
+
+今回はそのArduinoをPerlを使って動かし、あわよくばモテるようなことに使ってしまうことを目標としています。
+※効果は保証いたしません
+
+Arduinoの紹介や使い方も解説しますので、そろそろソフトウェア以外にも手を伸ばしたい、半田ごてを握りたい、電子工作...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/97.html">LT Day 1
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-14]</div>
+    </td>
+    <td>90分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>LT Day 1...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/76.html">続 Unix Programming with Perl (Unix Programming with Perl 2)
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>中級者</td>
+    <td>Kazuho Oku</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/kazuho/unix-programming-with-perl-2">http://www.slideshare.net/kazuho/unix-programming-with-perl-2</a></div>
+        <div>昨年の Unix Programming with Perl に引き続き、Unix 上で動作するプログラムを Perl で書く上で知っておいたほうがいいノウハウを紹介していきたいと思います。
+昨年の資料: http://developer.cybozu.co.jp/kazuho/2010/10/my-slides-at-ya.html...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/25.html">運用しやすいWebアプリケーションの構築方法
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>アプリケーション開発</td>
+    <td>中級者</td>
+    <td>masahiro nagano</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/kazeburo/yapcasia2011">http://www.slideshare.net/kazeburo/yapcasia2011</a></div>
+        <div>オペレーションエンジニアとして大規模Webサイトの運用に携わってきた経験の中から、運用しやすい、そして負荷に対して柔軟に対応しスケーラビリティの高いWebアプリケーションの構築方法について紹介します。
+
+内容はPlack::Middleware、Cache、DBI、Log、またメトリクス（リソース情報）収集などを予定しています。
+...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/58.html">大規模環境における、マニアックなキャッシュ利用術 (Cache Maniacs)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>インフラ・DevOps</td>
+    <td>中級者</td>
+    <td>Yuji Shimada</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://static.xaicron.dotcloud.com/slide/yapc2011/index.html">http://static.xaicron.dotcloud.com/slide/yapc2011/index.html</a></div>
+        <div>Webアプリケーションを運用してく上で、キャッシュの存在はなくてはならないものですね。
+memcached や KT などの汎用的なミドルウェアや、プロセス内のキャッシュに DNSキャッシュ等々。
+
+しかし、大規模な環境では、一般的なキャッシュの利用方法が通用しないケースが出てきます。
+どのような問題が発生し、どのように解決したのか。
+「ネットワークトラフィック大幅に軽減し、スループットも上げましょう！」という話を、某サービスの実例を交えて解説します。
+
+・memcached へのトラフィッ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/85.html">おたくのIPv4まだ残ってますか?-PerlにおけるIPv6への対応状況- (Are There Any More Your IPv4 Address Left?-about IPv6 support for Perl-)
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>インフラ・DevOps</td>
+    <td>指定無し</td>
+    <td>Kazuhiro Shibuya</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://dl.dropbox.com/u/5738997/YAPCASIA2011/index.html">http://dl.dropbox.com/u/5738997/YAPCASIA2011/index.html</a></div>
+        <div>JPNIC(APNIC,IANA)のIPv4がついになくなった今、IPv6対応を本格的に検討する段階にはいっています。Webアプリケーション開発者にとっても他人ごとではなく、今後IPv4が手に入りにくくなることは確実であり、アプリケーション側での対応も必要な場面がでてきます。そんな中過去から遡って現在のPerl本体、CPANモジュールのIPv6対応状況をまとめてみたいと思います。
+
+----
+
+We just need IPv6 support because IPv4 address exhau...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/24.html">Whada: Multi-Protocol Authentcation/Authorization Tool
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ライブラリ・ツール</td>
+    <td>初心者</td>
+    <td>tagomoris</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/tagomoris/whada-yapcasia-2011">http://www.slideshare.net/tagomoris/whada-yapcasia-2011</a></div>
+        <div>任意のバックエンド認証情報データベース(RDBMS・LDAP等)をベースに権限管理を追加した認証/認可エンジン「Wada」の機能・用例について紹介します。
+
+各種アプリケーションで独自に認証や権限認可について実装することなく LDAP/OpenID/OAuth プロトコルで認証を Wada に移譲することで、社内Webアプリケーションそれぞれにおける認証情報の乱立を防ぎます。
+またOpenLDAPを中心にLDAPをいかにハックしたか、OpenIDやOAuthとどのように共通の認証を実現しているかなど...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/50.html">ぼくがかんがえたさいきょうのうぇぶあぷりけーしょんふれーむわーく
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>中級者</td>
+    <td>cho45</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="https://docs.google.com/present/embed?id=dcsh7dq6_133dhm29x9z&amp;size=l">https://docs.google.com/present/embed?id=dcsh7dq6_133dhm29x9z&amp;size=l</a></div>
+        <div>PSGI の定義により、我々は今までよりも気軽に、HTTP リクエストとロジックを繋ぎこむことを主とするようなウェブアプリケーションフレームワークを作れるようになった。
+
+このセッションでは「ぼくのかんがえたさいきょうのうぇぶあぷりけーしょんふれーむわーく」と題し、ウェブアプリケーションフレームワークの設計や、用途に応じた使いわけを考えてみる。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/26.html">watch your log
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>インフラ・DevOps</td>
+    <td>中級者</td>
+    <td>nekokak</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://nekokak.org/presen/yapcasia2011/">http://nekokak.org/presen/yapcasia2011/</a></div>
+        <div>アプリケーションを運用していると各種ログを出力していると思います。
+障害発生時にログをみて問題の切り分けをするのは当然として
+問題の早期発見の為にログの監視を行うことは有効的かつ重要な手段だと考えます。
+社内DevOpsの流れで開発しているログ監視フレームワークを紹介します。
+...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/55.html">DISられないCPANizeを目指して (PrePAN - Introduction to a website to request for reviews of Perl modules)
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>コミュニティ</td>
+    <td>初心者</td>
+    <td>kentaro</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/kentaro/discpanize">http://www.slideshare.net/kentaro/discpanize</a></div>
+        <div>便利モジュールを作ったよ！CPANizeしよっかな、という際に、いくつか不安に思うことがあったりします。
+
+- 既に似たようなものがあるのでは？
+- 実装について不安が……。
+- CPANizeするに際しての名前やファイル構成の慣習がわからない
+- 誰かにちょっとチェックしてもらいたい
+
+そんな問題を解決し、PerlerとCPANとのよりよい関係を模索します。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/73.html">画像Hacks (Image Hacks with Perl)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>指定無し</td>
+    <td>Yusuke Wada</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/yusukebe/hacks-9704013">http://www.slideshare.net/yusukebe/hacks-9704013</a></div>
+        <div>Perlで画像加工をすることについて、基本といくつかのハックを紹介します。Webアプリでよく使われている画像のリサイズといった初歩的な事柄から、料理写真をおいしく見せるハック、高速に処理するためのライブラリ選び、画像から顔などのオブジェクトを検出する方法、それらを応用しての画像ジェネレータの作り方まで盛りだくさん。画像加工の手段としてCPANモジュールの中からImagerを中心に使用します。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/28.html">Hacking with metacpan
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>アプリケーション開発</td>
+    <td>中級者</td>
+    <td>Tokuhiro Matsuno</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://tokuhirom.github.com/talks/20111015-yapcasia2011-metacpan/#0">http://tokuhirom.github.com/talks/20111015-yapcasia2011-metacpan/#0</a></div>
+        <div>metacpan API をつかって CPAN 関連のツールをかいちゃおう!
+metacpan API をつかうと、ほんとにびっくりするほど簡単に CPAN 関連のツールがかけちゃうので、「あー、CPAN がこんなだったらいいのになー」っていうのとか自分で解決できてまじ便利なので、CPAN をつかってる人はぜひききにくるとよいですね。
+
+I developed some metacpan related tools for better CPAN life.
+I introduce to use ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/32.html">Perlで無理ゲーム攻略 (How to play Win32::GuiTest)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>テスト</td>
+    <td>指定無し</td>
+    <td>TAKESAKO</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/takesako/acme-minechan">http://www.slideshare.net/takesako/acme-minechan</a></div>
+        <div>某MMORPGでゲーム中にPerlの同時起動を遮断する機能が追加されたことがありました。
+Win32::GuiTest や Win32::Screenshot などのモジュールを利用して、Windows上で
+動作するゲームを自動でプレイするPerlプログラムを作成する方法について解説します。
+
+Once upon a time, perl.exe was banned during a game by MMORPG.
+I will explain how to create the Perl b...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/59.html">闇のEメール伝説 (Email Hates the Living!)
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>40分</td>
+    <td>English</td>
+    <td>無し</td>
+    <td>ライブラリ・ツール</td>
+    <td>指定無し</td>
+    <td>Ricardo Signes</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>本プレゼンテーションではPerlにおけるEメール関連のモジュールのほぼ全てに関わっているRicardo Signesさんが我々が知らず知らずのうちに頼り切っているEメール関連の実装についての闇と真実について語って頂きます
+
+=====
+
+Email: you see it every day. It&#39;s on your desktop. It&#39;s in your servers.  Through the magic of modern technology, it flows invisibly...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/82.html">Monads in Perl
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>中級者</td>
+    <td>Masahiro Honma</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/hiratara/monads-in-perl">http://www.slideshare.net/hiratara/monads-in-perl</a></div>
+        <div>モナドをHaskellにおいて副作用をなくす黒魔術だと思われている方もいるかもしれませんが、単にそれだけでなく、拡張された値を扱うデザインパターンとして有用に働くことがよくあります。
+
+このセッションの前半では、モナドを全く知らない人を対象に定義を天下り的に紹介することで、モナドは決して複雑に入り組んだ物ではないことを示します。そして後半ではAnyEventのcondition variablesを「将来値が確定する値」として捉え、モナドの定義をあてはめることで通常の関数をcondition vari...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/30.html">Hacking Mac OSX Cocoa API from Perl
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>その他</td>
+    <td>中級者</td>
+    <td>Daisuke Murase</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/typester/hacking-mac-osx-cocoa-api-from-perl">http://www.slideshare.net/typester/hacking-mac-osx-cocoa-api-from-perl</a></div>
+        <div>XS を用いて、Perl から直接 Mac OS X の Cocoa API を叩いて遊ぶという話と、
+そのテクニックを使って作成された Cocoa:: ネームスペースのモジュールの解説。
+
+XSを使用しますが、このトークでは決まり切った書き方を1つ覚えるだけでいいので、XSの事前知識は特に必要ありません。（もちろん知っているとよりおもしろいと思います）
+また、 Cocoa API や Objective-C の知識は少しあった方が楽しめるでしょう。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/48.html">Evolution of API With Blogging
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>アプリケーション開発</td>
+    <td>指定無し</td>
+    <td>Takatsugu Shigeta</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/comewalk/yapcasia2011-9706629">http://www.slideshare.net/comewalk/yapcasia2011-9706629</a></div>
+        <div>Blog Hacks &lt;http://www.oreilly.co.jp/books/4873111749/&gt; から7年。ブログは API を活用したツールの原点だったと思います。この数年でブログを取り巻く API も変化しました。今やどのツールにも API が実装されています。近年の API 事情（XMLRPC, AtomPub から PubSubHubbub や REST APIなど）をまとめつつ、それらを Starman や Twiggy、Perlbal、TheSchwartz などを含めた Per...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/99.html">SKYARC System presents 招待 LT (1) - papixさん
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>LT分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>スカイアークシステム様が 旅費をスポンサーしていただき、関東圏以外からの方にもYAPC::Asia Tokyo参加のチャンスを！という趣旨の枠です。詳しくはこちらをどうぞ： /2011/news/yapcasia-region.html...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/100.html">SKYARC System presents 招待 LT (2) - hkataokaさん
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>LT分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/HirofumiKataoka/yapcasia2011lt">http://www.slideshare.net/HirofumiKataoka/yapcasia2011lt</a></div>
+        <div>スカイアークシステム様が 旅費をスポンサーしていただき、関東圏以外からの方にもYAPC::Asia Tokyo参加のチャンスを！という趣旨の枠です。詳しくはこちらをどうぞ： /2011/news/yapcasia-region.html...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/101.html">SKYARC System presents 招待 LT (3) shinpei_cmykさん
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>LT分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/shinpei_maruyama/pre-niigatapm">http://www.slideshare.net/shinpei_maruyama/pre-niigatapm</a></div>
+        <div>スカイアークシステム様が 旅費をスポンサーしていただき、関東圏以外からの方にもYAPC::Asia Tokyo参加のチャンスを！という趣旨の枠です。詳しくはこちらをどうぞ： /2011/news/yapcasia-region.html...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/102.html">SKYARC System presents 招待 LT (4) lapis_tw さん
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>LT分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>スカイアークシステム様が 旅費をスポンサーしていただき、関東圏以外からの方にもYAPC::Asia Tokyo参加のチャンスを！という趣旨の枠です。詳しくはこちらをどうぞ： /2011/news/yapcasia-region.html...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/61.html">Perlスクリプトをgdbでデバッグ
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>指定無し</td>
+    <td>Akira Higuchi</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>Perlスクリプトを実行中のプロセスをgdbを使ってデバッグする方法を紹介します。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/103.html">SKYARC System presents 招待 LT (5) 1VQ9さん
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>LT分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>スカイアークシステム様が 旅費をスポンサーしていただき、関東圏以外からの方にもYAPC::Asia Tokyo参加のチャンスを！という趣旨の枠です。詳しくはこちらをどうぞ： /2011/news/yapcasia-region.html...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/84.html">仙台で1年間 PM をやってみた
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>コミュニティ</td>
+    <td>指定無し</td>
+    <td>Eikichi Gotoh</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>思い起こせば1年前、YAPC::Asia 2010 でのトークを聞いて、いてもたってもいられず呟いてしまった Sendai.pm やるぞ発言。そして、予想外の RT に調子に乗って始めた Sendai.pm（準備室）、その1年間の軌跡とは！？
+
+・東北の PM として
+・未だ準備室でいる理由
+・活動報告
+・震災を乗り越えて
+・色んなイベントで告知させていただきました
+・東北、仙台から YAPC に参加してる人って...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/40.html">少人数でのWebアプリ開発 - CGIからPSGIまでの変遷
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>初心者</td>
+    <td>aloelight</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/aloelight/yapcasia2011-web">http://www.slideshare.net/aloelight/yapcasia2011-web</a></div>
+        <div>YAPC::Asia Tokyo 2007で感銘を受けて、Modern Perlを目指した4年間。
+CGIからPSGIまで変化した少人数でのWebアプリ開発の変遷をご紹介いたします。
+
+ - CGIからmod_perlへの移行
+ - TracとSubversionの導入
+ - DevOps
+ - CPANの活用
+ - JobQueueの利用
+ - cpanmとPSGI/Plack
+ - Hokkaido.pm
+ - VMwareの利用
+ - Test文化の浸透...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/43.html">Hello Embed Perl!
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>中級者</td>
+    <td>Hideaki Ohno</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/hideo55/yapcasia2011-hello-embed-perl">http://www.slideshare.net/hideo55/yapcasia2011-hello-embed-perl</a></div>
+        <div>Perlインタプリタをいろいろなものに埋め込んでみよう！
+
+Cプログラムに埋め込むことが可能なPerlインタプリタをC言語で拡張可能な様々なプログラムに埋め込み、その過程で得られた知見や組み込みPerlの可能性について発表します。
+
+・埋め込みインタプリタの基本
+・既存の埋め込みPerlインタプリタを用いたプログラムについて
+・埋め込みPerlインタプリタを使用した自作プログラムの紹介
+・埋め込みインタプリタの応用例
+
+...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/70.html">なぜ、高校生がPerlを使うのか？
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>コミュニティ</td>
+    <td>初心者</td>
+    <td>akiyama</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://akiym.com/slides/20111016-yapcasia2011-why/index.html">http://akiym.com/slides/20111016-yapcasia2011-why/index.html</a></div>
+        <div>RubyやPythonなどの言語がある中で、なぜ高校生はPerlを選んだのか。
+CGIではなく、Plackから入ったPerlの世界。モダンなPerl。
+はじめてのuse strict;からAcme::まで、すべて高校生から見た視点で話します。
+
+- 北海道から高校生がYAPCに来るまで
+- Perlとの初めての出会い
+- 初めて書いたプログラム
+- プログラミングPerlを買ったのいいが読むのを挫折してしまった話
+- Hokkaido.pmで生まれて初めてLTをした話
+- はじめてのAc...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/23.html">DTrace: printf debugging for seventh-level wizards
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>English</td>
+    <td>日本語</td>
+    <td>ライブラリ・ツール</td>
+    <td>指定無し</td>
+    <td>sartak</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://speakerdeck.com/u/sartak/p/dtrace-printf">http://speakerdeck.com/u/sartak/p/dtrace-printf</a></div>
+        <div>(English follows Japanese)
+
+DTrace: 最強の魔法使いのprintfのようなデバッガ
+
+DTraceは、コンピューターが何を動作していることを調べるために、とても強力なツールです。プロダクションでも使えますよ。ネットワーク監視という神様が怒らず！
+
+これは、Perlのやさしい世界の厳しい外部でも、デバッグや最適化や監視をするツールです。アプリケーションのコードを汚染していないままで、再起動が必要でなくて、トレースを示す可能があります！しかも、他の使っているモジュ...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/62.html">PerlでJCL、基幹バッチをダウンサイジング
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>指定無し</td>
+    <td>minemaz</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/minemaz/20111015-yapc-oc1">http://www.slideshare.net/minemaz/20111015-yapc-oc1</a></div>
+        <div>汎用機とかJCLとかPerlからはるか遠い存在と思ってませんか？
+
+Perlを使った基幹システムのマイグレーションの現場から
+その具体的な中身をお伝えします！
+
+概要：
+・何故perlを使ったのか？
+　実装はさておきJCLを動作させないといけない。あと2時間でどうする？
+・perlで構文解析Parse::Eyapp
+　COBOLプログラムで生成したPARAM言語を処理。強力な正規表現と
+　YACCライクな構文解析機能
+・せっかくだからperlで書くぜ
+　求められているのは動作速度で...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/86.html">OtoPerl - perl でライブ・サウンド生成しよう。 (OtoPerl - live sound generation with Perl.)
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>ハウツー・チュートリアル・ワークショップ</td>
+    <td>指定無し</td>
+    <td>Haruka Kataoka</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://drumsoft.com/otoperl/20111015/">http://drumsoft.com/otoperl/20111015/</a></div>
+        <div>OtoPerl は Perl でリアルタイムサウンド生成を行う Mac OS 向けプログラム環境です。
+
+https://github.com/drumsoft/OtoPerl
+
+使い慣れたPerlで、自由度の高いサウンド生成が可能です。演奏を停めずに Perl コードを差し替える事ができ、即興でのコーディング・ライブに使用する事を目標に開発されています。
+
+このトークでは、実際にサウンド生成を行う為のチュートリアル的な内容と、 OtoPerl 内部の技術的な話（Perl と Mac OS X...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/45.html">Perlで仮想サーバ制御（仮）
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>インフラ・DevOps</td>
+    <td>中級者</td>
+    <td>HIRATA, Satoshi</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/debility/perl-9741526">http://www.slideshare.net/debility/perl-9741526</a></div>
+        <div>libvirtのPerlバインディングであるSys::Virtなどを用いて、仮想サーバを制御する方法について説明します。
+また、実例としてAmazon EC2互換のAPIを持った仮想サーバ基盤の構築について取り上げます。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/51.html">Perl Hackers Hub の舞台裏 (side story of Perl Hackers Hub on WEB+DB PRESS)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>コミュニティ</td>
+    <td>指定無し</td>
+    <td>Kazuhiro Osawa</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://yappo.github.com/talks/20111015-yapcasia2011-perlhackershub/">http://yappo.github.com/talks/20111015-yapcasia2011-perlhackershub/</a></div>
+        <div>WEB+DB PRESS での Perl 連載枠を立ち上げた時の裏話等を交えつつ、アウトプットの大切さ等について Yappo が語ります。...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/83.html">Perl Hobby Programming - Games::BeLike::EightBIT ターミナルで8ビット風ゲームを作ろう (Perl Hobby Programming - Games::BeLike::EightBIT   Let&#39;s make the terminal game which looks like a retro 8 bit one.)
+        </a></div>
+        <div style="margin-top: 2em">蔵前会館 ロイヤルブルーホール (15日)        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>日本語</td>
+    <td>アプリケーション開発</td>
+    <td>初心者</td>
+    <td>keroyonn_</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/keroyonn/perl-hobby-programming-gamesbelikeeightbit-8">http://www.slideshare.net/keroyonn/perl-hobby-programming-gamesbelikeeightbit-8</a></div>
+        <div>HTTPの要求を受け取り、SQLを発行、HTMLやJSONを返却するコードを書く日々…あぁ、何か違う。
+まだ幼ない頃、プログラムってもっと楽しいものだと思ってた。
+
+サウンド-BEEP、グラフィック-LINE/CIRCLE/PAINT、そしてそれらの頂点に位置するゲーム!
+
+ゲームプログラミング! ゲームプログラミング!! ゲームプログラミング!!!
+
+アニメーション、衝突判定、三角関数、多重スクロール、何だか楽しそうな文字が並んでいるぞ。
+
+でもそれって、HTML5とかFlashとかS...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/98.html">LT Day 2
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>60分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>その他</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>LT Day 2...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/66.html">Managing A Band Of Hackers
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>40分</td>
+    <td>日本語</td>
+    <td>無し</td>
+    <td>コミュニティ</td>
+    <td>指定無し</td>
+    <td>Hideo Kimura</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>多くの人は普通のエンジニアです。私もかつてはそうでしたし、今でもそうです。そんな普通のエンジニアが「マネージャー」という役割となり、さらにあくの強い凄腕ハッカー達を束ねなければならなくなったとき、どうやってマネージメントすればいいのか。そこにはPerlコミュニティから学んだ多くのことが役に立ちました。そんな話を自分の経験談を交えて話します。今マネージャーとして頑張っている人、これからマネージャーになろうとしてる人、キャリアプランに悩んでいる人、そんな人たちに希望を与えられたらと思います。中間管理職も意外と...</div>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/39.html">Closing
+        </a></div>
+        <div style="margin-top: 2em">70周年記念講堂        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>English</td>
+    <td>日本語</td>
+    <td>コミュニティ</td>
+    <td>指定無し</td>
+    <td>Daisuke Maki</td>
+</tr>
+<tr>
+    <td colspan="7">
+        <div><a href="http://www.slideshare.net/lestrrat/yapcasia-tokyo-2011-closing">http://www.slideshare.net/lestrrat/yapcasia-tokyo-2011-closing</a></div>
+        <div>今回は英語で喋って、日本語字幕でご挨拶の予定。
+
+This year I&#39;ll do the welcome speech in English, with Japanese subtitles.
+I&#39;m planning to address the Evolution of Perl, YAPC, the Community....</div>
+    </td>
+</tr>
+
+
+</table>
+</div>
+
+<div class="section"> 
+<a id="canceledtalks" name="canceledtalks">
+<h3><em>キャンセルされたトーク</em></h3>
+</a>
+<table class="talktable" border="1">
+<tr>
+    <th class="title">タイトル</td>
+    <th>発表時間</td>
+    <th>言語</td>
+    <th>字幕</td>
+    <th>ジャンル</th>
+    <th>対象</th>
+    <th>発表者</td>
+</tr>
+
+
+<tr>
+    <td class="title" rowspan="2">
+        <div><a class="likeable" href="/2011/talk/57.html">Xslateマスターコース (Mastering Xslate)
+        </a></div>
+        <div style="margin-top: 2em">フェライト会議室 100年記念館        </div>
+        <div>[2011-10-15]</div>
+    </td>
+    <td>20分</td>
+    <td>日本語</td>
+    <td>English</td>
+    <td>ライブラリ・ツール</td>
+    <td>中級者</td>
+    <td>Fuji, Goro</td>
+</tr>
+<tr>
+    <td colspan="7">
+        
+        <div>テンプレートエンジンXslateを徹底解説します。
+
+Xslateの開発をはじめて一年半、サービスに投入する事例も増えてきました。Xslateの基本的な内容を踏まえた上で、より詳しい解説をするとともに実際のコーディング時のポイント等を紹介します。...</div>
+    </td>
+</tr>
+
+
+</table>
+</div>
+
+<br /><br /><br />
+
+
+</div><!-- primary_column" -->
+
+<div id="secondary_column">
+
+<div id="sponsors" class="section">
+<h3><em>Sponsors</em></h3>
+<div class="box">
+
+<h4>主催</h4>
+
+<ul>
+<li><a href="http://japan.perlassociation.org" target="_blank"><img src="../images/sponsors/logo-jpa.png" /></a></li>
+</ul>
+</div><!--  / .box /  -->
+<div class="box">
+<ul>
+<!-- extra special -->
+<li><a href="http://www.mobilefactory.jp/" target="_blank"><img src="../images/sponsors/logo-mobilefactory.png" /></a></li>
+<!-- platinum -->
+<li><a href="http://www.gaiax.co.jp/" target="_blank"><img src="../images/sponsors/logo-gaiax.png" /></a></li>
+<li><a href="http://www.dena.ne.jp/" target="_blank"><img src="../images/sponsors/logo-dena.png" /></a></li>
+<li><a href="http://mixi.co.jp/" target="_blank"><img src="../images/sponsors/logo-mixi.png" /></a></li>
+<li><a href="http://www.livedoor.com/" target="_blank"><img src="../images/sponsors/logo-livedoor.png" /></a></li>
+<!-- gold -->
+<li><a href="http://www.s2factory.co.jp/" target="_blank"><img src="../images/sponsors/logo-s2factory.png" /></a></li>
+<li><a href="http://mtl.recruit.co.jp/" target="_blank"><img src="../images/sponsors/logo_recruit.jpg" /></a></li>
+<li><a href="http://adways.net/" target="_blank"><img src="../images/sponsors/logo_adways.jpg" /></a></li>
+<li><a href="http://gree.jp/" target="_blank"><img src="../images/sponsors/logo_gree.jpg" /></a></li>
+<li><a href="http://www.paperboy.co.jp" target="_blank"><img src="../images/sponsors/logo_paperboy.jpg" /></a></li>
+<li><a href="http://www.skyarc.co.jp/" target="_blank"><img src="../images/sponsors/logo-skyarc.png" /></a></li>
+<li><a href="http://www.dotcloud.com" target="_blank"><img src="../images/sponsors/logo_dotcloud.gif" /></a></li>
+<li><a href="http://www.idac.co.jp/" target="_blank"><img src="../images/sponsors/logo_idac.jpg" /></a></li>
+<li><a href="http://www.kddi-webcommunications.co.jp/" target="_blank"><img src="../images/sponsors/logo_kwc.jpg" /></a></li>
+<li><a href="http://www.lancard.com" target="_blank"><img src="../images/sponsors/logo-lancard.png" /></a></li>
+<li><a href="http://www.naver.jp/" target="_blank"><img src="../images/sponsors/logo_naver.png" /></a></li>
+<li><a href="http://www.ngigroup.com/" target="_blank"><img src="../images/sponsors/logo_ngi.jpg" /></a></li>
+<li><a href="http://www.wano.co.jp" target="_blank"><img src="../images/sponsors/logo_wano.jpg" /></a></li>
+<li><a href="http://www.sixapart.jp/" target="_blank"><img src="../images/sponsors/logo-sixapart.png" /></a></li>
+<li><a href="http://www.hatena.ne.jp/" target="_blank"><img src="../images/sponsors/logo_hatena.gif" /></a></li>
+<li><a href="http://www.sakura.ad.jp/" target="_blank"><img src="../images/sponsors/logo_sakura.gif" /></a></li>
+<li><a href="http://www.kayac.com/" target="_blank"><img src="../images/sponsors/logo_kayac.gif" /></a></li>
+<li><a href="http://www.seesaa.co.jp/" target="_blank"><img src="../images/sponsors/logo_seesaa.gif" /></a></li>
+<li><a href="http://www.bookscan.co.jp/" target="_blank"><img src="../images/sponsors/logo_bookscan.jpg" /></a></li>
+<li><a href="http://quan-inc.jp/" target="_blank"><img src="../images/sponsors/logo_quan.jpg" /></a></li>
+<li><a href="http://www.fonfun.co.jp/" target="_blank"><img src="../images/sponsors/logo_fonfun.jpg" /></a></li>
+<li><a href="http://www.commercelink.co.jp" target="_blank"><img src="../images/sponsors/logo_commercelink.jpg" /></a></li>
+
+<!--
+<li><a href="http://tmix.jp" target="_blank"><img src="/2011/images/sponsors/logo-tmix.png" /></a></li>
+<li><a href="http://gree.jp/" target="_blank"><img src="/2011/images/sponsors/logo-gree.png" /></a></li>
+<li><a href="http://www.activestate.com/" target="_blank"><img src="/2011/images/sponsors/logo_activestate.png" /></a></li>
+<li><a href="http://www.ey-office.com/" target="_blank"><img src="/2011/images/sponsors/logo-eyoffice.png" /></a></li>
+<li><a href="http://www.onsite.no/" target="_blank"><img src="/2011/images/sponsors/logo-onsite.png" /></a></li>
+<li><a href="http://www.oreilly.co.jp/index.shtml" target="_blank"><img src="/2011/images/sponsors/logo-oreilly.png" /></a></li>
+<li><a href="http://www.contents-one.co.jp/" target="_blank"><img src="/2011/images/sponsors/logo-contentsone.png" /></a></li>
+<li><a href="http://soffritto.org/" target="_blank"><img src="/2011/images/sponsors/logo-soffritto.png" /></a></li>
+<li><a href="http://www.nhncorp.jp/" target="_blank"><img src="/2011/images/sponsors/logo-nhnjapan.png" /></a></li>
+<li><a href="http://palmquist.fr" target="_blank"><img src="/2011/images/sponsors/logo-palmquist.png" /></a></li>
+-->
+</ul>
+</div><!--  / .box /  -->
+
+<div class="box">
+
+<h4>メディアスポンサー</h4>
+
+<ul>
+<li><a href="http://www.oreilly.co.jp/index.shtml" target="_blank"><img src="../images/sponsors/logo-oreilly.png" /></a></li>
+<li><a href="http://www.gihyo.co.jp/" target="_blank"><img src="../images/sponsors/logo_gihyo.gif" /></a></li>
+
+</ul>
+</div>
+<div class="box">
+
+<h4>フォトスポンサー</h4>
+
+<ul>
+<li><a href="http://30d.jp" target="_blank"><img src="../images/sponsors/logo_30days.gif" /></a></li>
+</ul>
+</div><!--  / .box /  -->
+</div>
+
+
+<div id="photo" class="section">
+<h3><em>Photos From Previous Years</em></h3>
+<div class="box">
+<ul>
+<li><a href="/2009/photos" target="_blank">YAPC::Asia Tokyo 2009</a></li>
+<li><a href="/2010/photos" target="_blank">YAPC::Asia Tokyo 2010</a></li>
+<li><a href="../photos.html" target="_blank">YAPC::Asia Tokyo 2011</a></li>
+</ul>
+</div>
+</div>
+
+<div id="tags" class="section">
+<h3><em>IRC/Tags</em></h3>
+<div class="box">
+
+<p>公式タグ、ハッシュタグは <em><span>yapcasia</span></em> を使用してください。ブックマーク、ブログ、写真等のタグ、そしてTwitterでご使用いただけると情報共有に便利です。年度を特定したい場合は <em>yapcasia2011</em> でも結構ですが、<em>yapcasia</em>と併用してくださると助かります。</p>
+<p>また、IRCは freenode上の <em>#yapcasia-en</em> (英語)と <em>#yapcasia-ja</em> です。</p>
+
+</div><!--  / .box /  -->
+</div>
+
+<div id="sociales" class="section">
+<h3><em>Sociales</em></h3>
+<div class="box">
+<ul>
+<li id="sns_twitter"><a href="http://twitter.com/#!/yapcasia" title="Twitter" target="_blank">Twitter</a></li>
+<li id="sns_flickr"><a href="http://www.flickr.com/search/?q=yapcasia" title="Flickr" target="_blank">Flickr</a></li>
+<li id="sns_hateb"><a href="http://b.hatena.ne.jp/t/yapcasia" title="Hateb" target="_blank">Hateb</a></li>
+</ul>
+</div><!--  / .box /  -->
+</div>
+
+<div id="history" class="section">
+<h3><em>History</em></h3>
+<div class="box">
+<ul>
+<li><a href="http://tokyo.yapcasia.org/blog/ja/">YAPC::Asia Tokyo 2006</a></li>
+<li><a href="http://tokyo2007.yapcasia.org/blog/ja/">YAPC::Asia Tokyo 2007</a></li>
+<li><a href="http://conferences.yapcasia.org/ya2008">YAPC::Asia Tokyo 2008</a></li>
+<li><a href="http://conferences.yapcasia.org/ya2009">YAPC::Asia Tokyo 2009</a></li>
+<li><a href="/2010">YAPC::Asia Tokyo 2010</a></li>
+</ul>
+</div><!--  / .box /  -->
+</div>
+
+</div><!--  / #secondary_column /  -->
+</div><!--  / #container /  -->
+
+<div id="footer">
+<address>© 2011 <a href="http://japan.perlassociation.org/" target="_blank">Japan Perl Association</a></address>
+<div id="poweredby">
+    Powered by <a href="http://www.dotcloud.com/" target="_blank">Dotcloud</a>
+           and <a href="http://www.sixapart.jp/movabletype/" target="_blank">Movable Type</a>
+</div><!--  / #poweredby /  -->
+
+<script type="text/javascript">
+<!--
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30362939-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+-->
+</script>
+</body>
+</html>
