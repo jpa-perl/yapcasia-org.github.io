@@ -1,0 +1,322 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* clearfix */
+
+.clearfix:after {
+  height: 0;
+  visibility: hidden;
+  content: ".";
+  display: block;
+  clear: both;
+}
+.clearfix {
+  _height: 1px;
+  min-height: 1px;
+  /*\*//*/
+  height: auto;
+  overflow: hidden;
+  /**/
+}
+
+* {
+    font-size: 12px;
+    line-height: 1.5;
+	font-family: "ヒラギノ角ゴ Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", Osaka;
+}
+body {
+    position: relative;
+}
+a {
+    color: #09f;
+}
+a:hover {
+    color: #90f;
+}
+
+div.header {
+    background: url(../img/header_line.gif) no-repeat;
+    width: 815px;
+}
+div.header p {
+    padding: 15px 0 12px 28px;
+}
+
+div.slogan {
+    background: url(../img/header_bg.gif) repeat-x;
+    height: 69px;
+}
+div.slogan h1 {
+    padding: 16px 0 23px 160px;
+}
+
+div.main {
+    padding-left: 160px;
+	background: url(../img/main_bg.png) no-repeat left bottom;
+    width: 655px;
+	min-height: 386px;
+	height: auto;
+}
+* html div.main {
+	height: 386px;
+}
+
+div.aside {
+    position: absolute;
+    top: 10px;
+    left: 510px;
+    padding: 26px 23px;
+    background: url(../img/aside_bg.png) no-repeat;
+    width: 270px;
+    height: 80px;
+	z-index: 1;
+}
+div.aside h2 {
+    padding-left: 34px;
+    background: url(../img/bullet_02.png) no-repeat;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.2;
+}
+div.aside ul {
+    margin: 15px 0 0 32px;
+}
+div.aside a {
+    color: #fff;
+}
+
+div.footer {
+    padding-top: 124px;
+    background: url(../img/footer_image.png) no-repeat;
+}
+div.footer p.png {
+    padding-top: 20px;
+    padding-left: 566px;
+    padding-bottom: 20px;
+    background: url(../img/footer_bg.png) repeat-x;
+    color: #fff;
+}
+div.footer span.copyright {
+    display: block;
+    width: 269px;
+    text-align: right;
+}
+div.footer span.poweredby {
+    display: block;
+    width: 269px;
+    text-align: right;
+}
+div.footer a {
+    color: #fff;
+}
+
+#top div.main div.section {
+    margin-top: 20px;
+}
+#top div.main h2 {
+    margin-right: 20px;
+    padding-left: 34px;
+    background: url(../img/bullet_01.png) no-repeat;
+    float: left;
+    width: 166px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+}
+#top div.main div.description {
+    float: left;
+    width: 435px;
+}
+#top div.speakers ul {
+    margin-bottom: 10px;
+}
+#top div.speakers li {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#entry div.main {
+	padding-bottom: 40px;
+}
+#entry div.entry {
+	padding-top: 30px;
+	margin-bottom: 10px;
+}
+#entry div.meta {
+	margin-right: 20px;
+	float: left;
+	width: 179px;
+	text-align: right;
+}
+#entry div.description {
+	padding-left: 20px;
+	border-left: 1px solid #000;
+	float: left;
+	width: 435px;
+}
+#entry div.description h2 {
+    margin-right: 20px;
+	margin-bottom: 25px;
+    padding-left: 34px;
+    background: url(../img/bullet_01.png) no-repeat;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+}
+#entry div.description h3 {
+	margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.2;
+}
+#entry div.description p,
+#entry div.description ul,
+#entry div.description ol,
+#entry div.description dl {
+	margin-bottom: 1em;
+}
+#entry div.description ul li {
+	margin-left: 20px;
+	list-style-type: disc;
+}
+#entry div.description ol li {
+	margin-left: 25px;
+	list-style-type: decimal;
+}
+#entry div.description div.text {
+	margin-right: 20px;
+	float: left;
+	width: 210px;
+}
+#entry div.description div.image {
+	float: left;
+	width: 205px;
+}
+
+#form div.main {
+	margin-top: 30px;
+    padding-left: 380px;
+    width: 435px;
+}
+#form div.main h2 {
+    margin-right: 20px;
+	margin-bottom: 25px;
+    padding-left: 34px;
+    background: url(../img/bullet_01.png) no-repeat;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+}
+#form div.main th {
+	width: 130px;
+	font-weight: bold;
+}
+#form div.main th,
+#form div.main td {
+	padding-bottom: 10px;
+	vertical-align: top;
+}
+#form div.main td input.text {
+	width: 300px;
+}
+#form div.main p.submit {
+	text-align: center;
+}
+
+#confirm div.main {
+	margin-top: 30px;
+    padding-left: 380px;
+    width: 435px;
+}
+#confirm div.main h2 {
+    margin-right: 20px;
+	margin-bottom: 25px;
+    padding-left: 34px;
+    background: url(../img/bullet_01.png) no-repeat;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+}
+#confirm div.main div.formdata {
+	margin-bottom: 1em;
+	padding: 22px 25px 12px 25px;
+	border: 1px solid #666;
+}
+#confirm div.main th,
+#confirm div.main td {
+	padding-bottom: 10px;
+	vertical-align: top;
+}
+#confirm div.main th {
+	width: 125px;
+	font-weight: bold;
+}
+#confirm div.main p.submit {
+	text-align: center;
+}
+
+#done div.main {
+	margin-top: 30px;
+	padding-bottom: 40px;
+    padding-left: 380px;
+    width: 435px;
+}
+#done div.main h2 {
+    margin-right: 20px;
+	margin-bottom: 25px;
+    padding-left: 34px;
+    background: url(../img/bullet_01.png) no-repeat;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+}
+#done div.ticket {
+	margin: 20px 0;
+	border-top: 1px solid #666;
+	border-left: 1px solid #666;
+}
+#done div.ticket table {
+	width: 100%;
+	border-collapse:collapse;
+	border-spacing: 0;
+}
+#done div.ticket tr {
+}
+#done div.ticket td {
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	padding: 1em 1em 0 1em;
+}
+#done div.ticket td p {
+	margin-bottom: 1em;
+}
+#done div.ticket td p.image {
+	text-align: center;
+}
+#done div.formdata {
+	padding: 22px 25px 12px 25px;
+	border: 1px solid #666;
+}
+#done div.formdata th,
+#done div.formdata td {
+	padding-bottom: 10px;
+	vertical-align: top;
+}
+#done div.formdata th {
+	width: 125px;
+	font-weight: bold;
+}
+
+#top div.recent_article li {
+	list-style-type: disc;
+}
+
+#top div.recent_article li a {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+
+
+
