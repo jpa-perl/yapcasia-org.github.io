@@ -1,0 +1,262 @@
+@charset "utf-8";
+
+/*//////////////////////////////////////////////////////////
+//  - CSS for Smart Phone
+//  - Author: Eiji Kobayashi
+//  - Update: 2013-06-25 (TUE)
+//////////////////////////////////////////////////////////*/
+
+* { 
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+/*	overflow-x: hidden;*/
+}
+
+a 			{ color: #1a2b3d; text-decoration: underline; }
+a:link		{ color: #1a2b3d; text-decoration: underline; }
+a:visited	{ color: #1a2b3d; text-decoration: underline; }
+a:active	{ color: #1a2b3d; text-decoration: underline; }
+a:hover		{ color: #1a2b3d; text-decoration: none; }
+
+body {
+	position: relative;
+	-webkit-text-size-adjust: none !important;
+	color: #333;
+	font-size: 100%;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Helvetica, Cantarell, Sans-Serif !important;
+	background: #fff url(../images/base.png) repeat 0 0;
+}
+
+.corners {
+	position: relative;
+	-webkit-border-top-left-radius: 0px;
+	-webkit-border-top-right-radius: 3000px;
+	-webkit-border-bottom-right-radius: 3000px;
+	-webkit-border-bottom-left-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 3000px;
+	-moz-border-radius-bottomright: 3000px;
+	-moz-border-radius-bottomleft: 0px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 3000px;
+	border-bottom-right-radius: 3000px;
+	border-bottom-left-radius: 0px;
+}
+
+
+/*----------------------------------------------------------
+  - LAYOUT
+----------------------------------------------------------*/
+
+#line-top,
+#line-right,
+#line-bottom,
+#line-left {
+	display: none;
+}
+
+#wrapper {
+	width: 100%;
+	max-width: 949px;
+	min-width: 320px;
+	min-height:100%;
+	margin: 0 auto;
+	padding: 0 0 20px 0;
+}
+
+#container {
+	position: relative;
+	width: 100%;
+	min-height:100%;
+	margin: 10px auto 10px auto;
+	padding: 0;
+/*	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	box-flex: 1;*/
+	_zoom: 1;
+	overflow: hidden;
+}
+
+#container #main {
+	min-height: 600px;
+/*	background-color: rgba(0, 0, 0, 0.1);*/
+	margin: 0;
+	padding: 0 5px 0 0;
+}
+
+#container #aside {
+	display: none;
+}
+
+#aside {
+/*	min-height: 2000px;
+	padding: 0 0 100px 0;*/
+}
+
+#pageslide {
+	min-height: 2000px !important;
+	margin: 0 0 100px 0;
+	padding: 0 0 300px 0 !important;
+}
+
+.social-button {
+	margin: 10px auto 0 auto !important;
+	padding: 0 0 100px 0 !important;
+}
+
+
+/*----------------------------------------------------------
+  - LOGO
+----------------------------------------------------------*/
+
+#side-menu {
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url(../images/btn_menu.png) no-repeat 0 0;
+	margin: 10px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#logo a {
+	display: block;
+	text-align: center;
+	margin: 10px 5px 10px 0;
+}
+
+#session {
+	text-align: center;
+}
+
+#session img {
+	display: none;
+}
+
+#session h2,
+#session h2 em {
+	color: #d93a15;
+	font-size: 100%;
+	font-weight: bold;
+	line-height: 120%;
+	padding: 15px 0 5px 0;
+}
+
+#session h2 em {
+	color: #ff9900;
+}
+
+
+/*----------------------------------------------------------
+  - HOME
+----------------------------------------------------------*/
+
+#main #news .body ul li {
+	padding: 8px 0px 8px 35px;
+}
+#main #news .body ul li span {
+	float: none !important;
+}
+
+#main #sponsors .body .block ul li.x-large img  { width: 120px; }
+#main #sponsors .body .block ul li.large img  { width: 105px; }
+#main #sponsors .body .block ul li.medium img { width: 85px; }
+#main #sponsors .body .block ul li.small img  { width: 65px; }
+
+
+/*----------------------------------------------------------
+  - ASIDE
+----------------------------------------------------------*/
+
+#side-close {
+	position: relative;
+	display: block;
+	right: 0;
+	width: 40px;
+	height: 40px;
+	background: url(../images/btn_close.png) no-repeat 0 0;
+	margin: 10px;
+	text-indent: -9999px;
+	text-decoration: none;
+	overflow: hidden;
+}
+
+#aside .search form,
+#aside .search form input {
+	background-color: #fff;
+}
+
+
+/*----------------------------------------------------------
+  - FOOTER
+----------------------------------------------------------*/
+
+#footer {
+	margin: 0 10px 40px 0 !important;
+	padding: 0 15px;
+
+}
+
+#footer .links {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

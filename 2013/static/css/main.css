@@ -1,0 +1,261 @@
+@charset "utf-8";
+
+/*//////////////////////////////////////////////////////////
+//  - CSS for MAIN
+//  - 2013-03-15 (FRI)
+//////////////////////////////////////////////////////////*/
+
+
+#main .section {
+	margin: 0 0 40px 0;
+	padding: 0;
+}
+
+#main h1 {
+	color: #fff;
+	font-size: 130%;
+	background-color: #1c2c3e;
+}
+
+#main h2 {
+	color: #1a2b3d;
+	font-size: 120%;
+	text-shadow: 0 1px 0 #fff;
+	background-color: #cfd9e4;
+}
+
+#main h1,
+#main h2 {
+	font-weight: bold;
+	margin: 0 0 20px 0;
+	padding: 15px 20px;
+}
+
+
+/*----------------------------------------------------------
+  - BODY
+----------------------------------------------------------*/
+
+#main .section .body {
+	font-size: 85%;
+	margin: 0;
+	padding: 0 20px;
+}
+
+#main .section .body h1,
+#main .section .body h2 {
+	background-color: rgba(0, 0, 0, 0);
+	background-color: transparent;
+	border: none !important;
+	margin: 0;
+	padding: 0 !important;
+}
+
+#main .section .body h1 { font-size: 160%; }
+#main .section .body h2 { font-size: 140%; }
+#main .section .body h3 { font-size: 120%; }
+#main .section .body h4 { font-size: 110%; }
+#main .section .body h5 { font-size: 100%; }
+
+#main .section .body h1,
+#main .section .body h2,
+#main .section .body h3,
+#main .section .body h4,
+#main .section .body h5 {
+	color: #1a2b3d;
+	font-weight: bold;
+}
+
+#main .section .body p {
+/*	font-size: 80%;*/
+	padding: 5px 0 15px 0;
+}
+
+#main .section .body strong {
+	font-weight: bold;
+}
+
+#main .section .body em {
+	font-weight: bold;
+	font-style: oblique;
+}
+
+#main .section .body  abbr {
+	border-bottom: 1px dotted #666;
+}
+
+#main .section .body blockquote {
+	background-color: #eeece5;
+	border-left: 3px solid #e8340c;
+	margin: 5px 15px;
+	padding: 5px 10px;
+}
+
+#main .section .body  ul {
+	margin-bottom: 10px;
+}
+
+#main .section .body ul li {
+	list-style: disc outside;
+	margin-left: 20px;
+	background-image: none;
+}
+
+#main .section .body ol li {
+	list-style: decimal outside;
+	margin-left: 25px;
+}
+
+#main .section .body  dl {
+	margin-bottom: 15px;
+}
+
+#main .section .body dl dt {
+	font-weight: bold;
+}
+
+#main .section .body dl dd {
+	margin-left: 10px;
+}
+
+#main .section .body pre {
+	display: block;
+	font-size: 85%;
+	background-color: #eeece5;
+	border: 1px solid #ccc;
+	margin: 0 0 10px 0;
+	padding: 5px 10px;
+	white-space: pre-wrap;
+}
+
+#main .section .body code {
+	color: #e60039;
+	border: 1px solid #ccc;
+	padding: 2px 3px;
+}
+
+#main .section .body table {
+	font-size: 85%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	max-width: 100%;
+}
+
+#main .section .body .table {
+	width: 100%;
+	background-color: #eeece5;
+	border-collapse: separate;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+}
+
+#main .section .body .table th,
+#main .section .body .table td {
+	padding: 4px 5px;
+}
+
+#main .section .body .table th {
+	color: #1e2e53;
+	font-weight: bold;
+	vertical-align: bottom;
+}
+
+#main .section .body .table th,
+#main .section .body .table td {
+	text-align: left;
+	border-top: 1px solid #ccc;
+	padding: 5px;
+}
+
+#main .section .body .table th,
+#main .section .body .table td {
+	padding: 5px 5px;
+}
+
+#main .section .body .table td {
+	vertical-align: top;
+}
+
+#main .section .body .table th + th,
+#main .section .body .table td + td,
+#main .section .body .table th + td,
+#main .section .body .table td + th {
+	border-left: 1px solid #ccc;
+}
+
+#main .section .body .table thead:first-child tr th,
+#main .section .body .table thead:first-child tr td,
+#main .section .body .table thead:first-child tr:first-child th,
+#main .section .body .table tbody:first-child tr:first-child th,
+#main .section .body .table tbody:first-child tr:first-child td {
+	border-top: 0 none;
+}
+
+#main .section .body .table tbody tr:nth-child(2n+1) td,
+#main .section .body .table tbody tr:nth-child(2n+1) th {
+/*	background-color: #eeece5;*/
+}
+
+
+/*----------------------------------------------------------
+  - ENTRY
+----------------------------------------------------------*/
+
+#main .section .body .entry {
+	border-bottom: 3px solid #1a2b3d;
+	margin: 0 0 30px 0;
+	padding: 10px 0 20px 0;
+}
+
+#main .section .body .entry .entry-meta {
+	color: #666;
+	font-size: 80%;
+	text-align: right;
+	border-bottom: 1px solid #1a2b3d;
+	margin: 0 0 20px 0;
+	padding: 5px 0 10px 0;
+}
+
+#main .section .body .entry .entry-meta abbr {
+	border: none;
+}
+
+#main .section .body .sidebar {}
+
+#main .section .body .sidebar .block {
+	padding: 5px 0 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

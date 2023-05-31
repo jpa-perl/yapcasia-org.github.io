@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+/*//////////////////////////////////////////////////////////
+//  - CSS for BUTTON
+//  - 2013-03-15 (FRI)
+//////////////////////////////////////////////////////////*/
+
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+	cursor: pointer;
+	-webkit-appearance: button;
+	*overflow: visible;
+}
+
+.button {
+	display: inline-block;
+	text-decoration: none;
+	color: #fff !important;
+	font-size: 12px;
+	text-align: center;
+	line-height: 100%;
+	background: #999;
+	border: none;
+	margin: 10px 5px;
+	padding: 15px 30px;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+.button:hover { background: #aaa; }
+.button:active {
+	position: relative;
+	top: 1px;
+	left: 0;
+	background: #aaa;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.button:focus {
+	outline: thin dotted #333333;
+	outline-offset: -2px;
+}
+
+.button-yapc { background: #34495E; }
+.button-yapc:hover,
+.button-yapc:active { background: #405c8d; }
+
+.button-primary { background: #0074CC; }
+.button-primary:hover,
+.button-primary:active { background: #0055CC; }
+
+.button-info { background: #49AFCD; }
+.button-info:hover,
+.button-info:active { background: #2F96B4; }
+
+.button-success { background: #5BB75B; }
+.button-success:hover,
+.button-success:active { background: #51A351; }
+
+.button-warning { background: #FAA732; }
+.button-warning:hover,
+.button-warning:active { background: #F89406; }
+
+.button-danger { background: #DA4F49; }
+.button-danger:hover,
+.button-danger:active { background: #BD362F; }
+
+.button-inverse { background: #414141; }
+.button-inverse:hover,
+.button-inverse:active { background: #5d5656; }
+
+a.button {
+	color: #fff !important;
+	text-decoration: none !important;
+}
+
+a.button-yapc,
+a.button-primary,
+a.button-info,
+a.button-success,
+a.button-warning,
+a.button-danger,
+a.button-inverse {
+	color: #fff !important;
+	text-decoration: none !important;
+}
+
+.button-large {
+	font-size: 16px !important;
+	padding: 15px 50px;
+}
+
+.button-small {
+	font-size: 12px !important;
+	padding: 10px 40px;
+}
+
+.button-mini {
+	font-size: 10px !important;
+	padding: 5px 20px;
+}

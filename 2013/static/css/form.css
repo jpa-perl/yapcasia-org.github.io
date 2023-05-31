@@ -1,0 +1,232 @@
+@charset "utf-8";
+
+/*//////////////////////////////////////////////////////////
+//  - CSS for FORM
+//  - 2013-03-14 (THU)
+//////////////////////////////////////////////////////////*/
+
+
+.form-horizontal {
+	margin: 0;
+	padding: 20px 0;
+}
+
+.form-horizontal .control-group:after {
+	clear: both;
+}
+
+.form-horizontal .control-group:before,
+.form-horizontal .control-group:after {
+	content: "";
+	display: table;
+}
+
+.form-horizontal .control-group {
+	padding: 10px 0 10px 0;
+}
+
+.form-horizontal .control-label {
+	display: block;
+	float: left;
+	width: 180px;
+	color: #333;
+	margin-bottom: 5px;
+	padding-top: 5px;
+/*	text-align: right;*/
+}
+
+.form-horizontal .controls {
+	float: left;
+	padding-left: 20px;
+}
+
+.form-horizontal .controls p {
+	padding: 0 0 0 0 !important;
+}
+
+.form-horizontal .control-group,
+.form-horizontal .control-label {
+	_zoom: 1;
+	overflow: hidden;
+}
+
+.form-horizontal .input-mini,
+.form-horizontal .input-small,
+.form-horizontal .input-medium,
+.form-horizontal .input-large,
+.form-horizontal .input-xlarge,
+.form-horizontal .input-xxlarge,
+.form-horizontal .controls input,
+.form-horizontal .controls textarea {
+	display: inline-block;
+	width: 210px;
+	color: #333;
+	font-size: 12px;
+	border: 3px solid #cfd9e4;
+	margin-bottom: 10px;
+	padding: 10px 10px 10px 10px;
+	-webkit-appearance: button;
+}
+
+.form-horizontal .controls input,
+.form-horizontal .controls select {
+/*	-moz-border-radius: 30px;
+	-khtml-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;*/
+}
+
+.form-horizontal .controls textarea {
+/*	-moz-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;*/
+}
+
+.form-horizontal ::-webkit-input-placeholder {
+	color: #ccc !important;
+}
+
+.form-horizontal :-moz-placeholder {
+	color: #ccc !important;
+}
+
+.form-horizontal .controls select {
+	display: inline-block;
+	width: 210px;
+	color: #333;
+	font-size: 12px;
+	border: 3px solid #cfd9e4;
+	margin-bottom: 10px;
+	padding: 5px 10px;
+}
+
+.form-horizontal .controls input[type="image"],
+.form-horizontal .controls input[type="checkbox"],
+.form-horizontal .controls input[type="radio"] {
+	width: auto;
+	height: auto;
+	border: 0 none !important;
+/*	-moz-border-radius: 0;
+	-khtml-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;*/
+	cursor: pointer;
+	line-height: normal;
+	margin: 3px 0;
+	padding: 0;
+}
+
+.form-horizontal .controls input[type="file"] {
+	background-color: #FFFFFF;
+	box-shadow: none;
+}
+
+.form-horizontal .controls input[type="button"],
+.form-horizontal .controls input[type="reset"],
+.form-horizontal .controls input[type="submit"] {
+	width: auto;
+	height: auto;
+}
+
+.form-horizontal .controls select,
+.form-horizontal .controls input[type="file"] {
+/*	height: 28px;
+	line-height: 28px;*/
+}
+
+.form-horizontal .controls select {
+	width: 220px;
+	background-color: #FFFFFF;
+}
+
+.form-horizontal .controls select[multiple],
+.form-horizontal .controls select[size] {
+	height: auto;
+}
+
+.form-horizontal .controls input[type="image"] {
+	box-shadow: none;
+}
+
+.form-horizontal .controls textarea {
+	height: auto;
+}
+
+.form-horizontal .controls input[type="hidden"] {
+	display: none;
+}
+
+.form-horizontal .controls .radio,
+.form-horizontal .controls .checkbox {
+	clear: left;
+	display: block;
+	line-height: 100%;
+	margin: 0;
+	padding: 0 0 5px 5px !important;
+}
+
+.form-horizontal .radio input,
+.form-horizontal .checkbox input {
+	width: auto;
+	border: none;
+}
+
+.form-horizontal .radio input[type="radio"],
+.form-horizontal .checkbox input[type="checkbox"] {
+	margin-right: 5px;
+}
+
+.form-horizontal .controls > .radio:first-child,
+.form-horizontal .controls > .checkbox:first-child {
+	padding-top: 5px;
+}
+
+.form-horizontal .controls .radio.inline,
+.form-horizontal .controls .checkbox.inline {
+	display: inline-block;
+	margin-bottom: 0;
+	vertical-align: middle;
+}
+
+.form-horizontal .radio.inline + .radio.inline,
+.form-horizontal .checkbox.inline + .checkbox.inline {
+	margin-left: 10px;
+}
+
+.form-horizontal .controls > .radio.inline:first-child,
+.form-horizontal .controls > .checkbox.inline:first-child {
+	padding-top: 0;
+}
+
+.form-horizontal .controls input,
+.form-horizontal .controls textarea {
+/*	-moz-transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+	-moz-transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.5) inset;*/
+
+}
+
+.form-horizontal .controls input:focus,
+.form-horizontal .controls textarea:focus {
+	border-color: rgba(232, 52, 12, 0.8);
+/*	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);*/
+	box-shadow: 0 1px 1px rgba(0,0,0,0.075) inset, 0 0 8px rgba(39,62,102,0.5);
+	outline: 0 none;
+}
+
+.form-horizontal .controls input[type="file"]:focus,
+.form-horizontal .controls input[type="checkbox"]:focus,
+.form-horizontal .controls select:focus {
+	box-shadow: none;
+	outline: thin dotted;
+	outline-offset: -2px;
+}
+
+.form-horizontal .input-mini	{ width: 60px !important;}
+.form-horizontal .input-small	{ width: 90px !important; }
+.form-horizontal .input-medium	{ width: 150px !important; }
+.form-horizontal .input-large	{ width: 210px !important; }
+.form-horizontal .input-xlarge	{ width: 270px !important; }
+.form-horizontal .input-xxlarge	{ width: 530px !important; }
