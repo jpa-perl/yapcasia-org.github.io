@@ -9,7 +9,7 @@
 @font-face {
   font-family: "HelveticaNeue-LightExt";
   src: url('../fonts/HelveticaNeue-LightExt.eot');
-  src: url('../fonts/HelveticaNeue-LightExt.eot@') format('embedded-opentype'), url('../fonts/HelveticaNeue-LightExt.woff') format('woff'), url('http://yapcasia.org/2014/static/fonts/HelveticaNeue-LightExt.ttf') format('truetype'), url('../fonts/HelveticaNeue-LightExt.svg') format('svg');
+  src: url('../fonts/HelveticaNeue-LightExt.eot@') format('embedded-opentype'), url('../fonts/HelveticaNeue-LightExt.woff') format('woff'), url('/2014/static/fonts/HelveticaNeue-LightExt.ttf') format('truetype'), url('../fonts/HelveticaNeue-LightExt.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,7 +25,7 @@
 @font-face {
   font-family: "yapcasia_tokyo_2014";
   src: url('../fonts/yapcasia_tokyo_2014.eot');
-  src: url('../fonts/yapcasia_tokyo_2014.eot@') format('embedded-opentype'), url('../fonts/yapcasia_tokyo_2014.woff') format('woff'), url('../fonts/yapcasia_tokyo_2014.ttf') format('truetype'), url('http://yapcasia.org/2014/static/fonts/nts/yapcasia_tokyo_2014.svg') format('svg');
+  src: url('../fonts/yapcasia_tokyo_2014.eot@') format('embedded-opentype'), url('../fonts/yapcasia_tokyo_2014.woff') format('woff'), url('../fonts/yapcasia_tokyo_2014.ttf') format('truetype'), url('/2014/static/fonts/nts/yapcasia_tokyo_2014.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -3587,8 +3587,8 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
   position: relative;
   text-align: left;
   width: 80px;
-  -webkit-mask: url('http://yapcasia.org/2014/static/images/switch/mask.png') 0 0 no-repeat;
-  mask: url('http://yapcasia.org/2014/static/images/switch/mask.png') 0 0 no-repeat;
+  -webkit-mask: url('/2014/static/images/switch/mask.png') 0 0 no-repeat;
+  mask: url('/2014/static/images/switch/mask.png') 0 0 no-repeat;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -3679,8 +3679,8 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
 }
 .switch-square {
   border-radius: 6px;
-  -webkit-mask: url('http://yapcasia.org/2014/static/images/switch/mask.png') 0 0 no-repeat;
-  mask: url('http://yapcasia.org/2014/static/images/switch/mask.png') 0 0 no-repeat;
+  -webkit-mask: url('/2014/static/images/switch/mask.png') 0 0 no-repeat;
+  mask: url('/2014/static/images/switch/mask.png') 0 0 no-repeat;
 }
 .switch-square > div.switch-off label {
   border-color: #7f8c9a;
@@ -3873,7 +3873,7 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
   text-align: center;
 }
 .tile.tile-hot:before {
-  background: url(http://yapcasia.org/2014/static/images/tile/ribbon.png) 0 0 no-repeat;
+  background: url(/2014/static/images/tile/ribbon.png) 0 0 no-repeat;
   background-size: 82px 82px;
   content: '';
   height: 82px;
@@ -3902,7 +3902,7 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 2) {
   .tile.tile-hot:before {
-    background-image: url(http://yapcasia.org/2014/static/images/tile/ribbon-2x.png);
+    background-image: url(/2014/static/images/tile/ribbon-2x.png);
   }
 }
 .todo {
@@ -3918,7 +3918,7 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
   border-radius: 0 0 6px 6px;
 }
 .todo li {
-  background: #34495e url(http://yapcasia.org/2014/static/images/todo/todo.png) 92% center no-repeat;
+  background: #34495e url(/2014/static/images/todo/todo.png) 92% center no-repeat;
   background-size: 20px 20px;
   cursor: pointer;
 /*  font-size: 14px;*/
@@ -3937,7 +3937,7 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
   padding-bottom: 21px;
 }
 .todo li.todo-done {
-  background: transparent url(http://yapcasia.org/2014/static/images/todo/done.png) 92% center no-repeat;
+  background: transparent url(/2014/static/images/todo/done.png) 92% center no-repeat;
   background-size: 20px 20px;
   color: #e46145;
 }
@@ -4008,10 +4008,10 @@ input.todo-search-field.placeholder {
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 2) {
   .todo li {
-    background-image: url(http://yapcasia.org/2014/static/images/todo/todo-2x.png);
+    background-image: url(/2014/static/images/todo/todo-2x.png);
   }
   .todo li.todo-done {
-    background-image: url(http://yapcasia.org/2014/static/images/todo/done-2x.png);
+    background-image: url(/2014/static/images/todo/done-2x.png);
   }
 }
 .video-js {
@@ -4214,7 +4214,7 @@ body.vjs-full-window {
   margin: .5em auto 0;
 }
 .vjs-mute-control {
-  background: url(http://yapcasia.org/2014/static/images/video/volume-full.png) center -48px no-repeat;
+  background: url(/2014/static/images/video/volume-full.png) center -48px no-repeat;
   background-size: 16px 64px;
   cursor: pointer !important;
   position: absolute;
@@ -4227,10 +4227,10 @@ body.vjs-full-window {
 }
 .vjs-mute-control.vjs-vol-0,
 .vjs-mute-control.vjs-vol-0 div {
-  background-image: url(http://yapcasia.org/2014/static/images/video/volume-off.png);
+  background-image: url(/2014/static/images/video/volume-off.png);
 }
 .vjs-mute-control div {
-  background: #273747 url(http://yapcasia.org/2014/static/images/video/volume-full.png) no-repeat center 2px;
+  background: #273747 url(/2014/static/images/video/volume-full.png) no-repeat center 2px;
   background-size: 16px 64px;
   height: 18px;
   -webkit-transition: opacity 0.25s;
@@ -4337,7 +4337,7 @@ body.vjs-full-window {
   float: right;
 }
 .vjs-fullscreen-control {
-  background-image: url(http://yapcasia.org/2014/static/images/video/fullscreen.png);
+  background-image: url(/2014/static/images/video/fullscreen.png);
   background-position: center -47px;
   background-size: 15px 64px;
   cursor: pointer !important;
@@ -4351,7 +4351,7 @@ body.vjs-full-window {
 }
 .vjs-fullscreen-control div {
   height: 18px;
-  background: url(http://yapcasia.org/2014/static/images/video/fullscreen.png) no-repeat center 2px;
+  background: url(/2014/static/images/video/fullscreen.png) no-repeat center 2px;
   background-size: 15px 64px;
   -webkit-transition: opacity 0.25s;
   transition: opacity 0.25s;
@@ -4465,7 +4465,7 @@ body.vjs-full-window {
   animation: sharp 2s ease infinite;
 }
 .login {
-  background: url(http://yapcasia.org/2014/static/images/login/imac.png) 0 0 no-repeat;
+  background: url(/2014/static/images/login/imac.png) 0 0 no-repeat;
   background-size: 940px 778px;
   color: #ffffff;
   margin-bottom: 77px;
@@ -4552,7 +4552,7 @@ body.vjs-full-window {
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 2) {
   .login {
-    background-image: url(http://yapcasia.org/2014/static/images/login/imac-2x.png);
+    background-image: url(/2014/static/images/login/imac-2x.png);
   }
 }
 footer {
